@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "OWO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "OWO"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "OWO.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of OWO"
             }
           },
           {
@@ -176,11 +176,12 @@
   "active": "010feda6c1f4a99c",
   "lastOpenFiles": [
     "README.txt",
+    "ascii-art (1).txt",
     "ascii-art.txt",
     "Lab_02/Monje2 1.png",
     "Datasheets/Monje2.png",
     "Lab_01/Monje2 1.png",
-    "README.md",
+    "OWO.md",
     "Lab_02",
     "Untitled.md",
     "Prueba1.md"
