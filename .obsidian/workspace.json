@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repositorio para Electronica Digital 1.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Repositorio para Electronica Digital 1"
+              "title": "README"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repositorio para Electronica Digital 1.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Repositorio para Electronica Digital 1"
+              "title": "Outline of README"
             }
           },
           {
@@ -178,7 +178,7 @@
     "Lab_02/Monje2 1.png",
     "Datasheets/Monje2.png",
     "Lab_01/Monje2 1.png",
-    "Repositorio para Electronica Digital 1.md",
+    "README.md",
     "Lab_02",
     "Untitled.md",
     "Prueba1.md"
