@@ -1,0 +1,36 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "zpF_ucAe6Pu0_-XwY8fQC",
+      "name": "1",
+      "value": "#ff0000"
+    },
+    {
+      "id": "PjTtfys4dgbS-lfOHvd73",
+      "name": "2",
+      "value": "#4400ff"
+    },
+    {
+      "id": "zFJEnqxy2JDXFhf4Zi3k6",
+      "name": "3",
+      "value": "#00ff11"
+    },
+    {
+      "id": "3fKT12sAj4qx5rMgx_TwH",
+      "name": "4",
+      "value": "#eeff00"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Datasheets",
+      "color": "zpF_ucAe6Pu0_-XwY8fQC"
+    },
+    {
+      "path": "Lab_01",
+      "color": "zFJEnqxy2JDXFhf4Zi3k6"
+    }
+  ]
+}
