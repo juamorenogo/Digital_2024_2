@@ -8,7 +8,7 @@ Se establece se establece la relación entre los diferentes pines, tal como se m
 	nA --> Input
 	nY --> Output
 
-![](Imagenes/Im2.png | width= 10)
+![](Imagenes/Im2.png)
 
 Cada par de terminales relacionados por _nA_ y _nY_ representa un inversor.
 
