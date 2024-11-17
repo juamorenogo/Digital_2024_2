@@ -1,7 +1,7 @@
 
 En primer lugar se realiza la búsqueda de los diferentes valores para cada parámetro establecidos por el fabricante y  a su vez una descripción detallada del funcionamiento del **IC**. (Todos los datos recopilados se encuentran en la carpeta [Datasheets](https://github.com/juamorenogo/Digital_2024_2/tree/1c44c5a6ecf68e097588859868e095a7c471f29c/Datasheets/Lab_01).
 
-Se establece se establece la relación entre los diferentes pines, tal como se muestra en la siguiente imagen:
+Se establece la relación entre los diferentes pines, tal como se muestra en la siguiente imagen:
 
 	nA --> Input
 	nY --> Output
