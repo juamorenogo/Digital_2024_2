@@ -6,14 +6,14 @@ Se establece se establece la relación entre los diferentes pines, tal como se m
 	nA --> Input
 	nY --> Output
 
-![](Im2.png)
+![](Imagenes/Im2.png)
 
 Cada par de terminales relacionados por _nA_ y _nY_ representa un inversor.
 
-![](Im3.png)
+![](Imagenes/Im3.png)
 
 Por otro lado, se obtienen los datos tipicos dados por el fabricante para diferentes parametros:
 
-![](Im1.png)
+![](Imagenes/Im1.png)
 
 A su vez se realiza el montaje 
