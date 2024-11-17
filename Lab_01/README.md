@@ -10,7 +10,7 @@ Se establece se establece la relación entre los diferentes pines, tal como se m
 
 Cada par de terminales relacionados por _nA_ y _nY_ representa un inversor.
 
-![][Imagenes/Im3.png]
+![](Imagenes/Im3.png)
 
 Por otro lado, se obtienen los datos tipicos dados por el fabricante para diferentes parametros:
 
