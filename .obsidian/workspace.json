@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab_01/Desarrollo.md",
+                "file": "Lab_01/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Desarrollo"
+              "title": "README"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_01/Desarrollo.md"
+                "file": "Lab_01/README.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Desarrollo"
+              "title": "Outline of README"
             }
           },
           {
@@ -173,11 +173,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "124b7fef2e8355da",
+  "active": "010feda6c1f4a99c",
   "lastOpenFiles": [
     "Lab_01/Imagenes/Im2.png",
     "Lab_01/Imagenes/Im1.png",
-    "Lab_01/Desarrollo.md",
+    "Lab_01/README.md",
     "Lab_01/Imagenes",
     "Lab_01/Monje2 1.png",
     "Lab_02/Monje2 1.png",
