@@ -20,6 +20,5 @@ Las ondas resultantes ilustran el comportamiento esperado de un compuerta lógic
 Con esto, se confirma que el modelo _SPICE_ si cumple con la función principal esperada, por lo que se procede a realizar las diferentes partes del laboratorio.
 
 ---
-aWA
 
 [Volver](https://github.com/juamorenogo/Digital_2024_2/tree/26a47a6bd1fcc4fa1a1116bc083f443adbe2a739/Lab_01/SN70LS04)
