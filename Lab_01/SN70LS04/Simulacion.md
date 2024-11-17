@@ -17,3 +17,4 @@ Las ondas resultantes ilustran el comportamiento esperado de un compuerta lógic
 
 ![|400](Imagenes/Im6.png)
 
+[Volver](Lab_01/SN70LS04)
