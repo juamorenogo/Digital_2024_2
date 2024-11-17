@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab_01/SN70LS04/Simulacion.md",
+                "file": "Lab_01/SN70LS04/Preparacion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Simulacion"
+              "title": "Preparacion"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_01/SN70LS04/Simulacion.md"
+                "file": "Lab_01/SN70LS04/Preparacion.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Simulacion"
+              "title": "Outline of Preparacion"
             }
           },
           {
@@ -175,8 +175,8 @@
   },
   "active": "a3e120d757d8e5a1",
   "lastOpenFiles": [
-    "Lab_01/SN70LS04/Preparacion.md",
     "Lab_01/SN70LS04/Simulacion.md",
+    "Lab_01/SN70LS04/Preparacion.md",
     "Lab_01/SN70LS04/Parte1.md",
     "Lab_01/SN70LS04/README.md",
     "Lab_01/SN70LS04/Parte2.md",
