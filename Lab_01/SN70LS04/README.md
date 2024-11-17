@@ -8,11 +8,15 @@ Se establece se establece la relación entre los diferentes pines, tal como se m
 	nA --> Input
 	nY --> Output
 
-![](Imagenes/Im2.png)
+![|200](Imagenes/Im2.png)
 
 Cada par de terminales relacionados por _nA_ y _nY_ representa un inversor.
 
 ![](Imagenes/Im3.png)
+
+El circuito equivalente entregado por el datasheet se detalla a continuación, donde se puede apreciar el uso de transistores _BJT NPN_, esto debido a que el funcionamiento de esta compuerta logica se basa en la topologia basica _TTL (Transistor - Transistor Logic)_.
+
+![|300](Imagenes/Im4.png)
 
 Por otro lado, se obtienen los datos típicos dados por el fabricante para diferentes parámetros:
 
