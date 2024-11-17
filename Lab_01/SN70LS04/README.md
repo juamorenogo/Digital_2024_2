@@ -21,5 +21,7 @@ Por otro lado, se obtienen los datos típicos dados por el fabricante para difer
 ---
 ### Simulación
 Para simular el comportamiento se usaron los modelos _SPICE_ obtenidos desde la siguiente referencia:
+
 * ([2024-2/labs/lab01/spice at main · digital-electronics-UNAL/2024-2](https://github.com/digital-electronics-UNAL/2024-2/tree/main/labs/lab01/spice))
+
 En primer lugar se realiza un montaje de prueba del circuito, donde se plantea visualizar si cumple con el comportamiento básico esperado de compuerta *NOT / Negador / Inversor*.
