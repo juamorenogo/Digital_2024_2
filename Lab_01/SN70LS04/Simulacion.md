@@ -7,7 +7,7 @@ En primer lugar se realiza un montaje de prueba del circuito, donde se plantea v
 
 ![](Imagenes/Im5.png)
 
-Se aplica una tensión de alimentación de *5 V* entre los pines _VCC_ y _GND_. A su vez, se conecta en el pin de entrada _A_ una fuente generadora de señales con las siguientes características:
+Se aplica una tensión de alimentación de *5 V* entre los pines _VCC_ y _GND_. A su vez, se conecta en el pin de entrada _A_, una fuente generadora de señales con las siguientes características:
 
 * Frecuencia de *1 kHz*.
 * Amplitud de *5 V* ( Posteriormente variando entre *1.5 V* - *5 V* en _ViH_ ).
