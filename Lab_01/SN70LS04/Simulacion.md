@@ -16,3 +16,4 @@ Se aplica una tensión de alimentación de *5 V* entre los pines _VCC_ y _GND_. 
 Las ondas resultantes ilustran el comportamiento esperado de un compuerta lógica _NOT_ , tal como se muestra a continuación:
 
 ![|400](Imagenes/Im6.png)
+
