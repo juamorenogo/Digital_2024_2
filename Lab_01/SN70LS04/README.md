@@ -14,7 +14,7 @@ Cada par de terminales relacionados por _nA_ y _nY_ representa un inversor.
 
 ![](Imagenes/Im3.png)
 
-El circuito equivalente entregado por el datasheet se detalla a continuación, donde se puede apreciar el uso de transistores _BJT NPN_, esto debido a que el funcionamiento de esta compuerta logica se basa en la topologia basica _TTL (Transistor - Transistor Logic)_.
+El circuito equivalente entregado por el datasheet se detalla a continuación, donde se puede apreciar el uso de transistores _BJT NPN_, esto debido a que el funcionamiento de esta compuerta lógica se basa en la topología básica _TTL (Transistor - Transistor Logic)_.
 
 ![|300](Imagenes/Im4.png)
 
