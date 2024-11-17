@@ -11,12 +11,14 @@
             "id": "124b7fef2e8355da",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Lab_02/Monje2 1.png"
+                "file": "Lab_01/Desarrollo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Monje2 1"
+              "icon": "lucide-file",
+              "title": "Desarrollo"
             }
           }
         ]
@@ -137,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_02/Monje2 1.png"
+                "file": "Lab_01/Desarrollo.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Monje2 1"
+              "title": "Outline of Desarrollo"
             }
           },
           {
@@ -173,17 +175,20 @@
   },
   "active": "124b7fef2e8355da",
   "lastOpenFiles": [
+    "Lab_01/Imagenes/Im2.png",
+    "Lab_01/Imagenes/Im1.png",
+    "Lab_01/Desarrollo.md",
+    "Lab_01/Imagenes",
+    "Lab_01/Monje2 1.png",
+    "Lab_02/Monje2 1.png",
     "OWO.md",
     "README.txt",
     "ascii-art (3).txt",
     "ascii-art (2).txt",
     "ascii-art (1).txt",
     "ascii-art.txt",
-    "Lab_02/Monje2 1.png",
     "Datasheets/Monje2.png",
-    "Lab_01/Monje2 1.png",
     "Lab_02",
-    "Untitled.md",
     "Prueba1.md"
   ]
 }
