@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab_01/SN70LS04/README.md",
+                "file": "Lab_01/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_01/SN70LS04/README.md"
+                "file": "Lab_01/README.md"
               },
               "icon": "lucide-list",
               "title": "Outline of README"
@@ -190,8 +190,8 @@
   },
   "active": "c43853a2156a66fb",
   "lastOpenFiles": [
-    "Lab_01/README.md",
     "Lab_01/SN70LS04/README.md",
+    "Lab_01/README.md",
     "[.md",
     "Lab_01/SN70LS04",
     "Lab_01/SN70LS04/Imagenes/Im3.png",
