@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "c43853a2156a66fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lab_01/SN70LS04/README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,12 +173,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c43853a2156a66fb",
+  "active": "124b7fef2e8355da",
   "lastOpenFiles": [
+    "Digital_2024_2/Datasheets/Lab_01.md",
+    "Lab_01/SN70LS04/README.md",
+    "Digital_2024_2/Datasheets",
+    "Digital_2024_2",
     "Lab_01/README.md",
     "SN70LS04.md",
     "Lab_01/CD4069",
-    "Lab_01/SN70LS04/README.md",
     "[.md",
     "Lab_01/SN70LS04",
     "Lab_01/SN70LS04/Imagenes/Im3.png",
@@ -209,7 +197,6 @@
     "ascii-art (1).txt",
     "ascii-art.txt",
     "Datasheets/Monje2.png",
-    "Lab_02",
     "Prueba1.md"
   ]
 }
