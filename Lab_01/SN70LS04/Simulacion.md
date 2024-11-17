@@ -17,7 +17,7 @@ Las ondas resultantes ilustran el comportamiento esperado de un compuerta lógic
 
 ![|400](Imagenes/Im6.png)
 
-Con esto, se confirma que el modelo _SPICE_ si cumple con la funcion principal esperada, por lo que se procede a realizar las diferentes partes del laboratorio.
+Con esto, se confirma que el modelo _SPICE_ si cumple con la función principal esperada, por lo que se procede a realizar las diferentes partes del laboratorio.
 
 ---
 aWA
