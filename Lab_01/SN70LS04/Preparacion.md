@@ -20,8 +20,6 @@ Por otro lado, se obtienen los datos típicos dados por el fabricante para difer
 
 ![](Imagenes/Im1.png)
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
 
 ---
 
