@@ -3,8 +3,8 @@ En primer lugar se realiza la búsqueda de los diferentes valores para cada par�
 
 Se establece se establece la relación entre los diferentes pines, tal como se muestra en la siguiente imagen:
 
-	A --> Input
-	Y --> Output
+	nA --> Input
+	nY --> Output
 
 ![](Imagenes/Im2.png)
 
