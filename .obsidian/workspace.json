@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab_01/SN70LS04/Parte3.md",
+                "file": "Lab_01/SN70LS04/Parte1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parte3"
+              "title": "Parte1"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_01/SN70LS04/Parte3.md"
+                "file": "Lab_01/SN70LS04/Parte1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Parte3"
+              "title": "Outline of Parte1"
             }
           },
           {
@@ -175,12 +175,12 @@
   },
   "active": "a3e120d757d8e5a1",
   "lastOpenFiles": [
+    "Lab_01/SN70LS04/Simulacion.md",
+    "Lab_01/SN70LS04/Parte1.md",
+    "Lab_01/SN70LS04/Parte3.md",
     "Lab_01/SN70LS04/Preparacion.md",
     "Lab_01/SN70LS04/Parte2.md",
-    "Lab_01/SN70LS04/Parte1.md",
-    "Lab_01/SN70LS04/Simulacion.md",
     "Lab_01/SN70LS04/README.md",
-    "Lab_01/SN70LS04/Parte3.md",
     "Lab_02/Monje2 1.png",
     "Lab_01/SN70LS04/Imagenes/Im6.png",
     "Lab_01/SN70LS04/Imagenes/Im6.png",
