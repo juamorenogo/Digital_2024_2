@@ -21,4 +21,4 @@ Con esto, se confirma que el modelo _SPICE_ si cumple con la función principal 
 
 ---
 
-[Volver](https://github.com/juamorenogo/Digital_2024_2/tree/26a47a6bd1fcc4fa1a1116bc083f443adbe2a739/Lab_01/SN70LS04)
+[Volver](https://github.com/juamorenogo/Digital_2024_2/tree/main/Lab_01/SN70LS04))
