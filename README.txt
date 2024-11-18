@@ -1,5 +1,8 @@
                       --------------------Repositorio Electronica Digital 1 --------------------
 
+					  Juan Sebastian Moreno Gonzalez
+					  Jaime Andres Martin Moreno
+						     2024-2
 
 
 .................................:-::....::-----::.......................:::-............::.............................
