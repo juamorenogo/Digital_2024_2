@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6ebdc19c66757fd1",
+        "id": "69a9a8f5513df071",
         "type": "tabs",
         "children": [
           {
-            "id": "a3e120d757d8e5a1",
+            "id": "b0865259c7b27aa2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lab_01/SN70LS04/Simulacion.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Simulacion"
+              "title": "New tab"
             }
           }
         ]
@@ -138,11 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lab_01/SN70LS04/Simulacion.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Simulacion"
+              "title": "Outline"
             }
           },
           {
@@ -173,8 +167,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3e120d757d8e5a1",
+  "active": "b0865259c7b27aa2",
   "lastOpenFiles": [
+    "Lab_01/SN70LS04/Simulacion.md",
     "Lab_01/SN70LS04/SPICE/Simulacion1.asc",
     "Lab_01/SN70LS04/SPICE",
     "Lab_01/SN70LS04/README.md",
@@ -182,7 +177,6 @@
     "Lab_01/SN70LS04/Parte3.md",
     "Lab_01/SN70LS04/Parte2.md",
     "Lab_01/SN70LS04/Parte1.md",
-    "Lab_01/SN70LS04/Simulacion.md",
     "Lab_02/Monje2 1.png",
     "Lab_01/SN70LS04/Imagenes/Im6.png",
     "Lab_01/SN70LS04/Imagenes/Im6.png",
@@ -206,7 +200,6 @@
     "README.txt",
     "ascii-art (3).txt",
     "ascii-art (2).txt",
-    "ascii-art (1).txt",
     "Prueba1.md"
   ]
 }
