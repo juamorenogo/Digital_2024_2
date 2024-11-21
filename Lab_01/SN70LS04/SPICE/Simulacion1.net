@@ -1,0 +1,9 @@
+* C:\Users\Sebastian Moreno\Documents\GitHub\Digital_2024_2\Lab_01\SN70LS04\SPICE\Simulacion1.asc
+XU1 NodoResistencia In N001 0 SN74LS04
+V1 N001 0 5
+V2 In 0 5
+R1 0 NodoResistencia 1k
+.tran 5m uic
+.lib C:\Users\Sebastian Moreno\AppData\Local\LTspice\lib\sym\propios\SN74LS04.cir
+.backanno
+.end
