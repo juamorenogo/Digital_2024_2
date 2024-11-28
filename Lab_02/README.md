@@ -1,6 +1,8 @@
+
+
 Índice:
-owo
-PRUEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+1)
+
 ---
 ### Monitoreo del estado de carga de una batería.
 
