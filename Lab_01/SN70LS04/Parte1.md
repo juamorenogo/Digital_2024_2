@@ -1,4 +1,4 @@
-Parte1
+En primer lugar se comprueba que el comportamiento de las compuertas sea el espado, para esto se aplica una tension 
 
 
 
