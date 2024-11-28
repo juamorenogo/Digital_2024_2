@@ -41,17 +41,36 @@ tr : 33.2 ns
 
 Para esto se mide el tiempo de subida de la onda de salida usando _Measures_ en el scope, esto arroja lo siguiente :
 
-tr80 : ?
-tr : 33.8 ns
+tf80 : 19.6 ns
+tf : 29.4 ns
 
 ## Tiempo de retardo
 
+### 3. **Tiempo de Retardo de Propagación (tphlt_{phl}tphl​ y tplht_{plh}tplh​)**
+
+El **tiempo de retardo de propagación** es el tiempo que tarda la señal de salida en responder a un cambio en la señal de entrada. Se mide en dos direcciones:
+
+- **tplht_{plh}tplh​**: Tiempo de retardo cuando la salida cambia de baja a alta (Propagación de Bajo a Alto).
+- **tphlt_{phl}tphl​**: Tiempo de retardo cuando la salida cambia de alta a baja (Propagación de Alto a Bajo).
+
+YA SE TIENEN LOS DATOS
 ## Tiempo de Almacenamiento
 
+### . **Tiempo de Almacenamiento (o Tiempo de Retención)**
 
+El **tiempo de almacenamiento** se refiere al tiempo que la salida mantiene su estado después de que se ha aplicado una señal de entrada, especialmente en puertas que tienen memorias internas como los flip-flops o registros.
 
+#### Procedimiento:
 
+- **Generador de señales**: Configura el generador para que aplique un pulso de duración conocida en la entrada.
+- **Osciloscopio**: Conecta la salida al osciloscopio y observa el comportamiento.
+    - Mide el tiempo durante el cual la salida se mantiene en un estado constante (puede ser alto o bajo) después de la aplicación del pulso de entrada.
+
+**Resultado**: El **tiempo de almacenamiento** es el tiempo que la salida permanece estable antes de que el siguiente cambio ocurra, si es que hay un siguiente cambio.
+
+¿No aplica?
 
 ---
+
 
 [Volver](https://github.com/juamorenogo/Digital_2024_2/tree/main/Lab_01/SN70LS04)
