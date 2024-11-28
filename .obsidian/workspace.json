@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab_01/SN70LS04/Parte1.md",
+                "file": "Lab_01/CD4069/Parte1.md",
                 "mode": "source",
                 "source": false
               },
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_01/SN70LS04/Parte1.md"
+                "file": "Lab_01/CD4069/Parte1.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Parte1"
@@ -173,12 +173,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6dc1bdc53ac2df97",
+  "active": "a3e120d757d8e5a1",
   "lastOpenFiles": [
+    "Lab_01/CD4069/Parte2.md",
+    "Lab_01/SN70LS04/Parte1.md",
     "Lab_01/CD4069/README.md",
     "Lab_01/CD4069/Preparacion.md",
     "Lab_01/CD4069/Parte3.md",
-    "Lab_01/CD4069/Parte2.md",
     "Lab_01/CD4069/Parte1.md",
     "Lab_01/CD4069/SPICE/Simulacion1.raw",
     "Lab_01/CD4069/SPICE/Simulacion1.log",
@@ -192,7 +193,6 @@
     "Lab_01/CD4069/Simulacion.md",
     "Pasted image 20241128144020.png",
     "conflict-files-obsidian-git.md",
-    "Lab_01/SN70LS04/Parte1.md",
     "Lab_02/README.md",
     "Lab_01/SN70LS04/Preparacion.md",
     "Lab_01/SN70LS04/Simulacion.md",
