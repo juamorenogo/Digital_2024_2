@@ -1,6 +1,10 @@
-Índice:
 
 Owo PRUEBA LINUX
+
+Índice:
+1)
+
+Todo aqui y alli manoseo pues lo poseo soy algo y soy mioooooo turururururuur
 
 ---
 ### Monitoreo del estado de carga de una batería.
