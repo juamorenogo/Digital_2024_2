@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab_01/CD4069/Parte1.md",
+                "file": "Lab_01/CD4069/Parte1 CD4069.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parte1"
+              "title": "Parte1 CD4069"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_01/CD4069/Parte1.md"
+                "file": "Lab_01/CD4069/Parte1 CD4069.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Parte1"
+              "title": "Outline of Parte1 CD4069"
             }
           },
           {
@@ -173,14 +173,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3e120d757d8e5a1",
+  "active": "010feda6c1f4a99c",
   "lastOpenFiles": [
     "Lab_01/CD4069/Parte2.md",
     "Lab_01/SN70LS04/Parte1.md",
     "Lab_01/CD4069/README.md",
     "Lab_01/CD4069/Preparacion.md",
     "Lab_01/CD4069/Parte3.md",
-    "Lab_01/CD4069/Parte1.md",
+    "Lab_01/CD4069/Parte1 CD4069.md",
     "Lab_01/CD4069/SPICE/Simulacion1.raw",
     "Lab_01/CD4069/SPICE/Simulacion1.log",
     "Lab_01/CD4069/Imagenes/Im6.png",
