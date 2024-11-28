@@ -1,4 +1,7 @@
-En primer lugar se comprueba que el comportamiento de las compuertas sea el espado, para esto se aplica una tensión 
+En primer lugar se comprueba que el comportamiento de las compuertas sea el esperado, para esto se aplica una tensión en forma de onda cuadrada a **1 kHz** y se comprueba su comportamiento negador en la siguiente imagen:
+
+
+
 
 
 
