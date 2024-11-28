@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab_01/CD4069/Parte1 CD4069.md",
+                "file": "Lab_01/CD4069/Parte2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parte1 CD4069"
+              "title": "Parte2"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_01/CD4069/Parte1 CD4069.md"
+                "file": "Lab_01/CD4069/Parte2.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Parte1 CD4069"
+              "title": "Outline of Parte2"
             }
           },
           {
@@ -175,8 +175,10 @@
   },
   "active": "a3e120d757d8e5a1",
   "lastOpenFiles": [
-    "Lab_01/SN70LS04/Parte1 SN70LS04.md",
+    "Pasted image 20241128162820.png",
+    "Pasted image 20241128162720.png",
     "Lab_01/CD4069/Parte1 CD4069.md",
+    "Lab_01/SN70LS04/Parte1 SN70LS04.md",
     "Lab_01/CD4069/Parte2.md",
     "Lab_01/CD4069/README.md",
     "Lab_01/CD4069/Preparacion.md",
@@ -207,7 +209,6 @@
     "Lab_01/SN70LS04/Parte3.md",
     "Lab_01/SN70LS04/Parte2.md",
     "Lab_02/Monje2 1.png",
-    "Lab_01/SN70LS04/Imagenes/Im6.png",
     "Lab_01/SN70LS04/Imagenes/Im6.png",
     "Digital_2024_2/Datasheets/Lab_01.md",
     "Lab_01/README.md",
