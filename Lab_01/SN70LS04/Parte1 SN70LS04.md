@@ -27,8 +27,26 @@ Por la tabla anterior se concluye que :
 ### TTL : "1" Lógico  --> [3 V - 5V]
 ### TTL : "0" Lógico  --> [0 V - 2V]
 
+--- 
 
-En el caso del TTL, se obtuvo que:
+Ahora se procede a medir el tiempo de subida, tiempo de bajada, tiempo de retardo, tiempo de almacenamiento para cada dispositivo. Se usara una alimentación de **5V** y se dará a la entrada una onda cuadrada de amplitud (HL 5V - 0V) a 1 kHz.
+
+## Tiempo de Subida
+
+Para esto se mide el tiempo de subida de la onda de salida usando _Measures_ en el scope, esto arroja lo siguiente :
+
+tr80 : 26.3 ns
+tr : 33.2 ns
+## Tiempo de Bajada
+
+Para esto se mide el tiempo de subida de la onda de salida usando _Measures_ en el scope, esto arroja lo siguiente :
+
+tr80 : ?
+tr : 33.8 ns
+
+## Tiempo de retardo
+
+## Tiempo de Almacenamiento
 
 
 

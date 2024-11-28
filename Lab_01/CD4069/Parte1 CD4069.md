@@ -33,7 +33,6 @@ Por la tabla anterior se concluye que :
 ### CMOS : "0" Lógico  --> [0 V - 1.5V]
 
 
-En el caso del CMOS, se obtuvo que:
 
 
 
