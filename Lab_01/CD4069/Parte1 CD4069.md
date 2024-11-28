@@ -29,11 +29,11 @@ Por lo mismo, se medirá el voltaje de la resistencia para conocer el voltaje en
 
 Por la tabla anterior se concluye que :
 
-### TTL : "1" Lógico  --> [3 V - 5V]
-### TTL : "0" Lógico  --> [0 V - 2V]
+### CMOS : "1" Lógico  --> [3.8 V - 5V]
+### CMOS : "0" Lógico  --> [0 V - 1.5V]
 
 
-En el caso del TTL, se obtuvo que:
+En el caso del CMOS, se obtuvo que:
 
 
 
