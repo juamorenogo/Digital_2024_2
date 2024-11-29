@@ -7,26 +7,26 @@ Posteriormente se platea medir los intervalos de "1" y "0" lógicos usando un pr
 
 ![[Pasted image 20241128144020.png]] ***(CAMBIAR IMAGEN)***
 
-Por lo mismo, se medirá el voltaje de la resistencia para conocer el voltaje en diferentes momentos de voltaje y asi estimar el intervalo:
+Por lo mismo, se medirá el voltaje de la resistencia para conocer el voltaje en diferentes momentos de voltaje y así estimar el intervalo:
 
 | Vcc     | V1a     | Vr (mV) | I_out (mA) |
 | ------- | ------- | ------- | ---------- |
-| 4.995 V | 5V      | 1.4     | 1.4        |
-| 4.990 V | 4.794 V | 1.4     | 1.4        |
-| 4.995 V | 4.698V  | 1.4     | 1.4        |
-| 4.990 V | 4.298 V | 1.4     | 1.4        |
-| 4.992V  | 3.949 V | 1.5     | 1.5        |
-| 4.989 V | 3.805 V | 3.1     | 3.1        |
-| 4.995 V | 2.896 V | 170     | 170        |
-| 4.990 V | 2.51 V  | 425     | 425        |
-| 4.992V  | 2.20 V  | 889     | 889        |
-| 4.989 V | 2.1 V   | 1058    | 1.06       |
-| 4.989 V | 2.004 V | 1217    | 1.22       |
-| 4.990 V | 1.797 V | 1550    | 1.55       |
-| 4.992V  | 1.702 V | 1688    | 1.688      |
-| 4.995 V | 1.590 V | 1850    | 1.85       |
-| 4.990 V | 1.51 V  | 1900    | 1.9        |
-| 4.992V  | 0.995 V | 2670    | 2.67       |
+| 4.995 V | 5V      | 1.4     | 1.4 uA     |
+| 4.990 V | 4.794 V | 1.4     | 1.4 uA     |
+| 4.995 V | 4.698V  | 1.4     | 1.4 uA     |
+| 4.990 V | 4.298 V | 1.4     | 1.4 uA     |
+| 4.992V  | 3.949 V | 1.5     | 1.5 uA     |
+| 4.989 V | 3.805 V | 3.1     | 3.1 uA     |
+| 4.995 V | 2.896 V | 170     | 1.7 mA     |
+| 4.990 V | 2.51 V  | 425     | 4.25 mA    |
+| 4.992V  | 2.20 V  | 889     | 8.89 mA    |
+| 4.989 V | 2.1 V   | 1058    | 1.06 mA    |
+| 4.989 V | 2.004 V | 1217    | 1.22 mA    |
+| 4.990 V | 1.797 V | 1550    | 1.55 mA    |
+| 4.992V  | 1.702 V | 1688    | 1.68 mA    |
+| 4.995 V | 1.590 V | 1850    | 1.85 mA    |
+| 4.990 V | 1.51 V  | 1900    | 1.97 mA    |
+| 4.992V  | 0.995 V | 2670    | 2.67 mA    |
 
 Por la tabla anterior se concluye que :
 
