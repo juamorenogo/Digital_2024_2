@@ -13,7 +13,7 @@ Para poder separar el **"1"** lógico del **"0"** lógico,  se opta por basarse 
 
 ![[Pasted image 20241128144020.png]]
 
-Por lo mismo, se medirá el voltaje de la resistencia para conocer la corriente de salida y asi estimar el intervalo:
+Por lo mismo, se medirá el voltaje de la resistencia para conocer la corriente de salida y así estimar el intervalo:
 
 | **Vcc**   | **Voltaje de salida (V)** | **Voltaje de entrada (V)** | **Corriente (mA)** |
 |-----------|---------------------------|----------------------------|---------------------|
@@ -35,15 +35,14 @@ Por lo mismo, se medirá el voltaje de la resistencia para conocer la corriente 
 | 4.990 V   | 0.802 V                   | 4.800 V                    | 7.0 mA              |
 | 4.992 V   | 0.500 V                   | 4.750 V                    | 8.0 mA              |
 
-
 Por la tabla anterior se concluye que :
 
-### TTL : "1" Lógico  --> [3 V - 5V]
-### TTL : "0" Lógico  --> [0 V - 0.8V]
+##### TTL : "1" Lógico  --> [3 V - 5V]
+##### TTL : "0" Lógico  --> [0 V - 0.8V]
 
 --- 
 
-Ahora se procede a medir el tiempo de subida, tiempo de bajada, tiempo de retardo, tiempo de almacenamiento para cada dispositivo. Se usara una alimentación de **5V** y se dará a la entrada una onda cuadrada de amplitud (HL 5V - 0V) a 1 kHz.
+Ahora se procede a medir el **tiempo de subida**, **tiempo de bajada** y **tiempo de retardo** . Se usara una alimentación de **5V** y se dará a la entrada una onda cuadrada de amplitud de **0V** a **5V** a _1 kHz_.
 
 ## Tiempo de Subida
 
@@ -60,7 +59,7 @@ tf : 29.4 ns
 
 ## Tiempo de retardo
 
-### 3. **Tiempo de Retardo de Propagación (tphlt_{phl}tphl​ y tplht_{plh}tplh​)**
+### Tiempo de Retardo de Propagación (tphlt_{phl}tphl​ y tplht_{plh}tplh​)
 
 El **tiempo de retardo de propagación** es el tiempo que tarda la señal de salida en responder a un cambio en la señal de entrada. Se mide en dos direcciones:
 
@@ -68,21 +67,7 @@ El **tiempo de retardo de propagación** es el tiempo que tarda la señal de sal
 - **tphlt_{phl}tphl​**: Tiempo de retardo cuando la salida cambia de alta a baja (Propagación de Alto a Bajo).
 
 YA SE TIENEN LOS DATOS
-## Tiempo de Almacenamiento
 
-### . **Tiempo de Almacenamiento (o Tiempo de Retención)**
-
-El **tiempo de almacenamiento** se refiere al tiempo que la salida mantiene su estado después de que se ha aplicado una señal de entrada, especialmente en puertas que tienen memorias internas como los flip-flops o registros.
-
-#### Procedimiento:
-
-- **Generador de señales**: Configura el generador para que aplique un pulso de duración conocida en la entrada.
-- **Osciloscopio**: Conecta la salida al osciloscopio y observa el comportamiento.
-    - Mide el tiempo durante el cual la salida se mantiene en un estado constante (puede ser alto o bajo) después de la aplicación del pulso de entrada.
-
-**Resultado**: El **tiempo de almacenamiento** es el tiempo que la salida permanece estable antes de que el siguiente cambio ocurra, si es que hay un siguiente cambio.
-
-¿No aplica?
 
 ---
 
