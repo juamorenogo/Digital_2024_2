@@ -8,19 +8,19 @@ Posteriormente se platea medir los intervalos de "1" y "0" lógicos usando un pr
 
 Por lo mismo, se medirá el voltaje de la resistencia para conocer el voltaje en diferentes momentos de voltaje y asi estimar el intervalo:
 
-| Vcc     | V1a     | Vr      | Iout  |
-| ------- | ------- | ------- | ----- |
-| 4.995 V | 5V      | 0.4 mV  | 0     |
-| 4.990 V | 4.742 V | 0.4 mV  |       |
-| 4.995 V | 4 V     | 0.4 mV  |       |
-| 4.990 V | 3.498 V | 0.5 mV  |       |
-| 4.992V  | 3.096 V | 0.6 mV  |       |
-| 4.989 V | 3.001 V | 0.6 mV  | 600mA |
-| 4.995 V | 2.956 V | 2.290 V | 2 mA  |
-| 4.990 V | 2.49 V  | 2.444 V |       |
-| 4.992V  | 2.2 V   | 2.926 V |       |
-| 4.989 V | 2.1 V   | 4.880 V |       |
-| 4.989 V | 1.895 V | 4.876 V |       |
+| Vcc     | V1a     | Vr      | Iout   |
+| ------- | ------- | ------- | ------ |
+| 4.995 V | 5V      | 0.4 mV  | 0.4 mA |
+| 4.990 V | 4.742 V | 0.4 mV  | 0.4 mA |
+| 4.995 V | 4 V     | 0.4 mV  | 0.4 mA |
+| 4.990 V | 3.498 V | 0.5 mV  | 0.5 mA |
+| 4.992V  | 3.096 V | 0.6 mV  | 0.6 mA |
+| 4.989 V | 3.001 V | 0.6 mV  | 0.6 mA |
+| 4.995 V | 2.956 V | 2.290 V | 2.2 mA |
+| 4.990 V | 2.49 V  | 2.444 V | 2.4 mA |
+| 4.992V  | 2.2 V   | 2.926 V | 2.9 mA |
+| 4.989 V | 2.1 V   | 4.880 V | 4.8 mA |
+| 4.989 V | 1.895 V | 4.876 V | 4.8 mA |
 
 Por la tabla anterior se concluye que :
 
