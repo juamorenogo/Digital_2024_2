@@ -11,14 +11,12 @@
             "id": "b0865259c7b27aa2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Lab_01/CD4069/1_Preparacion.md",
-                "mode": "source",
-                "source": false
+                "file": "Lab_01/CD4069/Imagenes/Pasted image 20241128162720.png"
               },
-              "icon": "lucide-file",
-              "title": "1_Preparacion"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241128162720"
             }
           }
         ]
@@ -139,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_01/CD4069/1_Preparacion.md"
+                "file": "Lab_01/CD4069/Imagenes/Pasted image 20241128162720.png"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1_Preparacion"
+              "title": "Outline of Pasted image 20241128162720"
             }
           },
           {
@@ -175,16 +173,26 @@
   },
   "active": "b0865259c7b27aa2",
   "lastOpenFiles": [
+    "Lab_01/SN70LS04/Parte1 SN70LS04.md",
+    "Lab_01/SN70LS04/2_Simulacion.md",
+    "Lab_01/SN70LS04/1_Preparacion.md",
+    "Lab_01/SN70LS04/Imagenes/Im4.png",
+    "Lab_01/SN70LS04/Imagenes/Im3.png",
+    "Lab_01/SN70LS04/Imagenes/Im2.png",
+    "Lab_01/SN70LS04/Imagenes/Im1.png",
+    "Lab_01/SN70LS04/Imagenes/C1SN.png",
+    "Lab_01/CD4069/1_Preparacion.md",
+    "Lab_01/CD4069/Imagenes/Pasted image 20241128162820.png",
+    "Lab_01/CD4069/Imagenes/Pasted image 20241128144020.png",
+    "Lab_01/CD4069/Imagenes/Pasted image 20241128162720.png",
     "Lab_01/CD4069/Parte1 CD4069.md",
+    "Lab_01/CD4069/Imagenes/Im3.png",
+    "Datasheets/Lab_01/CD4069.PDF",
     "Lab_01/SN70LS04/README.md",
     "Lab_01/CD4069/README.md",
     "Lab_01/CD4069/2_Simulacion.md",
-    "Lab_01/CD4069/1_Preparacion.md",
-    "Lab_01/SN70LS04/Parte1 SN70LS04.md",
     "Lab_01/SN70LS04/Parte2 SN70LS04.md",
     "Lab_01/SN70LS04/Parte3 SN70LS04.md",
-    "Lab_01/SN70LS04/2_Simulacion.md",
-    "Lab_01/SN70LS04/1_Preparacion.md",
     "Datasheets/Lab_01/74LS04.PDF",
     "Datasheets/Lab_01/CD4069UBC.PDF",
     "Datasheets/Lab_01/HD74LS04 (1).PDF",
@@ -192,23 +200,13 @@
     "Datasheets/Lab_01/SN5404.PDF",
     "Datasheets/Lab_01/74LS04 (1).PDF",
     "Lab_01/SN70LS04/Imagenes/SCR01.png",
-    "Lab_01/SN70LS04/Imagenes/Im2.png",
-    "Lab_01/SN70LS04/Imagenes/Im1.png",
-    "Lab_01/SN70LS04/Imagenes/C1SN.png",
     "Lab_01/CD4069/Parte3 CD4069.md",
     "Lab_01/CD4069/Parte2 CD4069.md",
     "Lab_01/README.md",
-    "Lab_01/CD4069/Imagenes/Im2.png",
-    "Lab_01/CD4069/Imagenes/Im6.png",
-    "Lab_01/CD4069/Imagenes/Im5.png",
-    "Lab_01/CD4069/Imagenes/Im4.png",
-    "Lab_01/CD4069/Imagenes/Im3.png",
-    "Lab_01/CD4069/Imagenes/Im1.png",
     "Lab_02/README.md",
     "Lab_01/SN70LS04/SPICE/Simulacion1.raw",
     "Lab_01/SN70LS04/SPICE/Simulacion1.log",
     "Lab_01/CD4069/SPICE/Simulacion1.raw",
-    "Lab_01/CD4069/SPICE/Simulacion1.log",
     "conflict-files-obsidian-git.md",
     "Lab_01/SN70LS04/Parte1.md",
     "Digital_2024_2/Datasheets/Lab_01.md",
