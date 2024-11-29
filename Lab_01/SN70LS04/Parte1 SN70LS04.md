@@ -2,10 +2,14 @@ En primer lugar se comprueba que el comportamiento de las compuertas sea el espe
 
 ![[SCR01.png]]
 
-Posteriormente se platea medir los intervalos de "1" y "0" lógicos usando un primer canal de una fuente DC que suministrara el nivel de voltaje de alimentación en los pines _VCC _y _GND_.  Para la señal se usara otro canal de la fuente DC que ira variando de **0V a 5V0**  y a su vez los pines correspondientes del inversor (**1A  /  1Y**) se conectara una resistencia de 0.977 kΩ , cuyo circuito es:
+	Entrada : Color Amarillo
+	Salida : Color Azul
+
+Posteriormente se platea medir los intervalos de "1" y "0" lógicos usando un primer canal de una fuente DC que suministrara un nivel de voltaje fijo de alimentación de **5 V** en los pines _VCC _y _GND_ (Diagrama fuente *V2*) .  Para la señal a invertir, se usara otro canal de la fuente DC que ira variando de **0 V a 5 V**  (Diagrama fuente *V1*) en el pin **1A**  y  en el pin  **1Y** se conectara una resistencia de **1 kΩ** (0.977 kΩ exp).  Se presenta el diagrama simplificado del circuito:
 
 ![[C1SN.png]]
 
+Para poder separar el **"1"** lógico del **"0"** lógico,  se opta por basarse en la corriente de salida del inversor. Se espera 
 
 ![[Pasted image 20241128144020.png]]
 
