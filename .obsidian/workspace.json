@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab_01/CD4069/Parte1 CD4069.md",
+                "file": "Lab_01/SN70LS04/Parte1 SN70LS04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parte1 CD4069"
+              "title": "Parte1 SN70LS04"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_01/CD4069/Parte1 CD4069.md"
+                "file": "Lab_01/SN70LS04/Parte1 SN70LS04.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Parte1 CD4069"
+              "title": "Outline of Parte1 SN70LS04"
             }
           },
           {
@@ -173,11 +173,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0865259c7b27aa2",
+  "active": "6dc1bdc53ac2df97",
   "lastOpenFiles": [
-    "Lab_01/CD4069/Preparacion.md",
+    "Lab_01/SN70LS04/Imagenes/SCR01.png",
+    "Lab_01/SN70LS04/Imagenes/Im2.png",
+    "Lab_01/SN70LS04/Imagenes/Im1.png",
     "Lab_01/SN70LS04/Parte1 SN70LS04.md",
+    "Lab_01/SN70LS04/Imagenes/C1SN.png",
     "Lab_01/CD4069/Parte1 CD4069.md",
+    "Lab_01/CD4069/Preparacion.md",
     "Lab_01/CD4069/Parte3 CD4069.md",
     "Lab_01/CD4069/README.md",
     "Lab_01/CD4069/Simulacion.md",
@@ -191,8 +195,6 @@
     "Lab_01/CD4069/Imagenes/Im3.png",
     "Lab_01/CD4069/Imagenes/Im1.png",
     "Lab_01/CD4069/Imagenes/Pasted image 20241128162820.png",
-    "Lab_01/CD4069/Imagenes/Pasted image 20241128162720.png",
-    "Lab_01/CD4069/Imagenes/Pasted image 20241128144020.png",
     "Lab_02/README.md",
     "Lab_01/SN70LS04/SPICE/Simulacion1.raw",
     "Lab_01/SN70LS04/SPICE/Simulacion1.log",
@@ -209,7 +211,6 @@
     "Lab_01/SN70LS04/Preparacion.md",
     "Lab_01/SN70LS04/Parte3.md",
     "Lab_01/SN70LS04/Parte1.md",
-    "Lab_02/Monje2 1.png",
     "Digital_2024_2/Datasheets/Lab_01.md",
     "Digital_2024_2/Datasheets",
     "SN70LS04.md",
