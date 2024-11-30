@@ -20,4 +20,6 @@ Para el oscilador de tres compuertas, se sabe que (dado que son compuertas NOT d
 
 En el caso del anillo de cinco compuertas, dado que la señal pasa por más compuertas antes de retroalimentarse a la entrada inicial, genera la misma onda cuadrada pero con un mayor período (menor frecuencia). El aumento en el número de compuertas también aumentará el **período de oscilación**. Es decir, la frecuencia de oscilación será **más baja** que la de un oscilador de 3 compuertas.
 
+Observando los resultados 
+
 [Volver](https://github.com/juamorenogo/Digital_2024_2/tree/main/Lab_01/SN70LS04)
