@@ -22,13 +22,13 @@ En el caso del anillo de cinco compuertas, dado que la señal pasa por más comp
 
 Observando los resultados experimentales, vemos el siguiente caso para 3 inversores CMOS:
 
-![](Imagenes/Part3_1.png)
+![|400](Part3_1.png)
 
 Y, por otra parte, observando los resultados para el caso con 5 CMOS:
 
-![](Imagenes/Part3_2.png)
+![|400](Part3_2.png)
 
-Se puede observar que, según se aumentaron las compuertas, aumentó el periodo y por ende la frecuencia. Por otra parte, vemos una tendencia muy poco perfecta a una onda cuadrada que se ve afectada en los tiempos de subida y de bajada por factores atribuibles al retardo, a la capacitancia y a la resistencia interna de los circuitos del intergrado.
+Se puede observar que, según se aumentaron las compuertas, aumentó el periodo y por ende la frecuencia. Por otra parte, vemos una tendencia muy poco perfecta a una onda cuadrada que se ve afectada en los tiempos de subida y de bajada por factores atribuibles al retardo, a la capacitancia y a la resistencia interna de los circuitos del integrado.
 
 [Volver](https://github.com/juamorenogo/Digital_2024_2/tree/main/Lab_01/SN70LS04)
 

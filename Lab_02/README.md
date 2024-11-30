@@ -26,4 +26,4 @@ Estas baterías cuentan cada una con un sensor de tensión que entrega valores d
 
 **4. Implementación modular escalable:** El diseño completo debe constar de varios módulos para hacer el sistema escalable y claro, lo que facilitará también su validación y verificación. Cada grupo tendrá la libertad de decidir cómo organizar y conectar los módulos. 
 
-![](Imagenes/biden.png)
+![](biden.png)
