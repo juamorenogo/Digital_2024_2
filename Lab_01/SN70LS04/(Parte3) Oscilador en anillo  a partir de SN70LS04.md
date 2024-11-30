@@ -1,13 +1,4 @@
 
-# Prioridad 1
-## Prioridad 2
-### Prioridad 3
-
-#### Prioridad 4
-
-	Hola
-
----
 
 Una forma sencilla de generar relojes o frecuencias, sea cual sea el fin último (pruebas de temporización, de señales de referencia) es por medio de un anillo oscilador hecho a partir de compuertas NOT.
 
