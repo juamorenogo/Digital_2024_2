@@ -37,11 +37,11 @@ En el caso del anillo de cinco compuertas, dado que la señal pasa por más comp
 
 Observando los resultados experimentales, vemos el siguiente caso para 3 inversores CMOS:
 
-![|400](Part3_1.png)
+![|400](Imagenes/Part3_1.png)
 
 Y, por otra parte, observando los resultados para el caso con 5 CMOS:
 
-![|400](Part3_2.png)
+![|400](Imagenes/Part3_2.png)
 
 ### Conclusión
 
