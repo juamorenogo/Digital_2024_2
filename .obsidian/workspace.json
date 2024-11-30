@@ -11,42 +11,6 @@
             "id": "b0865259c7b27aa2",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Lab_01/SN70LS04/Imagenes/biden.png"
-              },
-              "icon": "lucide-image",
-              "title": "biden"
-            }
-          },
-          {
-            "id": "8ec59edfee88949b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Lab_01/SN70LS04/Imagenes/Part3_1.png"
-              },
-              "icon": "lucide-image",
-              "title": "Part3_1"
-            }
-          },
-          {
-            "id": "a0b0d0cf39bf6715",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Lab_01/SN70LS04/Imagenes/Part3_2.png"
-              },
-              "icon": "lucide-image",
-              "title": "Part3_2"
-            }
-          },
-          {
-            "id": "e365e2c9bcd969f0",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Lab_01/SN70LS04/(Parte3) Oscilador en anillo  a partir de SN70LS04.md",
@@ -57,8 +21,7 @@
               "title": "(Parte3) Oscilador en anillo  a partir de SN70LS04"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "e7815e6c5aa52316",
@@ -197,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 223.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,43 +173,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e365e2c9bcd969f0",
+  "active": "b0865259c7b27aa2",
   "lastOpenFiles": [
+    "Lab_01/SN70LS04/Parte1 SN70LS04.md",
+    "Lab_01/SN70LS04/(Parte3) Oscilador en anillo  a partir de SN70LS04.md",
+    "Lab_01/CD4069/Parte3 CD4069.md",
+    "Lab_01/CD4069/1_Preparacion.md",
+    "Lab_01/SN70LS04/Imagenes/biden.png",
     "Lab_01/SN70LS04/Imagenes/Part3_2.png",
     "Lab_01/SN70LS04/Imagenes/Part3_1.png",
-    "Lab_01/SN70LS04/Imagenes/biden.png",
-    "Lab_01/SN70LS04/(Parte3) Oscilador en anillo  a partir de SN70LS04.md",
     "Lab_01/SN70LS04/Imagenes/Monje2 1.png",
-    "Lab_02/README.md",
-    "Lab_01/SN70LS04/1_Preparacion.md",
-    "Lab_01/SN70LS04/2_Simulacion.md",
-    "Lab_01/SN70LS04/Parte2 SN70LS04.md",
-    "Imagenes.md",
-    "Lab_02/Imagenes",
-    "Lab_01/SN70LS04/Imagenes/Im2.png",
-    "Lab_01/SN70LS04/Imagenes/Im1.png",
-    "Lab_01/SN70LS04/Imagenes/C1SN.png",
-    "Lab_01/CD4069/1_Preparacion.md",
     "Lab_01/CD4069/Imagenes/Pasted image 20241128162820.png",
     "Lab_01/CD4069/Imagenes/Im3.png",
     "Lab_01/CD4069/Imagenes/Pasted image 20241128162720.png",
-    "Lab_01/SN70LS04/Parte1 SN70LS04.md",
+    "Lab_01/SN70LS04/2_Simulacion.md",
+    "Lab_01/SN70LS04/1_Preparacion.md",
+    "Lab_01/SN70LS04/Imagenes/Im4.png",
+    "Lab_01/SN70LS04/Imagenes/Im3.png",
+    "Lab_01/SN70LS04/Imagenes/Im2.png",
     "Lab_01/CD4069/Parte1 CD4069.md",
     "Datasheets/Lab_01/CD4069.PDF",
     "Lab_01/SN70LS04/README.md",
     "Lab_01/CD4069/README.md",
     "Lab_01/CD4069/2_Simulacion.md",
+    "Lab_01/SN70LS04/Parte2 SN70LS04.md",
+    "Lab_01/SN70LS04/Parte3 SN70LS04.md",
     "Datasheets/Lab_01/74LS04.PDF",
     "Datasheets/Lab_01/CD4069UBC.PDF",
     "Datasheets/Lab_01/HD74LS04 (1).PDF",
     "Datasheets/Lab_01/HD74LS04.PDF",
     "Datasheets/Lab_01/SN5404.PDF",
     "Datasheets/Lab_01/74LS04 (1).PDF",
-    "Lab_01/CD4069/Parte3 CD4069.md",
     "Lab_01/CD4069/Parte2 CD4069.md",
     "Lab_01/README.md",
+    "Lab_02/README.md",
     "Lab_01/SN70LS04/SPICE/Simulacion1.raw",
     "Lab_01/SN70LS04/SPICE/Simulacion1.log",
+    "Lab_01/CD4069/SPICE/Simulacion1.raw",
     "conflict-files-obsidian-git.md",
     "Lab_01/SN70LS04/Parte1.md",
     "Digital_2024_2/Datasheets/Lab_01.md",

@@ -1,3 +1,14 @@
+
+# Prioridad 1
+## Prioridad 2
+### Prioridad 3
+
+#### Prioridad 4
+
+	Hola
+
+---
+
 Una forma sencilla de generar relojes o frecuencias, sea cual sea el fin último (pruebas de temporización, de señales de referencia) es por medio de un anillo oscilador hecho a partir de compuertas NOT.
 
 Funciona de la siguiente manera: al conectar un número impar de inversores en serie entre sí (con la salida del último como entrada del primero, para cumplir el ciclo), se da una retroalimentación positiva entre las compuertas causando una inversión continua del valor de la señal que viaja a través de todas estos inversores.
