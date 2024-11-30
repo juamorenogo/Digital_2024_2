@@ -160,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 220.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,6 +175,8 @@
   },
   "active": "b0865259c7b27aa2",
   "lastOpenFiles": [
+    "Lab_02/Imagenes/Part3_1.png",
+    "Lab_02/Imagenes/Part3_2.png",
     "Lab_01/SN70LS04/1_Preparacion.md",
     "Lab_01/SN70LS04/2_Simulacion.md",
     "Lab_01/SN70LS04/(Parte3) Oscilador en anillo  a partir de SN70LS04.md",
@@ -193,7 +195,6 @@
     "Lab_01/CD4069/Imagenes/Pasted image 20241128162720.png",
     "Lab_01/SN70LS04/Parte1 SN70LS04.md",
     "Lab_01/SN70LS04/Imagenes/Im4.png",
-    "Lab_01/SN70LS04/Imagenes/Im3.png",
     "Lab_01/CD4069/Parte1 CD4069.md",
     "Datasheets/Lab_01/CD4069.PDF",
     "Lab_01/SN70LS04/README.md",
