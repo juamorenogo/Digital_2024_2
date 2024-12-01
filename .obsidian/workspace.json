@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab_01/SN70LS04/(Parte3) Oscilador en anillo  a partir de SN70LS04.md",
+                "file": "Lab_01/SN70LS04/2_Simulacion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(Parte3) Oscilador en anillo  a partir de SN70LS04"
+              "title": "2_Simulacion"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_01/SN70LS04/(Parte3) Oscilador en anillo  a partir de SN70LS04.md"
+                "file": "Lab_01/SN70LS04/2_Simulacion.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of (Parte3) Oscilador en anillo  a partir de SN70LS04"
+              "title": "Outline of 2_Simulacion"
             }
           },
           {
@@ -175,8 +175,9 @@
   },
   "active": "b0865259c7b27aa2",
   "lastOpenFiles": [
-    "Lab_01/SN70LS04/Parte1 SN70LS04.md",
+    "Lab_01/SN70LS04/1_Preparacion.md",
     "Lab_01/SN70LS04/(Parte3) Oscilador en anillo  a partir de SN70LS04.md",
+    "Lab_01/SN70LS04/Parte1 SN70LS04.md",
     "Lab_01/CD4069/Parte3 CD4069.md",
     "Lab_01/CD4069/1_Preparacion.md",
     "Lab_01/SN70LS04/Imagenes/biden.png",
@@ -187,7 +188,6 @@
     "Lab_01/CD4069/Imagenes/Im3.png",
     "Lab_01/CD4069/Imagenes/Pasted image 20241128162720.png",
     "Lab_01/SN70LS04/2_Simulacion.md",
-    "Lab_01/SN70LS04/1_Preparacion.md",
     "Lab_01/SN70LS04/Imagenes/Im4.png",
     "Lab_01/SN70LS04/Imagenes/Im3.png",
     "Lab_01/SN70LS04/Imagenes/Im2.png",
