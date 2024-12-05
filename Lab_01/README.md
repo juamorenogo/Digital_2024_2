@@ -4,6 +4,7 @@ En este laboratorio se realiza la caracterización de 2 _IC's_ negadores, cuya d
 
 * [Proceso SN70LS04](SN70LS04)
 * [Proceso CD4069](CD4069)
+* [Marco Teórico]()
 
 Por lo anterior , en este archivo se realiza la compilación de los resultados encontrados y a su vez la respectiva comparación entre ambas tecnologías.
 
@@ -14,14 +15,17 @@ Por lo anterior , en este archivo se realiza la compilación de los resultados e
 ## A tener en cuenta
 
 (JAIME)
-* CMOS PARTE 2 FAN OUT CON DATOS EXPERIMENTALES CD4069
-*  Marco teorico en cada parte
+- [ ] CMOS PARTE 2 FAN OUT CON DATOS EXPERIMENTALES CD4069
+- [x] Marco teorico en cada parte
+- [ ] Obtener la característica de Vin vs Vout.
+- [ ]  CMOS PARTE 2 FAN OUT CON DATOS EXPERIMENTALES TTL 
 
-(Sebastian)
-- Simular cada compuerta con su modelo spice variando la frecuencia de la señal de entrada.
-- Simular los osciladores en anillo.
-- Comparar las mediciones.
+(SEBASTIAN)
+- [ ] Simular cada compuerta con su modelo spice variando la frecuencia de la señal de entrada.
+- [x] Simular los osciladores en anillo.
+- [ ] Comparar las mediciones.
+- [ ] Corregir TTL parte1
+- [ ] Comparar los resultados de los tiempo medidos en el laboratorio con los obtenidos en la simulación.
 
 ---
-Comparar los resultados de los tiempo medidos en el laboratorio con los obtenidos en la simulación.
-Obtener la característica de Vin vs Vout.
+
