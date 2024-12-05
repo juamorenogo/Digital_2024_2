@@ -4,7 +4,7 @@ En este laboratorio se realiza la caracterización de 2 _IC's_ negadores, cuya d
 
 * [Proceso SN70LS04](SN70LS04)
 * [Proceso CD4069](CD4069)
-* [Marco Teórico]()
+* [Marco Teórico](1_Marco_Teórico)
 
 Por lo anterior , en este archivo se realiza la compilación de los resultados encontrados y a su vez la respectiva comparación entre ambas tecnologías.
 
