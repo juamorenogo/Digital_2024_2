@@ -44,9 +44,20 @@ Y, por otra parte, observando los resultados para el caso con 5 CMOS:
 
 ![|400](Imagenes/Part3_2.png)
 
+
+### Resultados Simulados 
+
+Observando los resultados experimentales, vemos el siguiente caso para 3 inversores CMOS:
+
+
+
+Y, por otra parte, observando los resultados para el caso con 5 CMOS:
+
+
+
 ### Conclusión
 
-Se puede observar que, según se aumentaron las compuertas, aumentó el periodo y por ende la frecuencia. Por otra parte, vemos una tendencia muy poco perfecta a una onda cuadrada que se ve afectada en los tiempos de subida y de bajada por factores atribuibles al retardo, a la capacitancia y a la resistencia interna de los circuitos del integrado.
+Se puede observar que, según se aumentaron las compuertas, aumentó el periodo y por ende, disminuye la frecuencia. Por otra parte, vemos una tendencia muy poco perfecta a una onda cuadrada que se ve afectada en los tiempos de subida y de bajada por factores atribuibles al retardo, a la capacitancia y a la resistencia interna de los circuitos del integrado.
 
 
 [Volver](https://github.com/juamorenogo/Digital_2024_2/tree/main/Lab_01/SN70LS04)
