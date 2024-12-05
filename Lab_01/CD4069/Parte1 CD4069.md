@@ -51,15 +51,17 @@ Para esto se mide el tiempo de subida de la onda de salida usando _Measures_ en 
 
 ## Tiempo de retardo
 
-### 3. **Tiempo de Retardo de Propagación (tphlt_{phl}tphl​ y tplht_{plh}tplh​)**
-
 El **tiempo de retardo de propagación** es el tiempo que tarda la señal de salida en responder a un cambio en la señal de entrada. Se mide en dos direcciones:
 
-- **tplht_{plh}tplh​**: Tiempo de retardo cuando la salida cambia de baja a alta (Propagación de Bajo a Alto).
-- **tphlt_{phl}tphl​**: Tiempo de retardo cuando la salida cambia de alta a baja (Propagación de Alto a Bajo).
+- **\( t_{PLH} \)**: Tiempo de retardo cuando la salida cambia de baja a alta (Propagación de Bajo a Alto).
+  - **Valor medido**: 60 ns.
 
-YA SE TIENEN LOS DATOS
+- **\( t_{PHL} \)**: Tiempo de retardo cuando la salida cambia de alta a baja (Propagación de Alto a Bajo).
+  - **Valor medido**: 8 ns.
+  
+El **tiempo de retardo de propagación** entonces se calcula como :
 
+$$ 60 ns - 8ns = 52 ns$$
 
 
 ---

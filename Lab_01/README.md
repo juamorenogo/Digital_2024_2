@@ -39,11 +39,60 @@ Se compararon los valores obtenidos experimentalmente para los osciladores. De m
 
 ### CMOS
 
+### Interpretación de los niveles lógicos para el TC4069UBP
+
+#### (VOH) - Lógico "1":
+- **VOH (para VDD = 5V)**: El rango teórico para un **"1" lógico** debe estar entre **4.95 V** y **5 V**.
+- **Valor experimental**: Los valores de **3.9 V a 5 V** obtenidos experimentalmente, no caen dentro de este rango, teniendo en cuenta que el fabricante da como mínimo teórico de **4.95 V**. Esto podría deberse a tolerancias o efectos no ideales en el circuito o mal interpretación del modelo o del procedimiento.
+
+#### (VOL) - Lógico "0":
+- **VOL (para VDD = 5V)**: El rango teórico para un **"0" lógico** debe estar entre **0 V** y **0.05 V**.
+- **Valor experimental**: Los valores de **0 V a 1.5 V** están significativamente por encima del máximo teórico de **0.05 V**, lo que indica que la salida no está alcanzando un **"0" lógico** adecuado.
+
+
 ## Tiempos 
 
 ### TTL
 
 ### CMOS
+
+### Comparación de Tiempos de Transición para TC4069UBP
+
+#### Tiempos Teóricos (Datasheet)
+- \( t_{TLH} \):
+  - Para **VDD = 5V**: 70 ns (mínimo)
+  
+- \( t_{THL} \):
+  - Para **VDD = 5V**: 70 ns (mínimo)
+
+- \( t_{pLH} \):
+  - Para **VDD = 5V**: 55 ns (mínimo)
+
+- \( t_{pHL} \):
+  - Para **VDD = 5V**: **55 ns** (mínimo)
+#### Tiempos Prácticos (Mediciones)
+- **Tiempo de Subida (Rise Time)**:
+  - **tr80**: 74.35 ns
+  - **tr**: 114.4 ns 
+
+- **Tiempo de Bajada (Fall Time)**:
+  - **tf80**: 81.3 ns
+  - **tf**: 120 ns
+
+- **Tiempo de Transición (high to low)** \( t_{THL} \): 8 ns
+  
+- **Tiempo de Transición (low to high)** \( t_{TLH} \):  60 ns
+#### Comparación
+- **Tiempo de Subida**: El tiempo de subida práctico \( tr \) de **114.4 ns** es más alto que el valor teórico de **70 ns**, lo que puede indicar efectos de carga, capacitancia o ineficiencia en el circuito.
+  
+- **Tiempo de Bajada**: El tiempo de bajada práctico \( tf \) de **120 ns** también es más alto que el valor teórico de **70 ns**, lo que podría estar relacionado con similares factores de carga o de configuración del circuito.
+
+- **Desfase Propagacional**: El **tiempo de propagación** teórico es de **55 ns**. Los tiempos prácticos de subida y bajada ligeramente mayores sugieren que el retraso en el circuito está influenciado por características como la **capacitancia** o la **carga de los componentes**.
+
+- **Tiempo de Transición \( t_{THL} \)**: El valor medido de **8 ns** es mucho más bajo que el tiempo de transición **t_{THL}** teórico de **70 ns**, lo que indica que las mediciones del osciloscopio no están capturando el comportamiento ideal, o puede ser que haya una distorsión debido a las características del equipo.
+
+- **Estimación de \( t_{TLH} \)**: Dado que no se midió directamente, **\( t_{TLH} \)** debería ser aproximadamente **70 ns**, similar al valor teórico, aunque depende de la configuración del circuito y factores adicionales.
+
 
 ## Fan - In / Fan - Out
 
