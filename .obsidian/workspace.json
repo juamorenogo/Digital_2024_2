@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab_01/CD4069/Parte1 CD4069.md",
+                "file": "Lab_01/SN70LS04/(Parte3) Oscilador en anillo a partir de SN70LS04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parte1 CD4069"
+              "title": "(Parte3) Oscilador en anillo a partir de SN70LS04"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_01/CD4069/Parte1 CD4069.md"
+                "file": "Lab_01/SN70LS04/(Parte3) Oscilador en anillo a partir de SN70LS04.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Parte1 CD4069"
+              "title": "Outline of (Parte3) Oscilador en anillo a partir de SN70LS04"
             }
           },
           {
@@ -189,8 +189,10 @@
   },
   "active": "b0865259c7b27aa2",
   "lastOpenFiles": [
-    "Lab_01/SN70LS04/Parte1 SN70LS04.md",
+    "Lab_01/CD4069/SPICE/SImulacion2.asc",
+    "Lab_01/CD4069/1_Preparacion.md",
     "Lab_01/CD4069/Parte1 CD4069.md",
+    "Lab_01/SN70LS04/Parte1 SN70LS04.md",
     "Lab_01/CD4069/Imagenes/PRUEBA4.png",
     "Lab_01/CD4069/Imagenes/Prueba3.png",
     "Lab_01/CD4069/Imagenes/Prueba2.png",
@@ -199,7 +201,6 @@
     "Lab_01/CD4069/Imagenes/ImTemp1.png",
     "Lab_01/CD4069/Imagenes/ImTemp2.png",
     "Lab_01/SN70LS04/1_Preparacion.md",
-    "Lab_01/CD4069/1_Preparacion.md",
     "Lab_01/CD4069/Imagenes/F0000TEK.bmp",
     "Lab_01/CD4069/Imagenes/F0000TEK.bmp",
     "Lab_01/SN70LS04/2_Simulacion.md",
