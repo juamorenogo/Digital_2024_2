@@ -12,6 +12,7 @@ Por lo anterior , en este archivo se realiza la compilación de los resultados e
 
 # Resultados Y Comparación
 
+---
 ## A tener en cuenta
 
 (JAIME)
@@ -28,4 +29,28 @@ Por lo anterior , en este archivo se realiza la compilación de los resultados e
 - [ ] Comparar los resultados de los tiempo medidos en el laboratorio con los obtenidos en la simulación.
 
 ---
+## Osciladores 
 
+Se compara los valores obtenidos para los osciladores. De manera experimental se encontró una mayor frecuencia en ambos casos, siendo específicamente, _2 MHz_ y _4 MHz_ mientras el modelo teórico demostró el comportamiento esperado según el numero de compuertas, sin embargo, los valores _773 kHz_ y _1.7 MHz_ demuestran la incompletitud del modelo y  a su vez la limitación de los instrumentos de medición usados.
+
+## Valores Lógicos
+
+### TTL
+
+### CMOS
+
+## Tiempos 
+
+### TTL
+
+### CMOS
+
+## Fan - In / Fan - Out
+
+### TTL
+
+### CMOS
+
+## Característica Vin - Vout
+
+## Barrido de frecuencias con compuerta IC
