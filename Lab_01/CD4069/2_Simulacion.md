@@ -5,7 +5,7 @@ Para simular el comportamiento se usaron los modelos _SPICE_ obtenidos desde la 
 
 En primer lugar se realiza un montaje de prueba del circuito, donde se plantea visualizar si cumple con el comportamiento básico esperado de una compuerta *NOT / Negador / Inversor*. La simulación se baso en el siguiente esquemático, a su vez, el modelo _SPICE_ usado solo simula los pines de alimentación y una única compuerta _NOT_ .
 
-![](Imagenes/Im5.png)
+![](Imagenes/IMCD4.png)
 
 Se aplica una tensión de alimentación de *5 V* entre los pines _VCC_ y _GND_. A su vez, se conecta en el pin de entrada _A_, una fuente generadora de señales con las siguientes características:
 
