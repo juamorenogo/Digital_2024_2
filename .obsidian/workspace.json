@@ -11,14 +11,12 @@
             "id": "b0865259c7b27aa2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Lab_01/SN70LS04/(Parte3) Oscilador en anillo a partir de SN70LS04.md",
-                "mode": "source",
-                "source": false
+                "file": "Datasheets/Lab_01/74LS04.PDF"
               },
-              "icon": "lucide-file",
-              "title": "(Parte3) Oscilador en anillo a partir de SN70LS04"
+              "icon": "lucide-file-text",
+              "title": "74LS04"
             }
           }
         ]
@@ -139,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_01/SN70LS04/(Parte3) Oscilador en anillo a partir de SN70LS04.md"
+                "file": "Datasheets/Lab_01/74LS04.PDF"
               },
               "icon": "lucide-list",
-              "title": "Outline of (Parte3) Oscilador en anillo a partir de SN70LS04"
+              "title": "Outline of 74LS04"
             }
           },
           {
@@ -173,38 +171,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "010feda6c1f4a99c",
+  "active": "b0865259c7b27aa2",
   "lastOpenFiles": [
+    "Datasheets/Lab_01/CD4069.PDF",
+    "Datasheets/Lab_01/CD4069UBC.PDF",
+    "Datasheets/Lab_01/74LS04.PDF",
+    "Lab_01/CD4069/Parte2 CD4069.md",
+    "Lab_01/CD4069/Parte1 CD4069.md",
+    "Lab_01/CD4069/Parte3 CD4069.md",
+    "Lab_01/CD4069/2_Simulacion.md",
+    "Lab_01/CD4069/Imagenes/Im3.png",
+    "Lab_01/SN70LS04/Parte1 SN70LS04.md",
     "Lab_01/SN70LS04/Parte2 SN70LS04.md",
     "Lab_01/SN70LS04/2_Simulacion.md",
     "Lab_01/SN70LS04/1_Preparacion.md",
     "Lab_01/SN70LS04/(Parte3) Oscilador en anillo a partir de SN70LS04.md",
-    "Lab_01/SN70LS04/Parte1 SN70LS04.md",
-    "Lab_01/CD4069/Parte3 CD4069.md",
     "Lab_01/CD4069/1_Preparacion.md",
     "Lab_01/SN70LS04/Imagenes/biden.png",
     "Lab_01/SN70LS04/Imagenes/Part3_2.png",
     "Lab_01/SN70LS04/Imagenes/Part3_1.png",
     "Lab_01/SN70LS04/Imagenes/Monje2 1.png",
     "Lab_01/CD4069/Imagenes/Pasted image 20241128162820.png",
-    "Lab_01/CD4069/Imagenes/Im3.png",
     "Lab_01/CD4069/Imagenes/Pasted image 20241128162720.png",
     "Lab_01/SN70LS04/Imagenes/Im4.png",
     "Lab_01/SN70LS04/Imagenes/Im3.png",
     "Lab_01/SN70LS04/Imagenes/Im2.png",
-    "Lab_01/CD4069/Parte1 CD4069.md",
-    "Datasheets/Lab_01/CD4069.PDF",
     "Lab_01/SN70LS04/README.md",
     "Lab_01/CD4069/README.md",
-    "Lab_01/CD4069/2_Simulacion.md",
     "Lab_01/SN70LS04/Parte3 SN70LS04.md",
-    "Datasheets/Lab_01/74LS04.PDF",
-    "Datasheets/Lab_01/CD4069UBC.PDF",
     "Datasheets/Lab_01/HD74LS04 (1).PDF",
     "Datasheets/Lab_01/HD74LS04.PDF",
     "Datasheets/Lab_01/SN5404.PDF",
     "Datasheets/Lab_01/74LS04 (1).PDF",
-    "Lab_01/CD4069/Parte2 CD4069.md",
     "Lab_01/README.md",
     "Lab_02/README.md",
     "Lab_01/SN70LS04/SPICE/Simulacion1.raw",
