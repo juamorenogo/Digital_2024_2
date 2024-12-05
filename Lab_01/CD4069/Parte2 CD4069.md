@@ -1,5 +1,5 @@
 
-Para esto se seguira el siguiente principio:
+Para esto se seguirá el siguiente principio:
 
 $$ Fan_{out}(0 \,logico) = \frac {I_L}{I_{in}L} $$
 
