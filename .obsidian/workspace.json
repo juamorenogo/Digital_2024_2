@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fcb6a462e32eecd4",
+        "id": "dbee0cb80a969151",
         "type": "tabs",
         "children": [
           {
-            "id": "a6fc958b7fcda29c",
+            "id": "07fa468cd2af965b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lab_01/Teoría/Parte 1_Teoría de Características funcionales.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Parte 1_Teoría de Características funcionales"
             }
           }
         ]
@@ -134,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Lab_01/Teoría/Parte 1_Teoría de Características funcionales.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Parte 1_Teoría de Características funcionales"
             }
           },
           {
@@ -154,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,10 +173,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6fc958b7fcda29c",
+  "active": "6dc1bdc53ac2df97",
   "lastOpenFiles": [
-    "Datasheets/Lab_01/74LS04.PDF",
+    "Datasheets/Lab_01/2024-11-11 194231.png",
+    "Lab_01/CD4069/Parte1 CD4069.md",
+    "Lab_01/CD4069/1_Preparacion.md",
+    "Lab_01/CD4069/2_Simulacion.md",
+    "Lab_01/SN70LS04/Parte1 SN70LS04.md",
+    "Lab_01/SN70LS04/1_Preparacion.md",
+    "Lab_01/Teoría/Parte 1_Teoría de Características funcionales.md",
+    "Lab_01/SN70LS04/Parte2 SN70LS04.md",
     "Datasheets/Lab_01/TC4069UBP.PDF",
+    "Datasheets/Lab_01/74LS04.PDF",
+    "Datasheets/Lab_01/CD4069.PDF",
+    "Lab_01/SN70LS04/2_Simulacion.md",
+    "Lab_01/README.md",
+    "Lab_01/Teoría",
+    "Lab_01/Untitled.md",
+    "Lab_01/CD4069/Parte2 CD4069.md",
     "conflict-files-obsidian-git.md",
     "Lab_01/CD4069/SPICE/SImulacion2.asc",
     "Lab_01/CD4069/Parte3 Oscilador.md",
@@ -181,19 +201,10 @@
     "Lab_01/CD4069/Imagenes/Im2.png",
     "Lab_01/CD4069/Imagenes/IMCD4.png",
     "Lab_01/CD4069/Imagenes/F0000TEK.bmp",
-    "Datasheets/Lab_01/CD4069.PDF",
     "Datasheets/Lab_01/CD4069UBC.PDF",
-    "Lab_01/CD4069/Parte2 CD4069.md",
-    "Lab_01/CD4069/Parte1 CD4069.md",
     "Lab_01/CD4069/Parte3 CD4069.md",
-    "Lab_01/CD4069/2_Simulacion.md",
     "Lab_01/CD4069/Imagenes/Im3.png",
-    "Lab_01/SN70LS04/Parte1 SN70LS04.md",
-    "Lab_01/SN70LS04/Parte2 SN70LS04.md",
-    "Lab_01/SN70LS04/2_Simulacion.md",
-    "Lab_01/SN70LS04/1_Preparacion.md",
     "Lab_01/SN70LS04/(Parte3) Oscilador en anillo a partir de SN70LS04.md",
-    "Lab_01/CD4069/1_Preparacion.md",
     "Lab_01/SN70LS04/Imagenes/biden.png",
     "Lab_01/SN70LS04/Imagenes/Part3_2.png",
     "Lab_01/SN70LS04/README.md",
@@ -203,9 +214,7 @@
     "Datasheets/Lab_01/HD74LS04.PDF",
     "Datasheets/Lab_01/SN5404.PDF",
     "Datasheets/Lab_01/74LS04 (1).PDF",
-    "Lab_01/README.md",
     "Lab_02/README.md",
-    "Lab_01/SN70LS04/SPICE/Simulacion1.raw",
     "Lab_01/SN70LS04/Parte1.md",
     "Digital_2024_2/Datasheets/Lab_01.md",
     "SN70LS04.md",
