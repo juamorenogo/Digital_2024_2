@@ -1,11 +1,11 @@
 En primer lugar se comprueba que el comportamiento de las compuertas sea el esperado, para esto se aplica una tensión en forma de onda cuadrada a **1 kHz** y se comprueba su comportamiento negador en la siguiente imagen:
 
+![](Imagenes/F0000TEK.bmp)
 
+Posteriormente se platea medir los intervalos de "1" y "0" lógicos usando un primer canal de una fuente DC que suministrara el nivel de voltaje de alimentación en los pines _VCC _y _GND_.  Para la señal se usara otro canal de la fuente DC que ira variando de **0V a 5V**  y a su vez los pines correspondientes del inversor (**I1  /  O1**) se conectara una resistencia de 0.977 kOhm en el pin de salida *O1* donde se sabe que la corriente deberá con la siguiente proporción : 
 
-Posteriormente se platea medir los intervalos de "1" y "0" lógicos usando un primer canal de una fuente DC que suministrara el nivel de voltaje de alimentación en los pines _VCC _y _GND_.  Para la señal se usara otro canal de la fuente DC que ira variando de **0V a 5V**  y a su vez los pines correspondientes del inversor (**1A  /  1Y**) se conectara una resistencia de 0.977 kOhm en el pin de salida *1Y* donde se sabe que la corriente deberá con la siguiente proporción : 
+![|500](Imagenes/ImCD42.png)
 
-
-![[Pasted image 20241128144020.png]] ***(CAMBIAR IMAGEN)***
 
 Por lo mismo, se medirá el voltaje de la resistencia para conocer el voltaje en diferentes momentos de voltaje y así estimar el intervalo:
 
@@ -40,14 +40,14 @@ Ahora se procede a medir el tiempo de subida, tiempo de bajada, tiempo de retard
 
 Para esto se mide el tiempo de subida de la onda de salida usando _Measures_ en el scope, esto arroja lo siguiente :
 
-tr80 : 74.35 ns
-tr : 114.4ns
+* **tr80** : 74.35 ns
+* **tr** : 114.4ns
 ## Tiempo de Bajada
 
 Para esto se mide el tiempo de subida de la onda de salida usando _Measures_ en el scope, esto arroja lo siguiente :
 
-tf80 : 81.3 ns
-tf : 120 ns
+* **tf80** : 81.3 ns
+* **tf** : 120 ns
 
 ## Tiempo de retardo
 
@@ -59,25 +59,6 @@ El **tiempo de retardo de propagación** es el tiempo que tarda la señal de sal
 - **tphlt_{phl}tphl​**: Tiempo de retardo cuando la salida cambia de alta a baja (Propagación de Alto a Bajo).
 
 YA SE TIENEN LOS DATOS
-## Tiempo de Almacenamiento
-
-### . **Tiempo de Almacenamiento (o Tiempo de Retención)**
-
-El **tiempo de almacenamiento** se refiere al tiempo que la salida mantiene su estado después de que se ha aplicado una señal de entrada, especialmente en puertas que tienen memorias internas como los flip-flops o registros.
-
-#### Procedimiento:
-
-- **Generador de señales**: Configura el generador para que aplique un pulso de duración conocida en la entrada.
-- **Osciloscopio**: Conecta la salida al osciloscopio y observa el comportamiento.
-    - Mide el tiempo durante el cual la salida se mantiene en un estado constante (puede ser alto o bajo) después de la aplicación del pulso de entrada.
-
-**Resultado**: El **tiempo de almacenamiento** es el tiempo que la salida permanece estable antes de que el siguiente cambio ocurra, si es que hay un siguiente cambio.
-
-¿No aplica?
-
----
-
-
 
 
 

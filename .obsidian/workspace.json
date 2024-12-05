@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "69a9a8f5513df071",
+        "id": "fcb6a462e32eecd4",
         "type": "tabs",
         "children": [
           {
-            "id": "b0865259c7b27aa2",
+            "id": "a6fc958b7fcda29c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Datasheets/Lab_01/74LS04.PDF"
-              },
-              "icon": "lucide-file-text",
-              "title": "74LS04"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -136,11 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Datasheets/Lab_01/74LS04.PDF"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 74LS04"
+              "title": "Outline"
             }
           },
           {
@@ -171,11 +167,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0865259c7b27aa2",
+  "active": "a6fc958b7fcda29c",
   "lastOpenFiles": [
+    "Datasheets/Lab_01/74LS04.PDF",
+    "Datasheets/Lab_01/TC4069UBP.PDF",
+    "conflict-files-obsidian-git.md",
+    "Lab_01/CD4069/SPICE/SImulacion2.asc",
+    "Lab_01/CD4069/Parte3 Oscilador.md",
+    "Lab_01/CD4069/Imagenes/im1.png",
+    "Lab_01/CD4069/Imagenes/ImTemp2.png",
+    "Lab_01/CD4069/Imagenes/ImTemp1.png",
+    "Lab_01/CD4069/Imagenes/ImCD42.png",
+    "Lab_01/CD4069/Imagenes/Im2.png",
+    "Lab_01/CD4069/Imagenes/IMCD4.png",
+    "Lab_01/CD4069/Imagenes/F0000TEK.bmp",
     "Datasheets/Lab_01/CD4069.PDF",
     "Datasheets/Lab_01/CD4069UBC.PDF",
-    "Datasheets/Lab_01/74LS04.PDF",
     "Lab_01/CD4069/Parte2 CD4069.md",
     "Lab_01/CD4069/Parte1 CD4069.md",
     "Lab_01/CD4069/Parte3 CD4069.md",
@@ -189,13 +196,6 @@
     "Lab_01/CD4069/1_Preparacion.md",
     "Lab_01/SN70LS04/Imagenes/biden.png",
     "Lab_01/SN70LS04/Imagenes/Part3_2.png",
-    "Lab_01/SN70LS04/Imagenes/Part3_1.png",
-    "Lab_01/SN70LS04/Imagenes/Monje2 1.png",
-    "Lab_01/CD4069/Imagenes/Pasted image 20241128162820.png",
-    "Lab_01/CD4069/Imagenes/Pasted image 20241128162720.png",
-    "Lab_01/SN70LS04/Imagenes/Im4.png",
-    "Lab_01/SN70LS04/Imagenes/Im3.png",
-    "Lab_01/SN70LS04/Imagenes/Im2.png",
     "Lab_01/SN70LS04/README.md",
     "Lab_01/CD4069/README.md",
     "Lab_01/SN70LS04/Parte3 SN70LS04.md",
@@ -206,9 +206,6 @@
     "Lab_01/README.md",
     "Lab_02/README.md",
     "Lab_01/SN70LS04/SPICE/Simulacion1.raw",
-    "Lab_01/SN70LS04/SPICE/Simulacion1.log",
-    "Lab_01/CD4069/SPICE/Simulacion1.raw",
-    "conflict-files-obsidian-git.md",
     "Lab_01/SN70LS04/Parte1.md",
     "Digital_2024_2/Datasheets/Lab_01.md",
     "SN70LS04.md",
