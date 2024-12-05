@@ -98,3 +98,25 @@ Ahora bien, considerando los casos específicos de SN54LS04 (TTL) y TC4069UBP (C
   - **V<sub>OH</sub> y V<sub>OL</sub>:** Salidas que se acercan al V<sub>DD</sub> y GND, proporcionando señales más robustas y claras.
   - **Rango de Alimentación:** Amplio (3V a 15V), aumentando su versatilidad para diversas aplicaciones, desde dispositivos portátiles hasta sistemas industriales.
 
+# Tiempos de Subida, Bajada y Retardo en Dispositivos Lógicos: tr, tf, tphl, tplh
+
+Estos parámetros afectan directamente el rendimiento, la velocidad y la fiabilidad de los sistemas electrónicos. Analizaremos detalladamente los **tiempos de subida (tr)**, **tiempo de bajada (tf)**, **tiempo de retardo de propagación alto a bajo (tphl)** y **tiempo de retardo de propagación bajo a alto (tplh)** para dos dispositivos lógicos específicos: el **SN54LS04 (TTL)** y el **TC4069UBP (CMOS)**.
+
+#### **1. Definiciones**
+
+El **tiempo de subida (tr)** es el tiempo que tarda una señal de salida en transicionar desde un **10%** de su valor máximo hasta un **90%** de dicho valor durante una transición de **bajo a alto**, mientras que el **tiempo de Bajada (tf)** es el tiempo que tarda una señal de salida en transicionar desde un **90%** de su valor máximo hasta un **10%** de dicho valor durante una transición de **alto a bajo**. Estos tiempos de transición determinan qué tan rápidamente una señal puede cambiar de un estado lógico a otro. Son cruciales para aplicaciones que requieren **alta velocidad** y **precisión temporal**, como en comunicaciones de alta frecuencia y procesamiento rápido de señales.
+
+Hay dos **tiempos de retardo de propagación**, el **tphl** y el **tplh**. El **tphl (propagation delay high-to-low)** es el tiempo que transcurre desde que la señal de entrada cambia de **alto a bajo** hasta que la señal de salida alcanza el **50%** de su valor máximo en la transición de **alto a bajo**, mientras que el **tplh (propagation delay low-to-high)** es el tiempo que transcurre desde que la señal de entrada cambia de **bajo a alto** hasta que la señal de salida alcanza el **50%** de su valor máximo en la transición de **bajo a alto**. Como tal, el retardo de propagación es el tiempo que tarda una señal en propagarse a través del dispositivo lógico desde la entrada hasta la salida, y es un parámetro crítico para determinar la **velocidad máxima de operación** del circuito y para evitar **condiciones de carrera** que puedan causar errores lógicos.
+
+#### **2. Características de Tiempo en SN54LS04 (TTL) y TC4069UBP (CMOS)**
+
+A continuación, se presentan las especificaciones típicas en datasheets de **tr**, **tf**, **tphl** y **tplh** para ambos dispositivos:
+
+| **Parámetro**            | **SN54LS04 (TTL Inverter)** | **TC4069UBP (CMOS Inverter)** |
+|--------------------------|------------------------------|---------------------------------|
+| **Tiempo de Subida (tr)**    | ~10 ns                       | ~20 ns                           |
+| **Tiempo de Bajada (tf)**    | ~10 ns                       | ~20 ns                           |
+| **Tiempo de Retardo tplh**   | ~8 ns                        | ~15 ns                           |
+| **Tiempo de Retardo tphl**   | ~8 ns                        | ~15 ns                           |
+Así pues, se esperan tiempos de transición rápidos adecuados para aplicaciones que demandan alta velocidad de conmutación y simétricos para el **SN54LS04 (TTL Inverter)**, mientras que se esperan tiempos más lento que el TTL, es suficientemente rápido para muchas aplicaciones estándar por parte del **TC4069UBP (CMOS Inverter)**, aunque los tiempos pueden aumentar si la carga capacitiva es alta.
+
