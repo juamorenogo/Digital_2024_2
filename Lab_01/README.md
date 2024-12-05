@@ -31,7 +31,7 @@ Por lo anterior , en este archivo se realiza la compilación de los resultados e
 ---
 ## Osciladores 
 
-Se compara los valores obtenidos para los osciladores. De manera experimental se encontró una mayor frecuencia en ambos casos, siendo específicamente, _2 MHz_ y _4 MHz_ mientras el modelo teórico demostró el comportamiento esperado según el numero de compuertas, sin embargo, los valores _773 kHz_ y _1.7 MHz_ demuestran la incompletitud del modelo y  a su vez la limitación de los instrumentos de medición usados.
+Se compararon los valores obtenidos experimentalmente para los osciladores. De manera experimental, se encontró una mayor frecuencia en ambos casos, siendo específicamente **2 MHz** y **4 MHz**, mientras que el modelo teórico mostró el comportamiento esperado según el número de compuertas, sin embargo, los valores obtenidos de **773 kHz** y **1.7 MHz** evidencian la incompletitud del modelo teórico, lo que sugiere que el modelo no captura completamente todas las variables que afectan la frecuencia de oscilación. Además, estos resultados experimentales reflejan las limitaciones de los instrumentos de medición utilizados, que podrían no haber sido lo suficientemente precisos para detectar frecuencias más altas o haber introducido ciertos márgenes de error. El modelo teórico, al estar basado en un enfoque ideal, no consideró aspectos prácticos como la capacitancia parasitaria, la resistencia de las conexiones, o las características no ideales de las compuertas CMOS, factores que influyen en el comportamiento real del oscilador. Estos factores pueden haber causado una desviación respecto a los valores teóricos, lo que resalta la diferencia entre los resultados teóricos y los experimentales.
 
 ## Valores Lógicos
 
