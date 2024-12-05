@@ -49,7 +49,6 @@ Se compararon los valores obtenidos experimentalmente para los osciladores. De m
 - **VOL (para VDD = 5V)**: El rango teórico para un **"0" lógico** debe estar entre **0 V** y **0.05 V**.
 - **Valor experimental**: Los valores de **0 V a 1.5 V** están significativamente por encima del máximo teórico de **0.05 V**, lo que indica que la salida no está alcanzando un **"0" lógico** adecuado.
 
-
 ## Tiempos 
 
 ### TTL
@@ -89,11 +88,6 @@ Se compararon los valores obtenidos experimentalmente para los osciladores. De m
 
 - **Desfase Propagacional**: El **tiempo de propagación** teórico es de **55 ns**. Los tiempos prácticos de subida y bajada ligeramente mayores sugieren que el retraso en el circuito está influenciado por características como la **capacitancia** o la **carga de los componentes**.
 
-- **Tiempo de Transición \( t_{THL} \)**: El valor medido de **8 ns** es mucho más bajo que el tiempo de transición **t_{THL}** teórico de **70 ns**, lo que indica que las mediciones del osciloscopio no están capturando el comportamiento ideal, o puede ser que haya una distorsión debido a las características del equipo.
-
-- **Estimación de \( t_{TLH} \)**: Dado que no se midió directamente, **\( t_{TLH} \)** debería ser aproximadamente **70 ns**, similar al valor teórico, aunque depende de la configuración del circuito y factores adicionales.
-
-
 ## Fan - In / Fan - Out
 
 ### TTL
@@ -101,5 +95,6 @@ Se compararon los valores obtenidos experimentalmente para los osciladores. De m
 ### CMOS
 
 ## Característica Vin - Vout
+
 
 ## Barrido de frecuencias con compuerta IC
