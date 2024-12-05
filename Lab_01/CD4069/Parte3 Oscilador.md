@@ -47,12 +47,21 @@ Y, por otra parte, observando los resultados para el caso con 5 CMOS:
 
 ### Resultados Simulados 
 
-Observando los resultados experimentales, vemos el siguiente caso para 3 inversores CMOS:
+Observando los resultados simulados desde _Qucs_s_, vemos el siguiente caso para 3 inversores CMOS:
 
+![](Imagenes/IMCD6.png)
 
+Cuya frecuencia se obtiene al generar el periodo con base en la diferencia de los puntos mostrados:
+
+$$ f  = \frac  {1}{T} \approx 1.7969 \,\, MHz$$
 
 Y, por otra parte, observando los resultados para el caso con 5 CMOS:
 
+![](Imagenes/IMCD7.png)
+
+Cuya frecuencia se obtiene al generar el periodo con base en la diferencia de los puntos mostrados:
+
+$$ f  = \frac  {1}{T} \approx 773.395 \,\, kHz$$
 
 
 ### Conclusión

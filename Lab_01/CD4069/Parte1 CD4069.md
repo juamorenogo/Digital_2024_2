@@ -4,7 +4,7 @@ En primer lugar se comprueba que el comportamiento de las compuertas sea el espe
 
 Posteriormente se platea medir los intervalos de "1" y "0" lógicos usando un primer canal de una fuente DC que suministrara el nivel de voltaje de alimentación en los pines _VCC _y _GND_.  Para la señal se usara otro canal de la fuente DC que ira variando de **0V a 5V**  y a su vez los pines correspondientes del inversor (**I1  /  O1**) se conectara una resistencia de 0.977 kOhm en el pin de salida *O1* donde se sabe que la corriente deberá con la siguiente proporción : 
 
-![|500](Imagenes/ImCD42.png)
+![|500](Imagenes/ImCD5.png)
 
 
 Por lo mismo, se medirá el voltaje de la resistencia para conocer el voltaje en diferentes momentos de voltaje y así estimar el intervalo:
