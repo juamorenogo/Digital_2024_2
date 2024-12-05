@@ -18,7 +18,7 @@ El circuito equivalente entregado por el datasheet se detalla a continuación, d
 
 Por otro lado, se obtienen los datos típicos dados por el fabricante para diferentes parámetros:
 
-![](Imagenes/Im1.png)
+![](Lab_01/SN70LS04/Imagenes/Im1.png)
 
 
 ---
