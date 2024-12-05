@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab_01/CD4069/README.md",
+                "file": "Lab_01/CD4069/Parte3_Oscilador.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Parte3_Oscilador"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_01/CD4069/README.md"
+                "file": "Lab_01/CD4069/Parte3_Oscilador.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Parte3_Oscilador"
             }
           },
           {
@@ -173,11 +173,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0865259c7b27aa2",
+  "active": "6dc1bdc53ac2df97",
   "lastOpenFiles": [
+    "Lab_01/CD4069/README.md",
     "Lab_01/SN70LS04/README.md",
     "Lab_01/CD4069/1_Preparacion.md",
-    "Lab_01/CD4069/README.md",
     "Lab_01/CD4069/Parte3_Oscilador.md",
     "Lab_01/CD4069/Parte2_CD4069.md",
     "Lab_01/README.md",
