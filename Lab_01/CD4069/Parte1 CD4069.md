@@ -9,8 +9,8 @@ Posteriormente se platea medir los intervalos de "1" y "0" lógicos usando un pr
 
 Por lo mismo, se medirá el voltaje de la resistencia para conocer el voltaje en diferentes momentos de voltaje y así estimar el intervalo:
 
-![|300](CD4069/Imagenes/Prueba2.png)
 
+![](Prueba3.png)
 
 | Vcc     | V1a     | Vr (mV) | I_out (mA) |
 | ------- | ------- | ------- | ---------- |
