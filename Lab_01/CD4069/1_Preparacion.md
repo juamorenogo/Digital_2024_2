@@ -16,7 +16,7 @@ El circuito equivalente entregado por el datasheet se detalla a continuación, d
 
 Por otro lado, se obtienen los datos típicos dados por el fabricante para diferentes parámetros:
 
-![](Lab_01/CD4069/Imagenes/Im3.png)
+![](Imagenes/Im3.png)
 
 
 
