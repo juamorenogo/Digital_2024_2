@@ -1,5 +1,4 @@
 
-
 ### Modelo usado
 
 Para el oscilador de tres compuertas, se sabe que (dado que son compuertas NOT de la familia lógica **LS**, Low Power Schottky) la onda resultante será cuadrada, pero más particularmente se deformará según el tiempo de retardo de cada compuerta. Dada la referencia, se espera que el tiempo de retardo sea relativamente bajo, lo que ayuda a aumentar la velocidad de conmutación del oscilador. Lo que más podría llegar a afectar serían los efectos de la capacitancia y la resistencia en el camino que cursa la señal, en particular la frecuencia y la forma.
