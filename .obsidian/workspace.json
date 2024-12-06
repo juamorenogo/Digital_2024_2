@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dbee0cb80a969151",
+        "id": "6ebdc19c66757fd1",
         "type": "tabs",
         "children": [
           {
-            "id": "07fa468cd2af965b",
+            "id": "a3e120d757d8e5a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab_02/1. Dominio Comportamental.md",
+                "file": "Lab_01/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Dominio Comportamental"
+              "title": "README"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_02/1. Dominio Comportamental.md"
+                "file": "Lab_01/README.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Dominio Comportamental"
+              "title": "Outline of README"
             }
           },
           {
@@ -160,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 223.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,53 +173,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "07fa468cd2af965b",
+  "active": "a3e120d757d8e5a1",
   "lastOpenFiles": [
-    "Diagrama_De_Flujo.png",
-    "Pasted image 20241205172935.png",
-    "Lab_02/1. Dominio Comportamental.md",
-    "Lab_01/CD4069/Parte2 CD4069.md",
-    "Lab_01/SN70LS04/Parte2_SN70LS04.md",
-    "Lab_01/SN70LS04/Parte1_SN70LS04.md",
-    "Lab_01/CD4069/Parte3_Oscilador.md",
-    "Lab_01/CD4069/Parte2_CD4069.md",
-    "Lab_01/CD4069/Parte1_CD4069.md",
-    "Lab_01/CD4069/Imagenes/Part3_2.png",
-    "Lab_01/CD4069/Imagenes/Part3_1.png",
-    "Lab_01/CD4069/Imagenes/ImCD5.png",
-    "Lab_01/CD4069/Imagenes/Im6CD.png",
+    "Lab_02/CajaNegra1.png",
+    "Lab_01/CD4069/Parte1 CD4069.md",
+    "Lab_01/CD4069/Imagenes/Im2.png",
     "Lab_01/CD4069/Imagenes/IMCD7.png",
     "Lab_01/CD4069/Imagenes/IMCD6.png",
+    "Lab_01/CD4069/Imagenes/IMCD4.png",
+    "Lab_01/CD4069/Imagenes/F0000TEK.bmp",
     "Lab_01/1_Marco_Teórico/Parte 2_Fan in, Fan out y disipación de potencia.md",
     "Lab_01/1_Marco_Teórico/Parte 1_Teoría de Características funcionales.md",
     "Lab_01/1_Marco_Teórico",
-    "Lab_01/CD4069/Parte3 Oscilador.md",
-    "Lab_01/SN70LS04/Parte1 SN70LS04.md",
-    "Lab_01/SN70LS04/Parte2 SN70LS04.md",
-    "Lab_01/SN70LS04/README.md",
-    "Lab_01/Teoría/Parte 2_Fan in, Fan out y disipación de potencia.md",
-    "Lab_01/Teoría/Parte 1_Teoría de Características funcionales.md",
-    "Lab_01/CD4069/2_Simulacion.md",
-    "Datasheets/Lab_01/2024-11-11 194231.png",
-    "Lab_01/CD4069/Parte1 CD4069.md",
-    "Lab_01/CD4069/1_Preparacion.md",
-    "Lab_01/SN70LS04/1_Preparacion.md",
+    "Lab_02/Diagrama_De_Flujo.png",
     "Datasheets/Lab_01/TC4069UBP.PDF",
-    "Datasheets/Lab_01/74LS04.PDF",
-    "Datasheets/Lab_01/CD4069.PDF",
+    "Datasheets/Lab_01/2024-11-11 194231.png",
+    "Lab_01/SN70LS04/Parte3 SN70LS04.md",
+    "Lab_01/SN70LS04/Parte2 SN70LS04.md",
+    "Lab_01/SN70LS04/Imagenes/SCR01.png",
+    "Lab_01/SN70LS04/Imagenes/C1SN.png",
     "Lab_01/SN70LS04/2_Simulacion.md",
-    "Lab_01/README.md",
-    "Lab_01/Teoría",
-    "Lab_01/Untitled.md",
-    "conflict-files-obsidian-git.md",
-    "Lab_01/CD4069/SPICE/SImulacion2.asc",
-    "Lab_01/CD4069/Imagenes/im1.png",
-    "Lab_01/CD4069/Imagenes/ImTemp2.png",
-    "Datasheets/Lab_01/CD4069UBC.PDF",
+    "Lab_01/SN70LS04/1_Preparacion.md",
+    "Lab_01/CD4069/2_Simulacion.md",
+    "Lab_01/CD4069/1_Preparacion.md",
+    "Lab_01/CD4069/Parte2.md",
     "Lab_01/CD4069/Parte3 CD4069.md",
-    "Lab_01/SN70LS04/(Parte3) Oscilador en anillo a partir de SN70LS04.md",
-    "Datasheets/Lab_01/HD74LS04 (1).PDF",
-    "Datasheets/Lab_01/HD74LS04.PDF",
-    "Datasheets/Lab_01/SN5404.PDF"
+    "Lab_01/CD4069/Parte2 CD4069.md",
+    "Lab_01/CD4069/Imagenes/Pasted image 20241128162820.png",
+    "Lab_01/SN70LS04/Parte1 SN70LS04.md",
+    "Lab_01/CD4069/README.md",
+    "Lab_01/CD4069/Preparacion.md",
+    "Lab_01/CD4069/Parte3.md",
+    "Lab_01/CD4069/SPICE/Simulacion1.raw",
+    "Lab_01/CD4069/SPICE/Simulacion1.log",
+    "Lab_01/CD4069/Imagenes",
+    "Lab_01/CD4069/Simulacion.md",
+    "conflict-files-obsidian-git.md",
+    "Lab_02/README.md",
+    "Lab_01/SN70LS04/Preparacion.md",
+    "Lab_01/SN70LS04/Simulacion.md",
+    "Lab_01/SN70LS04/README.md",
+    "Lab_01/SN70LS04/SPICE/Simulacion1.log",
+    "Lab_01/SN70LS04/SPICE/Simulacion1.raw",
+    "Lab_01/SN70LS04/SPICE/Simulacion1.net",
+    "Lab_01/CD4069/SPICE/Simulacion1.asc",
+    "Lab_01/CD4069/SPICE",
+    "Lab_01/SN70LS04/Parte3.md",
+    "Lab_01/SN70LS04/Parte2.md",
+    "Digital_2024_2/Datasheets/Lab_01.md"
   ]
 }

@@ -15,13 +15,10 @@ Por lo anterior , en este archivo se realiza la compilación de los resultados e
 ---
 ## A tener en cuenta
 
-(JAIME)
 - [ ] CMOS PARTE 2 FAN OUT CON DATOS EXPERIMENTALES CD4069
 - [x] Marco teorico en cada parte
 - [ ] Obtener la característica de Vin vs Vout.
 - [ ]  CMOS PARTE 2 FAN OUT CON DATOS EXPERIMENTALES TTL 
-
-(SEBASTIAN)
 - [ ] Simular cada compuerta con su modelo spice variando la frecuencia de la señal de entrada.
 - [x] Simular los osciladores en anillo.
 - [ ] Comparar las mediciones.
