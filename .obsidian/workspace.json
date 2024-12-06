@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "69a9a8f5513df071",
+        "id": "dbee0cb80a969151",
         "type": "tabs",
         "children": [
           {
-            "id": "b0865259c7b27aa2",
+            "id": "07fa468cd2af965b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab_01/SN70LS04/Parte1_SN70LS04.md",
+                "file": "Lab_02/1. Dominio Comportamental.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parte1_SN70LS04"
+              "title": "1. Dominio Comportamental"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_01/SN70LS04/Parte1_SN70LS04.md"
+                "file": "Lab_02/1. Dominio Comportamental.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Parte1_SN70LS04"
+              "title": "Outline of 1. Dominio Comportamental"
             }
           },
           {
@@ -160,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,52 +173,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0865259c7b27aa2",
+  "active": "07fa468cd2af965b",
   "lastOpenFiles": [
-    "Lab_01/SN70LS04/2_Simulacion.md",
-    "Lab_01/SN70LS04/1_Preparacion.md",
-    "Lab_01/README.md",
-    "Lab_01/SN70LS04/Parte1_SN70LS04.md",
-    "Lab_01/SN70LS04/Imagenes/biden.png",
-    "Lab_01/CD4069/README.md",
-    "Lab_01/CD4069/2_Simulacion.md",
-    "Lab_01/SN70LS04/Imagenes/Im6.png",
-    "Lab_01/CD4069/Imagenes/Im6CD.png",
-    "Lab_01/CD4069/Imagenes/Im6.png",
-    "Lab_01/CD4069/Parte3_Oscilador.md",
-    "Lab_01/SN70LS04/README.md",
-    "Lab_01/CD4069/1_Preparacion.md",
-    "Lab_01/CD4069/Parte2_CD4069.md",
-    "SN70LS04.md",
-    "1_Marco_Teórico.md",
-    "1_Marco.md",
-    "Lab_01/CD4069/Parte1_CD4069.md",
-    "Datasheets/Lab_01/TC4069UBP.PDF",
-    "Datasheets/Lab_01/CD4069.PDF",
-    "().md",
-    "Lab_01/CD4069/Imagenes/IMCD7.png",
-    "Lab_01/CD4069/Imagenes/ImCD5.png",
-    "Lab_01/CD4069/Imagenes/Im3.png",
-    "Lab_01/CD4069/Imagenes/IMCD4.png",
-    "Lab_01/CD4069/Imagenes/ImTemp2.png",
-    "Lab_01/CD4069/Imagenes/ImTemp1.png",
-    "Lab_01/1_Marco_Teórico/Parte 1_Teoría de Características funcionales.md",
-    "Lab_01/1_Marco_Teórico/Parte 2_Fan in, Fan out y disipación de potencia.md",
-    "Lab_01/CD4069/SPICE/Simulacion1.raw",
-    "Lab_01/CD4069/SPICE/Simulacion1.net",
-    "Lab_02/README.md",
-    "Lab_01/1_Marco_Teórico",
-    "Datasheets/Lab_01/74LS04.PDF",
-    "Ignorar",
-    "Nueva carpeta",
-    "Lab_01/CD4069/SPICE/Simulacion1.log",
-    "Datasheets/Lab_01/CD4069UBC.PDF",
+    "Diagrama_De_Flujo.png",
+    "Pasted image 20241205172935.png",
+    "Lab_02/1. Dominio Comportamental.md",
+    "Lab_01/CD4069/Parte2 CD4069.md",
     "Lab_01/SN70LS04/Parte2_SN70LS04.md",
-    "Lab_01/CD4069/Parte3 CD4069.md",
-    "Lab_01/SN70LS04/Parte3 SN70LS04.md",
+    "Lab_01/SN70LS04/Parte1_SN70LS04.md",
+    "Lab_01/CD4069/Parte3_Oscilador.md",
+    "Lab_01/CD4069/Parte2_CD4069.md",
+    "Lab_01/CD4069/Parte1_CD4069.md",
+    "Lab_01/CD4069/Imagenes/Part3_2.png",
+    "Lab_01/CD4069/Imagenes/Part3_1.png",
+    "Lab_01/CD4069/Imagenes/ImCD5.png",
+    "Lab_01/CD4069/Imagenes/Im6CD.png",
+    "Lab_01/CD4069/Imagenes/IMCD7.png",
+    "Lab_01/CD4069/Imagenes/IMCD6.png",
+    "Lab_01/1_Marco_Teórico/Parte 2_Fan in, Fan out y disipación de potencia.md",
+    "Lab_01/1_Marco_Teórico/Parte 1_Teoría de Características funcionales.md",
+    "Lab_01/1_Marco_Teórico",
+    "Lab_01/CD4069/Parte3 Oscilador.md",
+    "Lab_01/SN70LS04/Parte1 SN70LS04.md",
+    "Lab_01/SN70LS04/Parte2 SN70LS04.md",
+    "Lab_01/SN70LS04/README.md",
+    "Lab_01/Teoría/Parte 2_Fan in, Fan out y disipación de potencia.md",
+    "Lab_01/Teoría/Parte 1_Teoría de Características funcionales.md",
+    "Lab_01/CD4069/2_Simulacion.md",
+    "Datasheets/Lab_01/2024-11-11 194231.png",
+    "Lab_01/CD4069/Parte1 CD4069.md",
+    "Lab_01/CD4069/1_Preparacion.md",
+    "Lab_01/SN70LS04/1_Preparacion.md",
+    "Datasheets/Lab_01/TC4069UBP.PDF",
+    "Datasheets/Lab_01/74LS04.PDF",
+    "Datasheets/Lab_01/CD4069.PDF",
+    "Lab_01/SN70LS04/2_Simulacion.md",
+    "Lab_01/README.md",
+    "Lab_01/Teoría",
+    "Lab_01/Untitled.md",
     "conflict-files-obsidian-git.md",
-    "Lab_01/SN70LS04/Parte1.md",
-    "Digital_2024_2/Datasheets/Lab_01.md",
-    "[.md"
+    "Lab_01/CD4069/SPICE/SImulacion2.asc",
+    "Lab_01/CD4069/Imagenes/im1.png",
+    "Lab_01/CD4069/Imagenes/ImTemp2.png",
+    "Datasheets/Lab_01/CD4069UBC.PDF",
+    "Lab_01/CD4069/Parte3 CD4069.md",
+    "Lab_01/SN70LS04/(Parte3) Oscilador en anillo a partir de SN70LS04.md",
+    "Datasheets/Lab_01/HD74LS04 (1).PDF",
+    "Datasheets/Lab_01/HD74LS04.PDF",
+    "Datasheets/Lab_01/SN5404.PDF"
   ]
 }
