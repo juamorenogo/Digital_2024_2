@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Lab_01/SN70LS04/1_Preparacion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1_Preparacion"
+            }
+          },
+          {
+            "id": "ffc50998b9029b2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Lab_01/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "README"
-            }
-          },
-          {
-            "id": "0abde9aaf1b20050",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lab_01/CD4069/2_Simulacion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2_Simulacion"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_01/CD4069/2_Simulacion.md"
+                "file": "Lab_01/README.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2_Simulacion"
+              "title": "Outline of README"
             }
           },
           {
@@ -188,14 +188,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0abde9aaf1b20050",
+  "active": "ffc50998b9029b2a",
   "lastOpenFiles": [
+    "Lab_01/SN70LS04/Parte1_SN70LS04.md",
+    "Lab_01/SN70LS04/2_Simulacion.md",
+    "Lab_01/CD4069/Parte1_CD4069.md",
+    "Lab_01/SN70LS04/1_Preparacion.md",
     "Lab_01/CD4069/1_Preparacion.md",
+    "Lab_01/README.md",
+    "Lab_01/CD4069/README.md",
     "Lab_01/CD4069/2_Simulacion.md",
     "Lab_01/1_Marco_Teórico/Parte 2_Teoría Fan in, Fan out y disipación de potencia.md",
     "Lab_01/1_Marco_Teórico/Parte 3_Teoría Oscilador.md",
-    "Lab_01/README.md",
-    "Lab_01/SN70LS04/2_Simulacion.md",
     "Lab_01/CD4069/Parte3_Oscilador.md",
     "Lab_01/1_Marco_Teórico/Parte 1_Teoría de Características funcionales.md",
     "Lab_01/CD4069/Parte2_CD4069.md",
@@ -215,12 +219,10 @@
     "Lab_01/SN70LS04/Parte2 SN70LS04.md",
     "Lab_01/SN70LS04/Imagenes/SCR01.png",
     "Lab_01/SN70LS04/Imagenes/C1SN.png",
-    "Lab_01/SN70LS04/1_Preparacion.md",
     "Lab_01/CD4069/Parte2.md",
     "Lab_01/CD4069/Parte3 CD4069.md",
     "Lab_01/CD4069/Parte2 CD4069.md",
     "Lab_01/SN70LS04/Parte1 SN70LS04.md",
-    "Lab_01/CD4069/README.md",
     "Lab_01/CD4069/Preparacion.md",
     "Lab_01/CD4069/Parte3.md",
     "Lab_01/CD4069/SPICE/Simulacion1.raw",
@@ -229,8 +231,6 @@
     "Lab_01/CD4069/Simulacion.md",
     "conflict-files-obsidian-git.md",
     "Lab_02/README.md",
-    "Lab_01/SN70LS04/Preparacion.md",
-    "Lab_01/SN70LS04/Simulacion.md",
     "Lab_01/SN70LS04/SPICE/Simulacion1.log",
     "Lab_01/SN70LS04/SPICE/Simulacion1.raw",
     "Lab_01/SN70LS04/SPICE/Simulacion1.net",

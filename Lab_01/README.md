@@ -18,11 +18,11 @@ Por lo anterior , en este archivo se realiza la compilación de los resultados e
 - [ ] CMOS PARTE 2 FAN OUT CON DATOS EXPERIMENTALES CD4069
 - [x] Marco teorico en cada parte
 - [ ] Obtener la característica de Vin vs Vout.
-- [ ]  CMOS PARTE 2 FAN OUT CON DATOS EXPERIMENTALES TTL 
+- [ ] CMOS PARTE 2 FAN OUT CON DATOS EXPERIMENTALES TTL 
 - [ ] Simular cada compuerta con su modelo spice variando la frecuencia de la señal de entrada.
 - [x] Simular los osciladores en anillo.
 - [ ] Comparar las mediciones.
-- [ ] Corregir TTL parte1
+- [x] Corregir TTL parte1
 - [ ] Comparar los resultados de los tiempo medidos en el laboratorio con los obtenidos en la simulación.
 
 ---

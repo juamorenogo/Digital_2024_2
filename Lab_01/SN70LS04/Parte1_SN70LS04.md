@@ -15,26 +15,29 @@ Para poder separar el **"1"** lógico del **"0"** lógico,  se opta por basarse 
 
 Por lo mismo, se medirá el voltaje de la resistencia para conocer la corriente de salida y así estimar el intervalo:
 
-| **Vcc** | **Voltaje de salida (V)** | **Voltaje de entrada (V)** | **Corriente (mA)** |
-| ------- | ------------------------- | -------------------------- | ------------------ |
-|         |                           |                            |                    |
-|         |                           |                            |                    |
-|         |                           |                            |                    |
-|         |                           |                            |                    |
-|         |                           |                            |                    |
-|         |                           |                            |                    |
-|         |                           |                            |                    |
-|         |                           |                            |                    |
-|         |                           |                            |                    |
-|         |                           |                            |                    |
-|         |                           |                            |                    |
-|         |                           |                            |                    |
+| **Vcc** | **Voltaje entrada V1 (V)** | **VR (V)** | **Corriente (mA)** |
+| ------- | -------------------------- | ---------- | ------------------ |
+| 4.986   | 4.999                      | 1 mV       |                    |
+| 4.996   | 4.495                      | 1 mV       |                    |
+| 4.995   | 3.990                      | 1 mV       |                    |
+| 4.995   | 3.698                      | 1.1 mV     |                    |
+| 4.994   | 3.393                      | 1.2 mV     |                    |
+| 4.994   | 2.994                      | 1.3 mV     |                    |
+| 4.995   | 2.900                      | 2.03 V     |                    |
+| 4.995   | 2.493                      | 4.992 V    |                    |
+| 4.994   | 1.992                      | 4.887 V    |                    |
+| 4.986   | 1.511                      | 4.875 V    |                    |
+| 4.996   | 0.995                      | 4.872 V    |                    |
+| 4.995   | 0.503                      | 4.870 V    |                    |
+| 4.996   | 0.103                      | 4.871 V    |                    |
+|         |                            |            |                    |
+
 
 
 Por la tabla anterior se concluye que :
 
 ##### TTL : "1" Lógico  --> [3 V - 5V]
-##### TTL : "0" Lógico  --> [0 V - 0.8V]
+##### TTL : "0" Lógico  --> [0 V - 2V]
 
 --- 
 
