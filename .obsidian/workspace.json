@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a322931be768b6c6",
+        "id": "6043227d52618e0b",
         "type": "tabs",
         "children": [
           {
-            "id": "b7ae2d3ec91fb93d",
+            "id": "6c3d9a7e9750227c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7ae2d3ec91fb93d",
+  "active": "6c3d9a7e9750227c",
   "lastOpenFiles": [
     "Lab_01/SN70LS04/2_Simulacion.md",
     "Lab_01/README.md",
