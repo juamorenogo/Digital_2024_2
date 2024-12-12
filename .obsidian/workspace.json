@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dbee0cb80a969151",
+        "id": "6043227d52618e0b",
         "type": "tabs",
         "children": [
           {
-            "id": "07fa468cd2af965b",
+            "id": "6c3d9a7e9750227c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e7815e6c5aa52316",
@@ -160,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 223.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,53 +173,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "07fa468cd2af965b",
+  "active": "6c3d9a7e9750227c",
   "lastOpenFiles": [
-    "Pasted image 20241212080939.png",
-    "Pasted image 20241212080656.png",
-    "Pasted image 20241212080608.png",
-    "Pasted image 20241212080557.png",
-    "Pasted image 20241212075929.png",
-    "Ladder.png",
     "Lab_02/1. Dominio Comportamental.md",
+    "Lab_02/README.md",
     "Lab_02/README_Secundario.md",
-    "Lab_02/CajaNegra1.png",
-    "Lab_01/Caracterizacion.md",
-    "Lab_01/Imagenes/SCR08.PNG",
-    "Lab_01/Imagenes/SCR09.PNG",
-    "Lab_01/Imagenes/SCR05.PNG",
-    "Lab_01/Imagenes/SCR07.PNG",
-    "Lab_01/Imagenes",
-    "Lab_01/1_Marco_Teórico/Parte 3_Teoría Oscilador.md",
+    "Lab_02/Imagenes/Diagrama_De_Flujo.png",
+    "Lab_02/Imagenes/CajaNegra1.png",
+    "Lab_02/Imagenes/L6.png",
+    "Lab_02/Imagenes/L5.png",
+    "Lab_02/Imagenes/L4.png",
+    "Lab_02/Imagenes/L3.png",
+    "Lab_02/Imagenes/L2.png",
+    "Lab_02/Imagenes/Ladder.png",
+    "Lab_02/Imagenes",
     "Lab_01/1_Marco_Teórico/Parte 2_Teoría Fan in, Fan out y disipación de potencia.md",
-    "Lab_01/CD4069/Parte2 CD4069.md",
+    "Lab_01/SN70LS04/SPICE/Fan_out2.jpg",
+    "Lab_01/SN70LS04/SPICE/Fan_out.jpg",
+    "Lab_01/Imagenes",
+    "Lab_01/Caracterizacion.md",
+    "Lab_01/SN70LS04/2_Simulacion.md",
+    "Lab_01/README.md",
     "Lab_01/SN70LS04/Parte2_SN70LS04.md",
     "Lab_01/SN70LS04/Parte1_SN70LS04.md",
+    "Lab_01/SN70LS04/1_Preparacion.md",
+    "Lab_01/CD4069/SPICE/SImulacion2.asc",
+    "Lab_01/CD4069/SPICE/Simulacion1.asc",
+    "Lab_01/CD4069/SPICE",
+    "Lab_01/CD4069/README.md",
     "Lab_01/CD4069/Parte3_Oscilador.md",
     "Lab_01/CD4069/Parte2_CD4069.md",
     "Lab_01/CD4069/Parte1_CD4069.md",
-    "Lab_01/1_Marco_Teórico/Parte 2_Fan in, Fan out y disipación de potencia.md",
+    "Lab_01/CD4069/Imagenes",
+    "Lab_01/CD4069/2_Simulacion.md",
+    "Lab_01/CD4069/1_Preparacion.md",
+    "Lab_01/CD4069",
+    "Lab_01/1_Marco_Teórico/Parte 3_Teoría Oscilador.md",
     "Lab_01/1_Marco_Teórico/Parte 1_Teoría de Características funcionales.md",
     "Lab_01/1_Marco_Teórico",
-    "Lab_01/CD4069/Parte3 Oscilador.md",
-    "Lab_01/SN70LS04/Parte1 SN70LS04.md",
-    "Lab_01/SN70LS04/Parte2 SN70LS04.md",
-    "Lab_01/SN70LS04/README.md",
-    "Lab_01/Teoría/Parte 2_Fan in, Fan out y disipación de potencia.md",
-    "Lab_01/Teoría/Parte 1_Teoría de Características funcionales.md",
-    "Lab_01/CD4069/2_Simulacion.md",
-    "Lab_01/CD4069/Parte1 CD4069.md",
-    "Lab_01/CD4069/1_Preparacion.md",
-    "Lab_01/SN70LS04/1_Preparacion.md",
     "Datasheets/Lab_01/TC4069UBP.PDF",
-    "Datasheets/Lab_01/74LS04.PDF",
-    "Datasheets/Lab_01/CD4069.PDF",
-    "Lab_01/SN70LS04/2_Simulacion.md",
-    "Lab_01/README.md",
-    "Lab_01/Teoría",
-    "Lab_01/CD4069/SPICE/SImulacion2.asc",
-    "Datasheets/Lab_01/CD4069UBC.PDF",
-    "Datasheets/Lab_01/HD74LS04 (1).PDF",
-    "Datasheets/Lab_01/HD74LS04.PDF"
+    "conflict-files-obsidian-git.md",
+    "Lab_01/SN70LS04/Simulacion.md",
+    "Lab_01/SN70LS04/SPICE/Simulacion1.asc",
+    "Lab_01/SN70LS04/README.md",
+    "Lab_01/SN70LS04/Preparacion.md",
+    "Lab_01/SN70LS04/Parte3.md",
+    "Lab_01/SN70LS04/Parte2.md",
+    "Lab_01/SN70LS04/Parte1.md"
   ]
 }
