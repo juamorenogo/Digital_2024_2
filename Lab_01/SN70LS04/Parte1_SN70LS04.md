@@ -17,26 +17,24 @@ Por lo mismo, se medirá el voltaje de la resistencia para conocer la corriente 
 
 | **Vcc** | **Voltaje entrada V1 (V)** | **VR (V)** | **Corriente (mA)** |
 | ------- | -------------------------- | ---------- | ------------------ |
-| 4.986   | 4.999                      | 1 mV       |                    |
-| 4.996   | 4.495                      | 1 mV       |                    |
-| 4.995   | 3.990                      | 1 mV       |                    |
-| 4.995   | 3.698                      | 1.1 mV     |                    |
-| 4.994   | 3.393                      | 1.2 mV     |                    |
-| 4.994   | 2.994                      | 1.3 mV     |                    |
-| 4.995   | 2.900                      | 2.03 V     |                    |
-| 4.995   | 2.493                      | 4.992 V    |                    |
-| 4.994   | 1.992                      | 4.887 V    |                    |
-| 4.986   | 1.511                      | 4.875 V    |                    |
-| 4.996   | 0.995                      | 4.872 V    |                    |
-| 4.995   | 0.503                      | 4.870 V    |                    |
-| 4.996   | 0.103                      | 4.871 V    |                    |
-|         |                            |            |                    |
-
+| 4.986   | 4.999                      | 1 mV       | 1.02 uA            |
+| 4.996   | 4.495                      | 1 mV       | 1.02 uA            |
+| 4.995   | 3.990                      | 1 mV       | 1.02 uA            |
+| 4.995   | 3.698                      | 1.1 mV     | 1.12 uA            |
+| 4.994   | 3.393                      | 1.2 mV     | 1.22 uA            |
+| 4.994   | 2.994                      | 1.3 mV     | 1.326 uA           |
+| 4.995   | 2.900                      | 2.03 V     | 2.07 mA            |
+| 4.995   | 2.493                      | 4.992 V    | 5.09 mA            |
+| 4.994   | 1.992                      | 4.887 V    | 4.98 mA            |
+| 4.986   | 1.511                      | 4.875 V    | 4.97 mA            |
+| 4.996   | 0.995                      | 4.872 V    | 4.97 mA            |
+| 4.995   | 0.503                      | 4.870 V    | 4.969 mA           |
+| 4.996   | 0.103                      | 4.871 V    | 4.97 mA            |
 
 
 Por la tabla anterior se concluye que :
 
-##### TTL : "1" Lógico  --> [3 V - 5V]
+##### TTL : "1" Lógico  --> [4 V - 5V]
 ##### TTL : "0" Lógico  --> [0 V - 2V]
 
 --- 
@@ -58,14 +56,19 @@ tf : 29.4 ns
 
 ## Tiempo de retardo
 
-### Tiempo de Retardo de Propagación (tphlt_{phl}tphl​ y tplht_{plh}tplh​)
-
 El **tiempo de retardo de propagación** es el tiempo que tarda la señal de salida en responder a un cambio en la señal de entrada. Se mide en dos direcciones:
 
-- **tplht_{plh}tplh​**: Tiempo de retardo cuando la salida cambia de baja a alta (Propagación de Bajo a Alto).
-- **tphlt_{phl}tphl​**: Tiempo de retardo cuando la salida cambia de alta a baja (Propagación de Alto a Bajo).
+- **\( t_{PLH} \)**: Tiempo de retardo cuando la salida cambia de baja a alta (Propagación de Bajo a Alto).
+  - **Valor medido**: 100 ns.
 
-YA SE TIENEN LOS DATOS
+- **\( t_{PHL} \)**: Tiempo de retardo cuando la salida cambia de alta a baja (Propagación de Alto a Bajo).
+  - **Valor medido**: 16.8 ns.
+  
+El **tiempo de retardo de propagación** entonces se calcula como :
+
+$$ 100 ns - 16.8ns = 83.2 ns$$
+
+
 
 
 ---
