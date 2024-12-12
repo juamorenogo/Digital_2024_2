@@ -121,7 +121,7 @@ Como se esperaba, el *FAN OUT* del CMOS es mayor al de la otra tecnología, esto
 
 Para esto se dispuso de un archivo único que contiene todas las graficas obtenidas,  que caracterizan esta Relacion : 
 
-![Caracterizacion](Caracterizacion)
+![Caracterizacion](Caracterizacion.md)
 
 ---
 ## Barrido de frecuencias con compuerta IC
