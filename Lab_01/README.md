@@ -53,14 +53,44 @@ Se compararon los valores obtenidos experimentalmente para los osciladores. De m
 - **Valor experimental**: Los valores de **0 V a 1.5 V** están significativamente por encima del máximo teórico de **0.05 V**, lo que indica que la salida no está alcanzando un **"0" lógico** adecuado.
 
 
-Aunque en el **TTL** se comprueba los datos especificados por el fabricante,
+Aunque en el **TTL** se comprueba los datos especificados por el fabricante, en el **CMOS** no ocurre esto, sin embargo, si cumple con la cualidad esperada de tener rangos de operación lógica mas pequeños, por lo mismo, se teoriza que el _Datasheet_ utilizado no es el apropiado para este __IC__.
 ## Tiempos 
 
 ### TTL
 
-### CMOS
+#### Tiempos Teóricos (Datasheet)
+- \( t_{TLH} \):
+  - Para **VDD = 5V**: 70 ns (mínimo)
+  
+- \( t_{THL} \):
+  - Para **VDD = 5V**: 70 ns (mínimo)
 
-### Comparación de Tiempos de Transición para TC4069UBP
+- \( t_{pLH} \):
+  - Para **VDD = 5V**: 55 ns (mínimo)
+
+- \( t_{pHL} \):
+  - Para **VDD = 5V**: **55 ns** (mínimo)
+#### Tiempos Prácticos (Mediciones)
+- **Tiempo de Subida (Rise Time)**:
+  - **tr80**: 74.35 ns
+  - **tr**: 114.4 ns 
+
+- **Tiempo de Bajada (Fall Time)**:
+  - **tf80**: 81.3 ns
+  - **tf**: 120 ns
+
+- **Tiempo de Transición (high to low)** \( t_{THL} \): 8 ns
+  
+- **Tiempo de Transición (low to high)** \( t_{TLH} \):  60 ns
+#### Comparación
+- **Tiempo de Subida**: El tiempo de subida práctico \( tr \) de **114.4 ns** es más alto que el valor teórico de **70 ns**, lo que puede indicar efectos de carga, capacitancia o ineficiencia en el circuito.
+  
+- **Tiempo de Bajada**: El tiempo de bajada práctico \( tf \) de **120 ns** también es más alto que el valor teórico de **70 ns**, lo que podría estar relacionado con similares factores de carga o de configuración del circuito.
+
+- **Desfase Propagacional**: El **tiempo de propagación** teórico es de **55 ns**. Los tiempos prácticos de subida y bajada ligeramente mayores sugieren que el retraso en el circuito está influenciado por características como la **capacitancia** o la **carga de los componentes**.
+
+
+### CMOS
 
 #### Tiempos Teóricos (Datasheet)
 - \( t_{TLH} \):

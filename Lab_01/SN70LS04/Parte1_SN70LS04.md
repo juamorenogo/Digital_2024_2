@@ -9,9 +9,6 @@ Posteriormente se platea medir los intervalos de "1" y "0" lógicos usando un pr
 
 ![[C1SN.png]]
 
-Para poder separar el **"1"** lógico del **"0"** lógico,  se opta por basarse en la corriente de salida del inversor. Se espera que el gasto de corriente en el "0" sea mayor al "1", y los valores específicos son extraídos del datasheet:
-
-![[Pasted image 20241128144020.png]]
 
 Por lo mismo, se medirá el voltaje de la resistencia para conocer la corriente de salida y así estimar el intervalo:
 
