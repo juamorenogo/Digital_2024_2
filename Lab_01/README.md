@@ -30,6 +30,7 @@ Por lo anterior , en este archivo se realiza la compilación de los resultados e
 
 Se compararon los valores obtenidos experimentalmente para los osciladores. De manera experimental, se encontró una mayor frecuencia en ambos casos, siendo específicamente **2 MHz** y **4 MHz**, mientras que el modelo teórico mostró el comportamiento esperado según el número de compuertas, sin embargo, los valores obtenidos de **773 kHz** y **1.7 MHz** evidencian la incompletitud del modelo teórico, lo que sugiere que el modelo no captura completamente todas las variables que afectan la frecuencia de oscilación. Además, estos resultados experimentales reflejan las limitaciones de los instrumentos de medición utilizados, que podrían no haber sido lo suficientemente precisos para detectar frecuencias más altas o haber introducido ciertos márgenes de error. El modelo teórico, al estar basado en un enfoque ideal, no consideró aspectos prácticos como la capacitancia parasitaria, la resistencia de las conexiones, o las características no ideales de las compuertas CMOS, factores que influyen en el comportamiento real del oscilador. Estos factores pueden haber causado una desviación respecto a los valores teóricos, lo que resalta la diferencia entre los resultados teóricos y los experimentales.
 
+---
 ## Valores Lógicos
 
 ### TTL
@@ -54,40 +55,39 @@ Se compararon los valores obtenidos experimentalmente para los osciladores. De m
 
 
 Aunque en el **TTL** se comprueba los datos especificados por el fabricante, en el **CMOS** no ocurre esto, sin embargo, si cumple con la cualidad esperada de tener rangos de operación lógica mas pequeños, por lo mismo, se teoriza que el _Datasheet_ utilizado no es el apropiado para este __IC__.
+
+---
 ## Tiempos 
 
 ### TTL
 
 #### Tiempos Teóricos (Datasheet)
-- \( t_{TLH} \):
-  - Para **VDD = 5V**: 70 ns (mínimo)
-  
-- \( t_{THL} \):
-  - Para **VDD = 5V**: 70 ns (mínimo)
 
 - \( t_{pLH} \):
-  - Para **VDD = 5V**: 55 ns (mínimo)
+  - Para **VDD = 5V**: 9 ns (mínimo)
 
 - \( t_{pHL} \):
-  - Para **VDD = 5V**: **55 ns** (mínimo)
+  - Para **VDD = 5V**: 10 ns (mínimo)
 #### Tiempos Prácticos (Mediciones)
 - **Tiempo de Subida (Rise Time)**:
-  - **tr80**: 74.35 ns
-  - **tr**: 114.4 ns 
+  - **tr80**: 26.3  ns
+  - **tr**: 33.2 ns 
 
 - **Tiempo de Bajada (Fall Time)**:
-  - **tf80**: 81.3 ns
-  - **tf**: 120 ns
+  - **tf80**: 19.6 ns
+  - **tf**: 29.4 ns
 
-- **Tiempo de Transición (high to low)** \( t_{THL} \): 8 ns
+- **Tiempo de Transición (high to low)** \( t_{THL} \): 16.8 ns
   
-- **Tiempo de Transición (low to high)** \( t_{TLH} \):  60 ns
+- **Tiempo de Transición (low to high)** \( t_{TLH} \):  100 ns
 #### Comparación
-- **Tiempo de Subida**: El tiempo de subida práctico \( tr \) de **114.4 ns** es más alto que el valor teórico de **70 ns**, lo que puede indicar efectos de carga, capacitancia o ineficiencia en el circuito.
+- **Tiempo de Subida**: El _datasheet_ no proporciona datos de transición, no obstante, los datos obtenidos concuerdan con la teoría del sistema **TTL**.
   
-- **Tiempo de Bajada**: El tiempo de bajada práctico \( tf \) de **120 ns** también es más alto que el valor teórico de **70 ns**, lo que podría estar relacionado con similares factores de carga o de configuración del circuito.
+- **Tiempo de Bajada**: El _datasheet_ no proporciona datos de transición, no obstante, los datos obtenidos concuerdan con la teoría del sistema **TTL**.
 
-- **Desfase Propagacional**: El **tiempo de propagación** teórico es de **55 ns**. Los tiempos prácticos de subida y bajada ligeramente mayores sugieren que el retraso en el circuito está influenciado por características como la **capacitancia** o la **carga de los componentes**.
+* **Tiempos de transición**:  Los tiempos de transición teóricos y prácticos presentan una gran disonancia, en especial el *low to high*, una posible razón para esto es el posible _no acoplamiento_ de impedancias, lo que puede producir efectos capacitivos parasíticos generando estas mediciones erróneas.
+
+- **Desfase Propagacional**: El **tiempo de propagación** teórico es de **1 ns**. Los tiempos prácticos de subida y bajada  mayores sugieren que el retraso en el circuito está influenciado por características como la **capacitancia** o la **carga de los componentes**.
 
 
 ### CMOS
@@ -103,7 +103,7 @@ Aunque en el **TTL** se comprueba los datos especificados por el fabricante, en 
   - Para **VDD = 5V**: 55 ns (mínimo)
 
 - \( t_{pHL} \):
-  - Para **VDD = 5V**: **55 ns** (mínimo)
+  - Para **VDD = 5V**: 55 ns (mínimo)
 #### Tiempos Prácticos (Mediciones)
 - **Tiempo de Subida (Rise Time)**:
   - **tr80**: 74.35 ns
@@ -120,6 +120,8 @@ Aunque en el **TTL** se comprueba los datos especificados por el fabricante, en 
 - **Tiempo de Subida**: El tiempo de subida práctico \( tr \) de **114.4 ns** es más alto que el valor teórico de **70 ns**, lo que puede indicar efectos de carga, capacitancia o ineficiencia en el circuito.
   
 - **Tiempo de Bajada**: El tiempo de bajada práctico \( tf \) de **120 ns** también es más alto que el valor teórico de **70 ns**, lo que podría estar relacionado con similares factores de carga o de configuración del circuito.
+
+* **Tiempos de transición**:  Los tiempos de transición teóricos y prácticos presentan una gran disonancia, en especial el *low to high*, una posible razón para esto es el posible _no acoplamiento_ de impedancias, lo que puede producir efectos capacitivos parasíticos generando estas mediciones erróneas.
 
 - **Desfase Propagacional**: El **tiempo de propagación** teórico es de **55 ns**. Los tiempos prácticos de subida y bajada ligeramente mayores sugieren que el retraso en el circuito está influenciado por características como la **capacitancia** o la **carga de los componentes**.
 
