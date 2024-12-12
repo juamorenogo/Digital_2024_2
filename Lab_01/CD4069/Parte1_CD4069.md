@@ -28,7 +28,7 @@ Por lo mismo, se medirá el voltaje de la resistencia para conocer el voltaje en
 | 4.990 V | 1.51 V  | 1900    | 1.97 mA    |
 | 4.992V  | 0.995 V | 2670    | 2.67 mA    |
 
-Por la tabla anterior se concluye que :
+Por la tabla anterior se concluye que  (A partir de la corriente requerida por el circuito) :
 
 ### CMOS : "1" Lógico  --> [3.9 V - 5V]
 ### CMOS : "0" Lógico  --> [0 V - 1.5V]

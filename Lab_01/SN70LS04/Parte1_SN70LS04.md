@@ -32,10 +32,10 @@ Por lo mismo, se medirá el voltaje de la resistencia para conocer la corriente 
 | 4.996   | 0.103                      | 4.871 V    | 4.97 mA            |
 
 
-Por la tabla anterior se concluye que :
+Por la tabla anterior se concluye que (A partir de la corriente requerida por el circuito):
 
-##### TTL : "1" Lógico  --> [4 V - 5V]
-##### TTL : "0" Lógico  --> [0 V - 2V]
+### TTL : "1" Lógico  --> [3 V - 5V]
+### TTL : "0" Lógico  --> [0 V - 2V]
 
 --- 
 

@@ -34,9 +34,15 @@ Se compararon los valores obtenidos experimentalmente para los osciladores. De m
 
 ### TTL
 
-### CMOS
+#### (VOH) - Lógico "1":
+- **VOH (para VDD = 5V)**: El rango teórico para un **"1" lógico** debe estar entre **3 V** y **5 V**.
+- **Valor experimental**: Los valores de **3 V a 5 V** obtenidos experimentalmente concuerdan con los valores esperados, por lo que, se puede asegurar que la calidad del circuito junto a las incertidumbres no afectaron de sobre manera los datos obtenidos
 
-### Interpretación de los niveles lógicos para el TC4069UBP
+#### (VOL) - Lógico "0":
+- **VOL (para VDD = 5V)**: El rango teórico para un **"0" lógico** debe estar entre **0 V** y **2 V**.
+- **Valor experimental**: Los valores de **0 V a 2 V** nuevamente se encuentra dentro del rango esperado.
+
+### CMOS
 
 #### (VOH) - Lógico "1":
 - **VOH (para VDD = 5V)**: El rango teórico para un **"1" lógico** debe estar entre **4.95 V** y **5 V**.
@@ -46,6 +52,8 @@ Se compararon los valores obtenidos experimentalmente para los osciladores. De m
 - **VOL (para VDD = 5V)**: El rango teórico para un **"0" lógico** debe estar entre **0 V** y **0.05 V**.
 - **Valor experimental**: Los valores de **0 V a 1.5 V** están significativamente por encima del máximo teórico de **0.05 V**, lo que indica que la salida no está alcanzando un **"0" lógico** adecuado.
 
+
+Aunque en el **TTL** se comprueba los datos especificados por el fabricante,
 ## Tiempos 
 
 ### TTL
