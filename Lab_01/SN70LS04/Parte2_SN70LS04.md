@@ -4,7 +4,9 @@ En la sección de! se explica este concepto. Un **montaje experimental** totalme
 
 ### Fan-IN
 
+
 ### Fan-OUT
+
 
 
 
