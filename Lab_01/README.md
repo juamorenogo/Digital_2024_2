@@ -121,7 +121,7 @@ Aunque en el **TTL** se comprueba los datos especificados por el fabricante, en 
   
 - **Tiempo de Bajada**: El tiempo de bajada práctico \( tf \) de **120 ns** también es más alto que el valor teórico de **70 ns**, lo que podría estar relacionado con similares factores de carga o de configuración del circuito.
 
-* **Tiempos de transición**:  Los tiempos de transición teóricos y prácticos presentan una gran disonancia, en especial el *high to low*, no obstante, a diferencia del *TTL*, el valor experimental es mucho menor al esperado. Una posible razón para esto es el posible _no acoplamiento_ de impedancias, lo que puede producir efectos capacitivos parasíticos generando estas mediciones erróneas.
+* **Tiempos de transición**:  Los tiempos de transición teóricos y prácticos presentan una gran disonancia, en especial el *high to low*, no obstante, a diferencia del *TTL*, el valor experimental es mucho menor al esperado. Una posible razón para esto es el posible _no acoplamiento_ de impedancias, lo que puede producir efectos capacitivos parasíticos generando estas mediciones erróneas. A su vez, la mala compensación de las sondas contribuyen a los errores sistemáticos obtenidos.
 
 - **Desfase Propagacional**: El **tiempo de propagación** teórico es de **55 ns**. Los tiempos prácticos de subida y bajada ligeramente mayores sugieren que el retraso en el circuito está influenciado por características como la **capacitancia** o la **carga de los componentes**.
 
