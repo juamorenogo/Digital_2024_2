@@ -15,16 +15,9 @@ Por lo anterior , en este archivo se realiza la compilación de los resultados e
 ---
 ## A tener en cuenta
 
-- [ ] CMOS PARTE 2 FAN OUT CON DATOS EXPERIMENTALES CD4069
-- [x] Marco teorico en cada parte
 - [ ] Obtener la característica de Vin vs Vout.
-- [ ] CMOS PARTE 2 FAN OUT CON DATOS EXPERIMENTALES TTL 
 - [ ] Simular cada compuerta con su modelo spice variando la frecuencia de la señal de entrada.
-- [x] Simular los osciladores en anillo.
 - [ ] Comparar las mediciones.
-- [x] Corregir TTL parte1
-- [ ] Comparar los resultados de los tiempo medidos en el laboratorio con los obtenidos en la simulación.
-
 ---
 ## Osciladores 
 
@@ -128,10 +121,7 @@ Aunque en el **TTL** se comprueba los datos especificados por el fabricante, en 
 ---
 ## Fan - In / Fan - Out
 
-### TTL
-
-### CMOS
-
+Como se esperaba, el *FAN OUT* del CMOS es mayor al de la otra tecnología, esto debido a la alta impedancia de entrada que caracteriza a los MOSFET. A su vez, se concluye que el modelo *Spice* utilizado es insuficiente para poder generar un resultado conciso, no obstante, al distorsionar la onda, se asume que el comportamiento esperado falla, lo que se traduciría en un montaje experimental, como el _No funcionamiento de las compuertas_.
 
 ---
 ## Característica Vin - Vout

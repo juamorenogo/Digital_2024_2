@@ -2,7 +2,7 @@
 
 En la sección de! se explica este concepto. Un **montaje experimental** totalmente confiable, requeriría la compra de multitud de integrados (cosa que no es posible) para determinar físicamente hasta que punto la corriente dada a los demás integrados permite un adecuado trabajo, por lo anterior, se propone realizarlo vía **simulación**:
 ### Fan-OUT
-En este caso para simular el _Fan-OUT_ en un primer momento se ponen **40** compuertas, sin embargo, el modelo permitió seguir operando de manera prácticamente perfecta, debido a que la carga puesta era muy grande. También se le atribuye esto a la simplicidad del modelo inversor.
+En este caso para simular el _Fan-OUT_ en un primer momento se ponen **40** compuertas, sin embargo, el modelo permitió seguir operando de manera prácticamente perfecta, debido a que la carga puesta era muy grande. También se le atribuye esto a la simplicidad del modelo inversor. Sin embargo, se distorsiona la onda debido a que genera un desfase y a su vez, aumenta el ciclo de trabajo, en otras palabras, cumple con su función lógica pero la **onda esta distorsionada** . Se concluye que en un montaje real en este caso directamente no funcionaria la función lógica.
 
 ![](SPICE/Fan_out2.jpg)
 
