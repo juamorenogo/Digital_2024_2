@@ -19,6 +19,10 @@ Las ondas resultantes ilustran el comportamiento esperado de un compuerta lógic
 
 Con esto, se confirma que el modelo _SPICE_ si cumple con la función principal esperada, por lo que se procede a realizar las diferentes partes del laboratorio.
 
+## Simulación de la compuerta variando Frecuencia de Entrada
+
+Se plantea usar el software _Qucs_s_ para generar una simulación donde se varia la frecuencia de la señal de entrada que se invierte.  Esto se hace en las secciones posteriores.
+
 ---
 
 [Volver](https://github.com/juamorenogo/Digital_2024_2/tree/main/Lab_01/SN70LS04)
