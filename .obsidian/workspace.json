@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab_01/SN70LS04/README.md",
+                "file": "Lab_01/CD4069/Parte3_Oscilador.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Parte3_Oscilador"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_01/SN70LS04/README.md"
+                "file": "Lab_01/CD4069/Parte3_Oscilador.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Parte3_Oscilador"
             }
           },
           {
@@ -190,6 +190,11 @@
   },
   "active": "cf0ef716ee0eda32",
   "lastOpenFiles": [
+    "Lab_01/CD4069/Parte2_CD4069.md",
+    "Lab_01/CD4069/Parte1_CD4069.md",
+    "Lab_01/CD4069/2_Simulacion.md",
+    "Lab_01/CD4069/1_Preparacion.md",
+    "Lab_01/SN70LS04/README.md",
     "Lab_01/README.md",
     "Lab_01/SN70LS04/1_Preparacion.md",
     "Lab_01/Caracterizacion.md",
@@ -205,14 +210,9 @@
     "Lab_01/Imagenes/F0009TEK.BMP",
     "Lab_01/Imagenes/F0008TEK.BMP",
     "Lab_01/Imagenes",
-    "Lab_01/CD4069/2_Simulacion.md",
-    "Lab_01/CD4069/1_Preparacion.md",
     "Lab_01/SN70LS04/Parte2_SN70LS04.md",
     "Lab_01/SN70LS04/Parte1_SN70LS04.md",
-    "Lab_01/CD4069/Parte1_CD4069.md",
-    "Lab_01/CD4069/Parte2_CD4069.md",
     "Lab_01/1_Marco_Teórico/Parte 2_Teoría Fan in, Fan out y disipación de potencia.md",
-    "Lab_01/SN70LS04/README.md",
     "Lab_01/CD4069/Parte3_Oscilador.md",
     "Lab_02/README.md",
     "Datasheets/Lab_01/74LS04.PDF",
