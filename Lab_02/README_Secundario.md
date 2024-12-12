@@ -112,7 +112,8 @@ Aquí tienes el **paso a paso detallado** para abordar y desarrollar el diseño 
  
  Como no está descargada la batería, entonces no se prende su indicar, y tampoco se prende el indicador de red eléctrica. En este caso particular, no hay energía solar.
  ![](Imagenes/L6.png)
----
+
+
 Como otro caso particular, aquí sí hay red eléctrica disponible pero está activado el paro de emergencia (normalmente cerrado). La batería está descargada, y no afecta el indicador de energización, pero sí prende su indicador. También se indica que existe la red eléctrica y, como caso adicional, parecen estar cargándose las baterías de todas formas por la disponibilidad de radiación solar.
 
 Se deja el paro de emergencia con el indicador de radiación solar por el ejercicio académico.
