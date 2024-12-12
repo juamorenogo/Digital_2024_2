@@ -125,13 +125,17 @@ Aunque en el **TTL** se comprueba los datos especificados por el fabricante, en 
 
 - **Desfase Propagacional**: El **tiempo de propagación** teórico es de **55 ns**. Los tiempos prácticos de subida y bajada ligeramente mayores sugieren que el retraso en el circuito está influenciado por características como la **capacitancia** o la **carga de los componentes**.
 
+---
 ## Fan - In / Fan - Out
 
 ### TTL
 
 ### CMOS
 
+
+---
 ## Característica Vin - Vout
 
 
+---
 ## Barrido de frecuencias con compuerta IC
