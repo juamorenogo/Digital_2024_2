@@ -10,6 +10,9 @@ Posteriormente se aumenta la frecuencia de la Onda y se pone cargas mucho mas pe
 
 ![](SPICE/Fan_out.jpg)
 
+### Fan-IN
+
+El **Fan-in** en este caso es simple, debido a que solo tiene una única entrada, por lo que, se asume que en este caso es 1 únicamente.
 
 ---
 
