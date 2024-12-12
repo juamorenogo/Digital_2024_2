@@ -6,7 +6,7 @@ Se establece la relación entre los diferentes pines, tal como se muestra en la 
 	nA --> Input
 	nY --> Output
 
-![|200](Lab_01/SN70LS04/Imagenes/Im2.png)
+![|200](Imagenes/Im2.png)
 
 Cada par de terminales relacionados por _nA_ y _nY_ representa un inversor.
 
