@@ -91,6 +91,11 @@ Aquí tienes el **paso a paso detallado** para abordar y desarrollar el diseño 
     - Contactos para sensores y botones.
     - Indicadores como salidas activadas por las condiciones de los sensores.
 
+
+![](../Pasted%20image%2020241212080608.png)
+
+
+
 ---
 
 ### **3. Simulación en Lenguaje Ladder**
@@ -99,8 +104,16 @@ Aquí tienes el **paso a paso detallado** para abordar y desarrollar el diseño 
     - Verifica que cada condición activa/desactiva los relés e indicadores correctamente.
     - Documenta las simulaciones y anota observaciones o ajustes necesarios.
 
----
+![](../Pasted%20image%2020241212080656.png)
 
+ En este caso de la tabla de verdad, no hay red eléctrica, la batería no está descargada y la casa está energizada. Como no hay red pero sí se cumplen las demás condiciones para indicar energía, entonces se prende el bombillo.
+ 
+ Como no está descargada la batería, entonces no se prende su indicar, y tampoco se prende el indicador de red eléctrica. En este caso particular, no hay energía solar.
+ ![](../Pasted%20image%2020241212080939.png)
+---
+Como otro caso particular, aquí sí hay red eléctrica disponible pero está activado el paro de emergencia (normalmente cerrado). La batería está descargada, y no afecta el indicador de energización, pero sí prende su indicador. También se indica que existe la red eléctrica y, como caso adicional, parecen estar cargándose las baterías de todas formas por la disponibilidad de radiación solar.
+
+Se deja el paro de emergencia con el indicador de radiación solar por el ejercicio académico.
 ### **4. Dominio Estructural (Red de Compuertas Lógicas)**
 
 #### **4.1 Red de compuertas lógicas**
