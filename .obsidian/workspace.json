@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab_01/SN70LS04/1_Preparacion.md",
+                "file": "Lab_01/SN70LS04/Parte1_SN70LS04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1_Preparacion"
+              "title": "Parte1_SN70LS04"
             }
           }
         ],
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_01/SN70LS04/1_Preparacion.md"
+                "file": "Lab_01/SN70LS04/Parte1_SN70LS04.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1_Preparacion"
+              "title": "Outline of Parte1_SN70LS04"
             }
           },
           {
@@ -204,6 +204,7 @@
   },
   "active": "2a2ba13a0527f1a4",
   "lastOpenFiles": [
+    "Lab_01/SN70LS04/1_Preparacion.md",
     "Lab_02/README_Secundario.md",
     "Lab_02/Imagenes/Ladder.png",
     "Lab_02/Imagenes/L6.png",
@@ -226,7 +227,6 @@
     "Lab_01/CD4069/1_Preparacion.md",
     "Lab_01/SN70LS04/README.md",
     "Lab_01/README.md",
-    "Lab_01/SN70LS04/1_Preparacion.md",
     "Lab_01/Caracterizacion.md",
     "Lab_01/SN70LS04/2_Simulacion.md",
     "Lab_01/Imagenes/F00017TEK.BMP",
