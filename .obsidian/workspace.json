@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab_01/README.md",
+                "file": "Lab_01/SN70LS04/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_01/README.md"
+                "file": "Lab_01/SN70LS04/README.md"
               },
               "icon": "lucide-list",
               "title": "Outline of README"
@@ -190,8 +190,9 @@
   },
   "active": "cf0ef716ee0eda32",
   "lastOpenFiles": [
-    "Lab_01/Caracterizacion.md",
     "Lab_01/README.md",
+    "Lab_01/SN70LS04/1_Preparacion.md",
+    "Lab_01/Caracterizacion.md",
     "Lab_01/SN70LS04/2_Simulacion.md",
     "Lab_01/Imagenes/F00017TEK.BMP",
     "Lab_01/Imagenes/F00016TEK.BMP",
@@ -216,7 +217,6 @@
     "Lab_02/README.md",
     "Datasheets/Lab_01/74LS04.PDF",
     "Lab_02/1. Dominio Comportamental.md",
-    "Lab_01/SN70LS04/1_Preparacion.md",
     "Lab_01/1_Marco_Teórico/Parte 1_Teoría de Características funcionales.md",
     "Datasheets/Lab_01/TC4069UBP.PDF",
     "Lab_01/1_Marco_Teórico/Parte 3_Teoría Oscilador.md",
