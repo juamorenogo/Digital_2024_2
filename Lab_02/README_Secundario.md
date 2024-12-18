@@ -29,27 +29,6 @@ Aquí tienes el **paso a paso detallado** para abordar y desarrollar el diseño 
 #### **1.2 Tabla de verdad**
 
 - Desarrolla una **tabla de verdad** que relacione las entradas con las salidas deseadas:
-
-
-| R   | B   | S   | E   | C   | IBB | IRD | IS  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 0   | 0   | 0   | 0   | 0   | 1   | 0   | 0   |
-| 0   | 0   | 0   | 1   | 0   | 1   | 0   | 0   |
-| 0   | 0   | 1   | 0   | 0   | 1   | 0   | 1   |
-| 0   | 0   | 1   | 1   | 0   | 1   | 0   | 1   |
-| 0   | 1   | 0   | 0   | 1   | 0   | 0   | 0   |
-| 0   | 1   | 0   | 1   | 0   | 0   | 0   | 0   |
-| 0   | 1   | 1   | 0   | 1   | 0   | 0   | 1   |
-| 0   | 1   | 1   | 1   | 0   | 0   | 0   | 1   |
-| 1   | 0   | 0   | 0   | 1   | 1   | 1   | 0   |
-| 1   | 0   | 0   | 1   | 0   | 1   | 1   | 0   |
-| 1   | 0   | 1   | 0   | 1   | 1   | 1   | 1   |
-| 1   | 0   | 1   | 1   | 0   | 1   | 1   | 1   |
-| 1   | 1   | 0   | 0   | 1   | 0   | 1   | 0   |
-| 1   | 1   | 0   | 1   | 0   | 0   | 1   | 0   |
-| 1   | 1   | 1   | 0   | 1   | 0   | 1   | 1   |
-| 1   | 1   | 1   | 1   | 0   | 0   | 1   | 1   |
-
 ### **Leyenda:**
 
 - **R**: Red eléctrica (1 = disponible, 0 = no disponible).

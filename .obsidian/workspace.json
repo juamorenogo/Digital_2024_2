@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab_01/SN70LS04/Parte1_SN70LS04.md",
+                "file": "Lab_02/README_Secundario.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parte1_SN70LS04"
+              "title": "README_Secundario"
             }
           }
         ],
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_01/SN70LS04/Parte1_SN70LS04.md"
+                "file": "Lab_02/README_Secundario.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Parte1_SN70LS04"
+              "title": "Outline of README_Secundario"
             }
           },
           {
@@ -202,8 +202,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a2ba13a0527f1a4",
+  "active": "6dc1bdc53ac2df97",
   "lastOpenFiles": [
+    "Lab_02/Digital_Simulator/Final_NAND.dig",
+    "Lab_02/README.md",
+    "Lab_01/SN70LS04/Parte1_SN70LS04.md",
     "Lab_01/SN70LS04/1_Preparacion.md",
     "Lab_02/README_Secundario.md",
     "Lab_02/Imagenes/Ladder.png",
@@ -219,7 +222,6 @@
     "Lab_02/Digital_Simulator/Final_Simplificado.dig",
     "Lab_02/Digital_Simulator/CodigoVerilog.v",
     "Lab_02/Digital_Simulator",
-    "Lab_02/README.md",
     "Lab_01/CD4069/Parte3_Oscilador.md",
     "Lab_01/CD4069/Parte2_CD4069.md",
     "Lab_01/CD4069/Parte1_CD4069.md",
@@ -233,7 +235,6 @@
     "Lab_01/Imagenes/F00016TEK.BMP",
     "Lab_01/Imagenes",
     "Lab_01/SN70LS04/Parte2_SN70LS04.md",
-    "Lab_01/SN70LS04/Parte1_SN70LS04.md",
     "Lab_01/1_Marco_Teórico/Parte 2_Teoría Fan in, Fan out y disipación de potencia.md",
     "Datasheets/Lab_01/74LS04.PDF",
     "Lab_02/1. Dominio Comportamental.md",
