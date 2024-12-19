@@ -21,7 +21,8 @@
 	R : Red electrica
 	B : Baterias
 	S : Luz solar 
-	E: Paro de emergencia
+	E: Paro de emergencia  "1" = Abierto --> No hay corriente
+	"0" = Cerrado --> Si hay corriente
 
 ### Salidas
 
