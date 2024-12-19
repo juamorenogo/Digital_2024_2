@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 249.5
   },
   "right": {
     "id": "e7815e6c5aa52316",
@@ -173,30 +173,67 @@
       "obsidian-git:Open Git source control": false
     }
   },
+  "floating": {
+    "id": "3325844db924ab06",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f0f59462babb7451",
+        "type": "window",
+        "children": [
+          {
+            "id": "30ee1b00b6644ee5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "69d9d214b9330b53",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Pasted image 20241218200428.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "Pasted image 20241218200428"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1050,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "cde3f66f8ac12016",
   "lastOpenFiles": [
-    "Lab_02/1. Dominio Comportamental.md",
-    "Lab_02/1. Dominio comportamental (especificación y algoritmo).md",
-    "Lab_02/Imagenes/CajaNegra1.png",
-    "Lab_02/Imagenes/Caja_negra.png",
-    "Lab_02/Imagenes/L3.png",
-    "Lab_02/Imagenes/L2.png",
-    "Lab_02/README DEFINITIVO.md",
-    "Lab_02/README_Secundario.md",
     "Lab_02/README.md",
+    "Lab_02/1. Dominio comportamental (especificación y algoritmo).md",
+    "Lab_02/Imagenes/Diagrama_De_Flujo.png",
+    "Lab_02/1. Dominio Comportamental.md",
+    "Lab_02/Imagenes/Diagrama_de_flujo (2).png",
+    "Pasted image 20241218200428.png",
+    "Lab_02/Imagenes/Caja_negra.png",
+    "Lab_02/Imagenes/L2.png",
+    "Lab_02/Imagenes/L3.png",
+    "Lab_02/Imagenes/L4.png",
+    "Lab_02/Imagenes/L5.png",
+    "Lab_02/Imagenes/L6.png",
+    "Lab_02/Imagenes/Ladder.png",
+    "Lab_02/README_Secundario.md",
+    "Lab_02/README DEFINITIVO.md",
     "Lab_02/Digital_Simulator/CircuitoFinal_NAND.v",
     "Lab_02/Digital_Simulator/CircuitoFinal_NAND.dig",
     "Lab_02/Digital_Simulator/CircuitoFinal_Coninversores.dig",
-    "Pasted image 20241218200428.png",
     "Lab_01/README.md",
     "Lab_02/Digital_Simulator/Final_NAND.dig",
     "Lab_01/SN70LS04/Parte1_SN70LS04.md",
     "Lab_01/SN70LS04/1_Preparacion.md",
-    "Lab_02/Imagenes/Ladder.png",
-    "Lab_02/Imagenes/L6.png",
-    "Lab_02/Imagenes/L5.png",
-    "Lab_02/Imagenes/L4.png",
-    "Lab_02/Imagenes/Diagrama_De_Flujo.png",
     "Lab_02/Imagenes",
     "Lab_02/Digital_Simulator/Test1_Ladder_CL.dig",
     "Lab_02/Digital_Simulator/Final_Simplificado.dig",
