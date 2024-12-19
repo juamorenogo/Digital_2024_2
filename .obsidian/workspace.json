@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab_02/README DEFINITIVO.md",
+                "file": "Lab_02/1. Dominio comportamental (especificación y algoritmo).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README DEFINITIVO"
+              "title": "1. Dominio comportamental (especificación y algoritmo)"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_02/README DEFINITIVO.md"
+                "file": "Lab_02/1. Dominio comportamental (especificación y algoritmo).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README DEFINITIVO"
+              "title": "Outline of 1. Dominio comportamental (especificación y algoritmo)"
             }
           },
           {
@@ -173,15 +173,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "010feda6c1f4a99c",
+  "active": "cde3f66f8ac12016",
   "lastOpenFiles": [
+    "Lab_02/1. Dominio Comportamental.md",
+    "Lab_02/1. Dominio comportamental (especificación y algoritmo).md",
+    "Lab_02/Imagenes/CajaNegra1.png",
+    "Lab_02/Imagenes/Caja_negra.png",
+    "Lab_02/Imagenes/L3.png",
+    "Lab_02/Imagenes/L2.png",
+    "Lab_02/README DEFINITIVO.md",
+    "Lab_02/README_Secundario.md",
+    "Lab_02/README.md",
     "Lab_02/Digital_Simulator/CircuitoFinal_NAND.v",
     "Lab_02/Digital_Simulator/CircuitoFinal_NAND.dig",
     "Lab_02/Digital_Simulator/CircuitoFinal_Coninversores.dig",
     "Pasted image 20241218200428.png",
-    "Lab_02/README DEFINITIVO.md",
-    "Lab_02/README_Secundario.md",
-    "Lab_02/README.md",
     "Lab_01/README.md",
     "Lab_02/Digital_Simulator/Final_NAND.dig",
     "Lab_01/SN70LS04/Parte1_SN70LS04.md",
@@ -190,10 +196,7 @@
     "Lab_02/Imagenes/L6.png",
     "Lab_02/Imagenes/L5.png",
     "Lab_02/Imagenes/L4.png",
-    "Lab_02/Imagenes/L3.png",
-    "Lab_02/Imagenes/L2.png",
     "Lab_02/Imagenes/Diagrama_De_Flujo.png",
-    "Lab_02/Imagenes/CajaNegra1.png",
     "Lab_02/Imagenes",
     "Lab_02/Digital_Simulator/Test1_Ladder_CL.dig",
     "Lab_02/Digital_Simulator/Final_Simplificado.dig",
@@ -207,19 +210,15 @@
     "Lab_01/SN70LS04/README.md",
     "Lab_01/Caracterizacion.md",
     "Lab_01/SN70LS04/2_Simulacion.md",
-    "Lab_01/Imagenes/F00017TEK.BMP",
     "Lab_01/Imagenes",
     "Lab_01/SN70LS04/Parte2_SN70LS04.md",
     "Lab_01/1_Marco_Teórico/Parte 2_Teoría Fan in, Fan out y disipación de potencia.md",
-    "Datasheets/Lab_01/74LS04.PDF",
-    "Lab_02/1. Dominio Comportamental.md",
     "Lab_01/1_Marco_Teórico/Parte 1_Teoría de Características funcionales.md",
     "Lab_01/1_Marco_Teórico/Parte 3_Teoría Oscilador.md",
     "Lab_01/CD4069/README.md",
     "conflict-files-obsidian-git.md",
     "Lab_01/SN70LS04/Simulacion.md",
     "Lab_01/SN70LS04/Preparacion.md",
-    "Lab_01/SN70LS04/Parte3.md",
-    "Lab_01/SN70LS04/Parte2.md"
+    "Lab_01/SN70LS04/Parte3.md"
   ]
 }
