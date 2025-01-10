@@ -11,14 +11,12 @@
             "id": "6c3d9a7e9750227c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Lab_02/0. Introducción y requerimientos.md",
-                "mode": "source",
-                "source": false
+                "file": "Lab_02/Imagenes/Ladder_set1.png"
               },
-              "icon": "lucide-file",
-              "title": "0. Introducción y requerimientos"
+              "icon": "lucide-image",
+              "title": "Ladder_set1"
             }
           }
         ]
@@ -139,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_02/0. Introducción y requerimientos.md"
+                "file": "Lab_02/Imagenes/Ladder_set1.png"
               },
               "icon": "lucide-list",
-              "title": "Outline of 0. Introducción y requerimientos"
+              "title": "Outline of Ladder_set1"
             }
           },
           {
@@ -173,22 +171,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c3d9a7e9750227c",
+  "active": "6dc1bdc53ac2df97",
   "lastOpenFiles": [
+    "Lab_02/Imagenes/Ladder_set2.png",
+    "Lab_02/Imagenes/Tabla_de_verdad.png",
+    "Lab_02/Imagenes/Ladder_base.png",
+    "Lab_02/Imagenes/Circuito físico.png",
+    "Lab_02/Imagenes/Ladder_set1.png",
     "Lab_02/1. Dominio comportamental (especificación y algoritmo).md",
-    "Lab_02/Imagenes/Pasted image 20241218200428.png",
-    "Lab_02/Imagenes/Pasted image 20241219094954.png",
-    "Lab_02/Imagenes/Diagrama_de_flujo (2).png",
-    "Lab_02/Imagenes/Diagrama_de_flujo (2) 1.png",
     "Lab_02/0. Introducción y requerimientos.md",
-    "Lab_02/Imagenes/Pasted image 20241219103850.png",
+    "Lab_02/Imagenes/Diagrama_de_flujo.png",
+    "Lab_02/Imagenes/Diagrama_de_flujo (2) 1.png",
     "Lab_02/Imagenes/Caja_negra.png",
     "Lab_02/3. Simulación en lenguaje ladder.md",
     "Lab_02/2. Dominio físico inicial (circuito eléctrico).md",
-    "Lab_02/Imagenes/Pasted image 20241219104039.png",
     "Lab_02/Imagenes/L2.png",
     "Lab_02/Imagenes/Ladder.png",
-    "Lab_02/Imagenes/Pasted image 20241219103604.png",
     "Lab_02/README_Secundario.md",
     "Lab_02/README DEFINITIVO.md",
     "Lab_01/1_Marco_Teórico/Parte 2_Teoría Fan in, Fan out y disipación de potencia.md",
