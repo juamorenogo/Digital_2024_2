@@ -11,12 +11,14 @@
             "id": "6c3d9a7e9750227c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Lab_02/Imagenes/Ladder_set1.png"
+                "file": "Lab_02/6. Síntesis den FPGA.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Ladder_set1"
+              "icon": "lucide-file",
+              "title": "6. Síntesis den FPGA"
             }
           }
         ]
@@ -75,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.5
+    "width": 200
   },
   "right": {
     "id": "e7815e6c5aa52316",
@@ -137,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_02/Imagenes/Ladder_set1.png"
+                "file": "Lab_02/6. Síntesis den FPGA.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Ladder_set1"
+              "title": "Outline of 6. Síntesis den FPGA"
             }
           },
           {
@@ -158,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,22 +173,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6dc1bdc53ac2df97",
+  "active": "6c3d9a7e9750227c",
   "lastOpenFiles": [
-    "Lab_02/Imagenes/Ladder_set2.png",
-    "Lab_02/Imagenes/Tabla_de_verdad.png",
-    "Lab_02/Imagenes/Ladder_base.png",
-    "Lab_02/Imagenes/Circuito físico.png",
-    "Lab_02/Imagenes/Ladder_set1.png",
-    "Lab_02/1. Dominio comportamental (especificación y algoritmo).md",
-    "Lab_02/0. Introducción y requerimientos.md",
-    "Lab_02/Imagenes/Diagrama_de_flujo.png",
-    "Lab_02/Imagenes/Diagrama_de_flujo (2) 1.png",
-    "Lab_02/Imagenes/Caja_negra.png",
+    "Lab_02/0. Descripción del laboratorio.md",
+    "Lab_02/6. Síntesis den FPGA.md",
+    "Lab_02/5. Descripción en lenguaje HDL.md",
+    "Lab_02/4. Dominio estructural.md",
     "Lab_02/3. Simulación en lenguaje ladder.md",
+    "Lab_02/Imagenes/cod_assign.png",
+    "Lab_02/Imagenes/cod_inptoupt.png",
+    "Lab_02/Imagenes/codigo_verilog.png",
+    "Lab_02/Imagenes/Lut.png",
+    "Lab_02/Imagenes/ecu_1r.png",
+    "Lab_02/Imagenes/karn_1r.png",
+    "Lab_02/Imagenes/karn_1s 1.png",
+    "Lab_02/Imagenes/karn_1s.png",
+    "Lab_02/Imagenes/ecu_1b.png",
+    "Lab_02/Imagenes/karn_1b.png",
     "Lab_02/2. Dominio físico inicial (circuito eléctrico).md",
-    "Lab_02/Imagenes/L2.png",
-    "Lab_02/Imagenes/Ladder.png",
+    "Lab_02/1. Dominio comportamental (especificación y algoritmo).md",
     "Lab_02/README_Secundario.md",
     "Lab_02/README DEFINITIVO.md",
     "Lab_01/1_Marco_Teórico/Parte 2_Teoría Fan in, Fan out y disipación de potencia.md",
@@ -215,8 +220,6 @@
     "Lab_01/CD4069/1_Preparacion.md",
     "Lab_01/1_Marco_Teórico/Parte 3_Teoría Oscilador.md",
     "Lab_01/1_Marco_Teórico/Parte 1_Teoría de Características funcionales.md",
-    "conflict-files-obsidian-git.md",
-    "Lab_01/SN70LS04/Simulacion.md",
-    "Lab_01/SN70LS04/README.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
