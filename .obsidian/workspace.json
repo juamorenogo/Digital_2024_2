@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab_02/6. Síntesis den FPGA.md",
+                "file": "Lab_02/0. Descripción del laboratorio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Síntesis den FPGA"
+              "title": "0. Descripción del laboratorio"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 394.5
   },
   "right": {
     "id": "e7815e6c5aa52316",
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_02/6. Síntesis den FPGA.md"
+                "file": "Lab_02/0. Descripción del laboratorio.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 6. Síntesis den FPGA"
+              "title": "Outline of 0. Descripción del laboratorio"
             }
           },
           {
@@ -160,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 248.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,23 +175,24 @@
   },
   "active": "6c3d9a7e9750227c",
   "lastOpenFiles": [
-    "Lab_02/0. Descripción del laboratorio.md",
     "Lab_02/6. Síntesis den FPGA.md",
+    "Lab_02/0. Descripción del laboratorio.md",
+    "Lab_02/Imagenes/Ladder_set1.png",
+    "Lab_02/Imagenes/karn_is.png",
+    "Lab_02/Imagenes/karn_ird.png",
+    "Lab_02/Imagenes/karn_ibb.png",
+    "Lab_02/Imagenes/karn_energia.png",
+    "Lab_02/Imagenes/karn_1s.png",
+    "Lab_02/Imagenes/karn_1s 1.png",
+    "Lab_02/Imagenes/karn_1r.png",
+    "Lab_02/Imagenes/karn_1b.png",
+    "Lab_02/Imagenes/ecu_is.png",
     "Lab_02/5. Descripción en lenguaje HDL.md",
     "Lab_02/4. Dominio estructural.md",
-    "Lab_02/3. Simulación en lenguaje ladder.md",
-    "Lab_02/Imagenes/cod_assign.png",
-    "Lab_02/Imagenes/cod_inptoupt.png",
-    "Lab_02/Imagenes/codigo_verilog.png",
-    "Lab_02/Imagenes/Lut.png",
-    "Lab_02/Imagenes/ecu_1r.png",
-    "Lab_02/Imagenes/karn_1r.png",
-    "Lab_02/Imagenes/karn_1s 1.png",
-    "Lab_02/Imagenes/karn_1s.png",
-    "Lab_02/Imagenes/ecu_1b.png",
-    "Lab_02/Imagenes/karn_1b.png",
-    "Lab_02/2. Dominio físico inicial (circuito eléctrico).md",
     "Lab_02/1. Dominio comportamental (especificación y algoritmo).md",
+    "Lab_02/0. Introducción y requerimientos.md",
+    "Lab_02/3. Simulación en lenguaje ladder.md",
+    "Lab_02/2. Dominio físico inicial (circuito eléctrico).md",
     "Lab_02/README_Secundario.md",
     "Lab_02/README DEFINITIVO.md",
     "Lab_01/1_Marco_Teórico/Parte 2_Teoría Fan in, Fan out y disipación de potencia.md",
@@ -218,8 +219,6 @@
     "Lab_01/CD4069/Imagenes",
     "Lab_01/CD4069/2_Simulacion.md",
     "Lab_01/CD4069/1_Preparacion.md",
-    "Lab_01/1_Marco_Teórico/Parte 3_Teoría Oscilador.md",
-    "Lab_01/1_Marco_Teórico/Parte 1_Teoría de Características funcionales.md",
-    "conflict-files-obsidian-git.md"
+    "Lab_01/1_Marco_Teórico/Parte 3_Teoría Oscilador.md"
   ]
 }
