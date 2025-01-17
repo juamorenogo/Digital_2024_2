@@ -7,7 +7,7 @@ Se solicita un diseño de un sistema de control de una red eléctrica para gesti
 
 
 
-![Click aqui para ver el video](https://youtu.be/DFisFgIFHPU?si=blDOmX3Gs1THkdPg)
+[Laboratorio 2 (Digital I - 2024-II)](https://www.youtube.com/watch?v=DFisFgIFHPU&ab_channel=Jaimebasti%C3%A1nMartinz%C3%A1lez)
 
 
 ## Flujo de diseño
