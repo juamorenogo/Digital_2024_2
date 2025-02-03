@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBadgeDollarSign",
       "LiArrowUp",
       "LiBackpack"
     ],
@@ -35,5 +36,6 @@
     "iconColor": "#ff0000"
   },
   "Lab_01": "LiArrowUp",
-  "Lab_02": "LiArrowUp"
+  "Lab_02": "LiArrowUp",
+  "Proyecto": "LiBadgeDollarSign"
 }

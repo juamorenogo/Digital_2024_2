@@ -1,0 +1,12 @@
+
+# PCF FISICO
+
+set_io reset 49
+set_io btn 38
+
+set_io led 141
+
+set_io rx 106
+set_io tx 104
+
+set_io clk 60

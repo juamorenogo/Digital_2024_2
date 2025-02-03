@@ -1,0 +1,12 @@
+set_io clk 60 #pin de clock
+
+#set_io led 141 #pin led
+
+set_io led1 38
+
+set_io reset 49
+
+set_io led2 136
+#set_io led3 137
+
+set_io start 104

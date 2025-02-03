@@ -1,0 +1,23 @@
+#LCD_1
+
+set_io 60 clk
+
+#Pines Digitales
+set_io D0 136
+set_io D1 137
+set_io D2 134
+set_io D3 135
+set_io D4 141
+set_io D5 142
+set_io D6 138
+set_io D7 139
+
+
+#RS
+set_io RS 49
+
+#RW
+set_io RW 102
+
+#E
+set_io E 104

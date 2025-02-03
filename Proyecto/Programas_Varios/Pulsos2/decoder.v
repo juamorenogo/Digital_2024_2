@@ -1,0 +1,4 @@
+module decoder (
+input reg[]
+);
+

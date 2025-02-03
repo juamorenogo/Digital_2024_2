@@ -1,0 +1,21 @@
+
+
+
+#LEDS DEL CONTADOR
+set_io led1 106
+set_io led2 104
+set_io led3 102
+
+set_io -pullup yes button 101
+
+set_io clk 60
+
+#set_io start 49
+
+# ciclo de pulso largo o corto
+set_io ledshort 34
+set_io ledlong 38
+#-----------------
+set_io led0 141
+set_io led_up 24
+set_io ledb 105 #pin led

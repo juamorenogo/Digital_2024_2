@@ -1,0 +1,33 @@
+
+
+
+#------LEDS_USOS-----------
+set_io led0 135
+set_io led1 134
+set_io led2 137
+set_io led3 136
+set_io led4 141
+
+set_io ledshort 34
+set_io ledlong 38
+set_io lednull 33
+
+#-------BOTONES------------
+set_io -pullup yes button 25
+set_io -pullup yes del_button 23
+set_io -pullup yes fin_button 24
+
+#-------LEDS VARIABLES------
+set_io led_v1 101
+set_io led_v2 105
+set_io led_v3 106
+
+
+#--------CLK----------------
+set_io clk 60
+
+
+
+
+
+

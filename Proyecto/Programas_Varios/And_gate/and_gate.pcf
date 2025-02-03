@@ -1,0 +1,9 @@
+# Opciones de configuración para port--pin
+# set_io [-nowarn] [-pullup yes|no] [-pullup_resistor 3P3K|6P8K|10K|100K] port pin
+
+# set_io clk 60 # Señal de reloj del hardware 25 MHz
+
+# awa
+ set_io a 38  #Boton1
+ set_io b 34  #Boton2
+ set_io y 136 #LED

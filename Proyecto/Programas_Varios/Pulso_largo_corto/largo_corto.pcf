@@ -1,0 +1,11 @@
+#pcf
+
+set_io led2 141
+set_io led3 136
+
+set_io ledb 38
+
+set_io reset 49
+set_io button 104
+
+set_io clk 60
