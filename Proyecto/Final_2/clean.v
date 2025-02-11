@@ -24,7 +24,7 @@ module clean(
 	ticks_generator d0 (
 		.clk(clk),
 		.start(1), // Start = 0 --> No esta contando // Start = 1 --> Si esta contando
-		.baud_rate_1(9600),
+		.baud_rate_1(5),
 		.ticks(ticks_wire)
 	);
     
