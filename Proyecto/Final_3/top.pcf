@@ -1,0 +1,46 @@
+##TONTO
+
+#---------------------LCD------------------------------
+
+# Digital Dn
+set_io D0 106
+set_io D1 105
+set_io D2 101
+set_io D3 99
+set_io D4 104
+set_io D5 102 
+set_io D6 49
+set_io D7 52
+
+# Pines Funcionamiento
+set_io RS 141
+#set_io RW 37
+set_io E 136
+
+
+#---------------------AWA CON MORSE------------------------------
+set_io ledshort 32
+set_io ledlong 37
+set_io lednull 38
+
+#-------BOTONES------------
+set_io -pullup yes button 29
+set_io -pullup yes del_button 33
+set_io -pullup yes fin_button 34
+set_io -pullup yes clear_button 139
+
+#-------LEDS VARIABLES------
+set_io led_v1 11
+set_io led_v2 12
+set_io led_v3 17 
+
+#---------------------CLK------------------------------
+#Clock
+set_io clk 60
+
+#--------------------LEDS PRUEBA------------------------
+set_io led_1 1
+set_io led_2 2
+set_io led_3 7
+set_io led_4 8
+set_io led_5 143
