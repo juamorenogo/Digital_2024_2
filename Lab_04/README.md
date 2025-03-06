@@ -8,21 +8,22 @@ Dicha imagen muestra los diferentes módulos de verilog a través de los cuales 
 
 Se escoge emplear una máquina de estados en los módulos de **line_write** y **clean**, pues ambos requieren de una visualización en la LCD.
 
-A continuacion se presenta el funcionamiento practico del modulo:
+A continuación se presenta el funcionamiento practico del modulo:
 
 ![](Imagenes/Pasted_image_20250306174801.png)
 
 ![](Imagenes/Pasted_image_20250306174825.png)
 
-Asi mismo, se muestran videos del funcionamiento. El primero refleja usando leds, los diferentes cambios en cada pin que permitiran la correcta configuracion del LCD:
+Así mismo, se muestran videos del funcionamiento. El primero refleja usando leds, los diferentes cambios en cada pin que permitirán la correcta configuración del LCD:
 
 https://youtu.be/bNidXW4C4l0
 
 ![](https://youtu.be/bNidXW4C4l0)
 
-Y finalmente el siguiente video presenta como imprime el LCD en video, con el problemática de que no se habia ajustado el contraste correctamente: 
 
-https://youtube.com/shorts/Afhk645dET0
 
-![](https://youtube.com/shorts/Afhk645dET0)
+## RTL
 
+Se dispone a continuacion el diagrama RTL generado usando el codigo:
+
+![](Imagenes/RTL.jpg)
