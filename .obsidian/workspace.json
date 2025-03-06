@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab_02/README.md",
+                "file": "Lab_03/Código de la FPGA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Código de la FPGA"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -139,10 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_02/README.md"
+                "file": "Lab_03/Código de la FPGA.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Código de la FPGA"
             }
           },
           {
@@ -173,20 +177,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c3d9a7e9750227c",
+  "active": "6dc1bdc53ac2df97",
   "lastOpenFiles": [
-    "Lab_02/6. Síntesis den FPGA.md",
+    "Lab_04/Imagenes/Imagen de WhatsApp 2025-02-17 a las 11.20.25_5ed9bbd6.jpg",
+    "Lab_04/Imagenes/Pasted image 20250306121641.png",
+    "Lab_04/Imagenes/Pasted image 20250306121540.png",
+    "Lab_04/Imagenes/Pasted image 20250306121331.png",
+    "Lab_04/Imagenes/Pasted image 20250306120943.png",
+    "Lab_04/Imagenes/Pasted image 20250306120927.png",
+    "Lab_04/Imagenes/Pasted image 20250306120850.png",
+    "Lab_04/Imagenes/Pasted image 20250306120612.png",
+    "Lab_04/Máquina de estados.md",
+    "Lab_04/Descripción del lab a realizar.md",
+    "Lab_04/Pasted image 20250306121641.png",
+    "Lab_04/Pasted image 20250306121540.png",
+    "Lab_04/Pasted image 20250306121331.png",
+    "Lab_04/Imagenes",
+    "Lab_04/Nueva carpeta",
+    "Lab_04/Lab_4/Máquina de estados.md",
+    "Lab_04/Lab_4/Descripción del lab a realizar.md",
+    "Lab_04/Lab_4",
+    "Lab_03/Conversión ADC.md",
+    "Lab_03/Descripción de laboratorio.md",
+    "Lab_03/Código de la FPGA.md",
     "Lab_02/README.md",
-    "Lab_02/Imagenes/Ladder_set1.png",
-    "Lab_02/Imagenes/karn_is.png",
-    "Lab_02/Imagenes/karn_ird.png",
-    "Lab_02/Imagenes/karn_ibb.png",
-    "Lab_02/Imagenes/karn_energia.png",
-    "Lab_02/Imagenes/karn_1s.png",
-    "Lab_02/Imagenes/karn_1s 1.png",
-    "Lab_02/Imagenes/karn_1r.png",
-    "Lab_02/Imagenes/karn_1b.png",
-    "Lab_02/Imagenes/ecu_is.png",
+    "Lab_03/Imagenes",
+    "Lab_04",
+    "Lab_03",
+    "Proyecto/Final_3/build/top.bin",
+    "Proyecto/Final_3/build/top.json",
+    "Proyecto/Final_3/build/top.asc",
+    "Proyecto/Final_3/top.v",
+    "Lab_02/6. Síntesis den FPGA.md",
     "Lab_02/5. Descripción en lenguaje HDL.md",
     "Lab_02/4. Dominio estructural.md",
     "Lab_02/1. Dominio comportamental (especificación y algoritmo).md",
@@ -196,29 +218,12 @@
     "Lab_02/README_Secundario.md",
     "Lab_02/README DEFINITIVO.md",
     "Lab_01/1_Marco_Teórico/Parte 2_Teoría Fan in, Fan out y disipación de potencia.md",
-    "Lab_02/Imagenes",
-    "Lab_02/Digital_Simulator/CircuitoFinal_NAND.v",
-    "Lab_02/Digital_Simulator/CircuitoFinal_NAND.dig",
-    "Lab_02/Digital_Simulator/CircuitoFinal_Coninversores.dig",
-    "Lab_02/Digital_Simulator",
-    "Lab_01/Imagenes",
     "Lab_01/Caracterizacion.md",
     "Lab_01/SN70LS04/2_Simulacion.md",
     "Lab_01/README.md",
     "Lab_02/1. Dominio Comportamental.md",
     "Lab_01/SN70LS04/Parte2_SN70LS04.md",
     "Lab_01/SN70LS04/Parte1_SN70LS04.md",
-    "Lab_01/SN70LS04/1_Preparacion.md",
-    "Lab_01/CD4069/SPICE/SImulacion2.asc",
-    "Lab_01/CD4069/SPICE/Simulacion1.asc",
-    "Lab_01/CD4069/SPICE",
-    "Lab_01/CD4069/README.md",
-    "Lab_01/CD4069/Parte3_Oscilador.md",
-    "Lab_01/CD4069/Parte2_CD4069.md",
-    "Lab_01/CD4069/Parte1_CD4069.md",
-    "Lab_01/CD4069/Imagenes",
-    "Lab_01/CD4069/2_Simulacion.md",
-    "Lab_01/CD4069/1_Preparacion.md",
-    "Lab_01/1_Marco_Teórico/Parte 3_Teoría Oscilador.md"
+    "Lab_01/SN70LS04/1_Preparacion.md"
   ]
 }
