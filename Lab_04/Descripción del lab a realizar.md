@@ -18,5 +18,7 @@ Asi mismo, se muestran videos del funcionamiento. El primero refleja usando leds
 
 ![](https://youtu.be/bNidXW4C4l0)
 
+Y finalmente el siguiente video presenta como imprime el LCD en video, con el problemática de que no se habia ajustado el contraste correctamente: 
 
+![](https://youtube.com/shorts/Afhk645dET0)
 
