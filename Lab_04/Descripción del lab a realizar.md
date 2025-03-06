@@ -10,9 +10,9 @@ Se escoge emplear una máquina de estados en los módulos de **line_write** y **
 
 A continuacion se presenta el funcionamiento practico del modulo:
 
-![](Imagenes/Pasted%20image%2020250306174801.png)
+![](Imagenes/Pasted_image_20250306174801.png)
 
-![](../Pasted%20image%2020250306174825.png)
+![](Imagenes/Pasted_image_20250306174825.png)
 
 Asi mismo, se muestran videos del funcionamiento. El primero refleja usando leds, los diferentes cambios en cada pin que permitiran la correcta configuracion del LCD:
 
