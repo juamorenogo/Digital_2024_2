@@ -25,12 +25,14 @@
             "id": "195482d7ee589389",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Lab_04/Imagenes/Pasted_image_20250306174801.png"
+                "file": "Lab_03/Conversión ADC.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted_image_20250306174801"
+              "icon": "lucide-file",
+              "title": "Conversión ADC"
             }
           }
         ],
@@ -153,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_04/Imagenes/Pasted_image_20250306174801.png",
+                "file": "Lab_03/Conversión ADC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted_image_20250306174801"
+              "title": "Outline of Conversión ADC"
             }
           },
           {
@@ -192,12 +194,13 @@
   },
   "active": "6dc1bdc53ac2df97",
   "lastOpenFiles": [
+    "Pasted_image_20250306180325.png",
+    "Lab_03/Descripción de laboratorio.md",
+    "Lab_04/Imagenes/Pasted_image_20250306174801.png",
     "Lab_04/Imagenes/Pasted_image_20250306174825.png",
     "Lab_03/Conversión ADC.md",
     "Lab_03/Diseño analógico.md",
-    "Lab_03/Descripción de laboratorio.md",
     "Lab_04/Descripción del lab a realizar.md",
-    "Lab_04/Imagenes/Pasted_image_20250306174801.png",
     "Lab_04/Máquina de estados.md",
     "Lab_03/Código de la FPGA.md",
     "Lab_03/Imagenes/Pasted_image_20250306110733.png",
