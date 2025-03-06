@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab_04/README.md",
+                "file": "Lab_03/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_04/README.md",
+                "file": "Lab_03/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -192,11 +192,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6dc1bdc53ac2df97",
+  "active": "195482d7ee589389",
   "lastOpenFiles": [
+    "Lab_03/Conversión ADC.md",
+    "Lab_03/Código de la FPGA.md",
+    "Lab_04/README.md",
     "Lab_04/Imagenes/RTL.jpg",
     "Lab_04/Máquina de estados.md",
-    "Lab_04/README.md",
     "Lab_03/Diseño analógico.md",
     "Lab_03/Imagenes/Pasted image 20250306180849.png",
     "Lab_03/Imagenes/Pasted image 20250306180807.png",
@@ -207,10 +209,7 @@
     "Lab_03/Imagenes/Pasted_image_20250306112653.png",
     "Lab_03/Imagenes/Pasted_image_20250306112352.png",
     "Lab_03/Imagenes/Pasted_image_20250306112226.png",
-    "Lab_03/Imagenes/Pasted_image_20250306111714.png",
-    "Lab_03/Conversión ADC.md",
-    "Lab_03/Descripción de laboratorio.md",
-    "Lab_03/Código de la FPGA.md",
+    "Lab_03/README.md",
     "Lab_04/Imagenes",
     "Lab_04/Nueva carpeta",
     "Lab_04/Lab_4/Máquina de estados.md",
