@@ -1,0 +1,20 @@
+ ## PCF pruebas LCD
+
+# Digital Dn
+set_io D0 106
+set_io D1 105
+set_io D2 101
+set_io D3 99
+set_io D4 104
+set_io D5 102 
+set_io D6 49
+set_io D7 52
+
+# Pines Funcionamiento
+set_io RS 22
+#set_io RW 25
+set_io E 26
+
+#Clock
+set_io clk 60
+
