@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab_03/Descripción de laboratorio.md",
+                "file": "Lab_04/Máquina de estados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Descripción de laboratorio"
+              "title": "Máquina de estados"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_03/Descripción de laboratorio.md",
+                "file": "Lab_04/Máquina de estados.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Descripción de laboratorio"
+              "title": "Outline of Máquina de estados"
             }
           },
           {
@@ -179,26 +179,26 @@
   },
   "active": "6c3d9a7e9750227c",
   "lastOpenFiles": [
+    "Lab_04/Descripción del lab a realizar.md",
+    "Lab_03/Descripción de laboratorio.md",
     "Lab_03/Conversión ADC.md",
     "Lab_03/Código de la FPGA.md",
     "Lab_03/Imagenes/Pasted_image_20250306110733.png",
-    "Lab_04/Imagenes/Imagen de WhatsApp 2025-02-17 a las 11.20.25_5ed9bbd6.jpg",
-    "Lab_04/Imagenes/Pasted image 20250306121641.png",
-    "Lab_04/Imagenes/Pasted image 20250306121540.png",
-    "Lab_04/Imagenes/Pasted image 20250306121331.png",
-    "Lab_04/Imagenes/Pasted image 20250306120943.png",
-    "Lab_04/Imagenes/Pasted image 20250306120927.png",
-    "Lab_04/Imagenes/Pasted image 20250306120850.png",
-    "Lab_04/Imagenes/Pasted image 20250306120612.png",
+    "Lab_04/Imagenes/Imagen_de_WhatsApp.jpg",
+    "Lab_04/Imagenes/Pasted_image_20250306121641.png",
+    "Lab_04/Imagenes/Pasted_image_20250306121540.png",
+    "Lab_04/Imagenes/Pasted_image_20250306121331.png",
+    "Lab_04/Imagenes/Pasted_image_20250306120943.png",
+    "Lab_04/Imagenes/Pasted_image_20250306120927.png",
+    "Lab_04/Imagenes/Pasted_image_20250306120850.png",
+    "Lab_04/Imagenes/Pasted_image_20250306120612.png",
     "Lab_04/Máquina de estados.md",
-    "Lab_04/Descripción del lab a realizar.md",
     "Lab_04/Pasted image 20250306121641.png",
     "Lab_04/Imagenes",
     "Lab_04/Nueva carpeta",
     "Lab_04/Lab_4/Máquina de estados.md",
     "Lab_04/Lab_4/Descripción del lab a realizar.md",
     "Lab_04/Lab_4",
-    "Lab_03/Descripción de laboratorio.md",
     "Lab_02/README.md",
     "Lab_03/Imagenes",
     "Lab_04",
