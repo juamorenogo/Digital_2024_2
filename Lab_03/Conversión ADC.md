@@ -1,4 +1,4 @@
-![[Pasted image 20250306114408.png]]
+![[Imagenes/Pasted_image_20250306114408.png]]
 
 La etapa analógica (cuya entrada es la señal que varía de 0V a 5.2V) entra por la entrada IN3. Para esto, se indica por medio de los pines ADD A, ADD B y ADD C que esta entrada, colocándolos respectivamente en L, H, H. 
 
