@@ -27,3 +27,6 @@ https://youtu.be/bNidXW4C4l0
 Se dispone a continuacion el diagrama RTL generado usando el codigo:
 
 ![](Imagenes/RTL.jpg)
+
+
+Adicionalmente se crea un código de generación de ticks que en general se trata simplemente de un divisor de frecuencia para poder generar los valores temporales necesarios para la configuración de la LCD.

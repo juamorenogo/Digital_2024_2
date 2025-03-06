@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab_03/README.md",
+                "file": "Lab_04/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_03/README.md",
+                "file": "Lab_04/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -194,11 +194,18 @@
   },
   "active": "195482d7ee589389",
   "lastOpenFiles": [
+    "Lab_04/Máquina de estados.md",
+    "Lab_03/README.md",
+    "Lab_04/Codigo Fuente/ticks_generator.v",
+    "Lab_04/Codigo Fuente/Makefile",
+    "Lab_04/Codigo Fuente/LCD_tb.v",
+    "Lab_04/Codigo Fuente/LCD.v",
+    "Lab_04/Codigo Fuente",
+    "Lab_04/Nueva carpeta",
     "Lab_03/Conversión ADC.md",
     "Lab_03/Código de la FPGA.md",
     "Lab_04/README.md",
     "Lab_04/Imagenes/RTL.jpg",
-    "Lab_04/Máquina de estados.md",
     "Lab_03/Diseño analógico.md",
     "Lab_03/Imagenes/Pasted image 20250306180849.png",
     "Lab_03/Imagenes/Pasted image 20250306180807.png",
@@ -209,20 +216,13 @@
     "Lab_03/Imagenes/Pasted_image_20250306112653.png",
     "Lab_03/Imagenes/Pasted_image_20250306112352.png",
     "Lab_03/Imagenes/Pasted_image_20250306112226.png",
-    "Lab_03/README.md",
     "Lab_04/Imagenes",
-    "Lab_04/Nueva carpeta",
     "Lab_04/Lab_4/Máquina de estados.md",
     "Lab_04/Lab_4/Descripción del lab a realizar.md",
     "Lab_04/Lab_4",
     "Lab_02/README.md",
     "Lab_03/Imagenes",
     "Lab_04",
-    "Lab_03",
-    "Proyecto/Final_3/build/top.bin",
-    "Proyecto/Final_3/build/top.json",
-    "Proyecto/Final_3/build/top.asc",
-    "Proyecto/Final_3/top.v",
     "Lab_02/6. Síntesis den FPGA.md",
     "Lab_02/5. Descripción en lenguaje HDL.md",
     "Lab_02/4. Dominio estructural.md",
