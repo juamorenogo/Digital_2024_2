@@ -1,6 +1,6 @@
 Inicialmente se supuse que seria necesario usar un convertidor lógico CMOS  a TTL, no obstante, se logro comprobar que no era necesario debido a que todos los pines necesarios a excepción del clock podían ser fijos, por lo que, solo era necesario conectarlos a la alimentación del integrado:
 
-![](../Pasted_image_20250306180325.png)
+![](Imagenes/Pasted_image_20250306180325.png)
 
 Ahora se presenta el esquemático del integrado:
 

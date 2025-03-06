@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab_03/Conversión ADC.md",
+                "file": "Lab_03/Diseño analógico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conversión ADC"
+              "title": "Diseño analógico"
             }
           }
         ],
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_03/Conversión ADC.md",
+                "file": "Lab_03/Diseño analógico.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Conversión ADC"
+              "title": "Outline of Diseño analógico"
             }
           },
           {
@@ -194,23 +194,23 @@
   },
   "active": "6dc1bdc53ac2df97",
   "lastOpenFiles": [
-    "Pasted_image_20250306180325.png",
-    "Lab_03/Descripción de laboratorio.md",
-    "Lab_04/Imagenes/Pasted_image_20250306174801.png",
-    "Lab_04/Imagenes/Pasted_image_20250306174825.png",
-    "Lab_03/Conversión ADC.md",
+    "Lab_03/Imagenes/Pasted image 20250306180849.png",
+    "Lab_03/Imagenes/Pasted image 20250306180807.png",
+    "Lab_03/Imagenes/Pasted_image_20250306180325.png",
+    "Lab_03/Imagenes/Pasted_image_20250306114408.png",
+    "Lab_03/Imagenes/Pasted_image_20250306113148.png",
+    "Lab_03/Imagenes/Pasted_image_20250306112911.png",
+    "Lab_03/Imagenes/Pasted_image_20250306112653.png",
+    "Lab_03/Imagenes/Pasted_image_20250306112352.png",
+    "Lab_03/Imagenes/Pasted_image_20250306112226.png",
+    "Lab_03/Imagenes/Pasted_image_20250306111714.png",
+    "Lab_03/Imagenes/Pasted_image_20250306111154.png",
     "Lab_03/Diseño analógico.md",
+    "Lab_03/Conversión ADC.md",
+    "Lab_03/Descripción de laboratorio.md",
     "Lab_04/Descripción del lab a realizar.md",
     "Lab_04/Máquina de estados.md",
     "Lab_03/Código de la FPGA.md",
-    "Lab_03/Imagenes/Pasted_image_20250306110733.png",
-    "Lab_04/Imagenes/Imagen_de_WhatsApp.jpg",
-    "Lab_04/Imagenes/Pasted_image_20250306121641.png",
-    "Lab_04/Imagenes/Pasted_image_20250306121540.png",
-    "Lab_04/Imagenes/Pasted_image_20250306121331.png",
-    "Lab_04/Imagenes/Pasted_image_20250306120943.png",
-    "Lab_04/Imagenes/Pasted_image_20250306120927.png",
-    "Lab_04/Imagenes/Pasted_image_20250306120850.png",
     "Lab_04/Imagenes",
     "Lab_04/Nueva carpeta",
     "Lab_04/Lab_4/Máquina de estados.md",
