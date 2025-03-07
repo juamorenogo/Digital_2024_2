@@ -27,10 +27,13 @@ https://youtu.be/bNidXW4C4l0
 ![](https://youtu.be/bNidXW4C4l0)
 
 
+Y finalmente se adjunta el video de explicación del funcionamiento del modulo y la muestra de que el modulo cargado si cumple con su función:
+
+https://youtu.be/NbGsm1Sb04o
 
 ## RTL
 
-Se dispone a continuacion el diagrama RTL generado usando el codigo:
+Se dispone a continuación el diagrama RTL generado usando el codigo:
 
 ![](Imagenes/RTL.jpg)
 
