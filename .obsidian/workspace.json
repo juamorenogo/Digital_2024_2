@@ -192,8 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6dc1bdc53ac2df97",
+  "active": "195482d7ee589389",
   "lastOpenFiles": [
+    "Lab_04/Imagenes/fsm_lcd.png",
+    "Lab_04/Máquina de estados.md",
+    "Lab_04/README.md",
     "Proyecto/Muestra FInal/Muestra FInal/Morse_to_Ascii_TB/sim/morse_to_ascii_tb.vcd",
     "Proyecto/Muestra FInal/Muestra FInal/Morse_to_Ascii_TB/sim/morse_to_ascii_tb.vvp",
     "Proyecto/Muestra FInal/Muestra FInal/Morse_to_Ascii_TB/sim",
@@ -204,12 +207,9 @@
     "Proyecto/Muestra FInal/Muestra FInal/lsfr_keygen_TB/sim",
     "Proyecto/Muestra FInal/Muestra FInal/lsfr_keygen_TB/Makefile",
     "Proyecto/Muestra FInal/Muestra FInal/lsfr_keygen_TB/lfsr_keygen_tb.v",
-    "Proyecto/Muestra FInal/Muestra FInal/lsfr_keygen_TB/lfsr_keygen.v",
-    "Lab_04/Máquina de estados.md",
     "Lab_03/README.md",
     "Lab_03/Conversión ADC.md",
     "Lab_03/Código de la FPGA.md",
-    "Lab_04/README.md",
     "Lab_04/Imagenes/RTL.jpg",
     "Lab_03/Diseño analógico.md",
     "Lab_03/Imagenes/Pasted image 20250306180849.png",
