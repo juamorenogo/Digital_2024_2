@@ -1,3 +1,5 @@
+### Descripción general de la máquina de estados
+
 Se solicita hacer una máquina de estados que cumpla una función en el proyecto e implementarla en verilog para este. 
 
 Se muestra el diagrama de bloques para el proyecto:
