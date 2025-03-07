@@ -25,7 +25,7 @@ Se obtiene los logs de sintetizado del modulo. Se obtuvo los siguientes resultad
      SB_LUT4                       106
 ```
 
-No se genero ningún warning, todo el proceso de sintetizado se realizo de manera adecuada. Se adjunta en la carpeta de codigo fuente los resultados obtenidos.
+No se genero ningún warning, todo el proceso de sintetizado se realizo de manera adecuada. Se adjunta en la carpeta de código fuente los resultados obtenidos.
 
 Sin embargo, el test bench usado no fue del todo adecuado ya que genera la siguiente salida:
 
