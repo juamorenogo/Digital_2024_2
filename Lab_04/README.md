@@ -12,6 +12,8 @@ Se escoge emplear una máquina de estados en los módulos de **line_write** y **
 
 ![](Imagenes/fsm_lcd.png)
 
+Nótese que, en vez de reiniciar a un estado inicial (cíclico), llega a un estado final en el cual reposa. Esto se debe a la consecución lineal que, por suficiencia, se definió para el proyecto, ya que podría regresar en vez de esto a un estado IDLE en el cual esperara una entrada nueva, pero esto no es necesario para el proyecto.
+
 A continuación se presenta el funcionamiento practico del modulo:
 
 ![](Imagenes/Pasted_image_20250306174801.png)
