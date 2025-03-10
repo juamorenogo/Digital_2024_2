@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module ticks_generator (
+module ticks_generator_lcd (
     input clk,          // Señal de reloj
     input start,        // Señal de inicio (botón presionado)
     output reg [16:0] ticks  // Salida de los ticks generados

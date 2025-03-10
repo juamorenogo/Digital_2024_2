@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lab_04/Simulación.md",
+                "file": "Lab_03/Diseño analógico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Simulación"
+              "title": "Diseño analógico"
             }
           }
         ],
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab_04/Simulación.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Simulación"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -206,28 +206,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "253ea34c879a0f68",
+  "active": "6dc1bdc53ac2df97",
   "lastOpenFiles": [
-    "Lab_04/Codigo Fuente/nextpnr.log",
-    "Lab_04/Codigo Fuente/yosys.log",
-    "Lab_04/README.md",
-    "Lab_04/Simulación.md",
-    "Lab_04/Imagenes/fsm_lcd.png",
-    "Lab_04/Máquina de estados.md",
-    "Proyecto/Muestra FInal/Muestra FInal/Morse_to_Ascii_TB/sim/morse_to_ascii_tb.vcd",
-    "Proyecto/Muestra FInal/Muestra FInal/Morse_to_Ascii_TB/sim/morse_to_ascii_tb.vvp",
-    "Proyecto/Muestra FInal/Muestra FInal/Morse_to_Ascii_TB/sim",
-    "Proyecto/Muestra FInal/Muestra FInal/Morse_to_Ascii_TB/morse_to_ascii_tb.v",
-    "Proyecto/Muestra FInal/Muestra FInal/Morse_to_Ascii_TB/morse_to_ascii.v",
-    "Proyecto/Muestra FInal/Muestra FInal/Morse_to_Ascii_TB/Makefile",
-    "Proyecto/Muestra FInal/Muestra FInal/Morse_to_Ascii_TB",
-    "Proyecto/Muestra FInal/Muestra FInal/lsfr_keygen_TB/sim",
-    "Proyecto/Muestra FInal/Muestra FInal/lsfr_keygen_TB/Makefile",
-    "Lab_03/README.md",
+    "Proyecto/Implementacion Final/Codigo Fuente/ticks_generator_lcd.v",
+    "Proyecto/Implementacion Final/Codigo Fuente/ticks_generator.v",
+    "Proyecto/Implementacion Final/Codigo Fuente/Makefile",
+    "Proyecto/Implementacion Final/Codigo Fuente/final1.v",
+    "Proyecto/Implementacion Final/Codigo Fuente/final1.pcf",
+    "Proyecto/Implementacion Final/Codigo Fuente/Debouncer.v",
+    "Proyecto/Implementacion Final/Codigo Fuente",
+    "Proyecto/Implementacion Final/Nueva carpeta",
+    "Proyecto/Implementacion Final/Proyecto_Digital_Final.pdf",
+    "Proyecto/Implementacion Final",
+    "Lab_03/Diseño analógico.md",
+    "Untitled.md",
+    "Proyecto/otros_codigos/texto.txt",
     "Lab_03/Conversión ADC.md",
     "Lab_03/Código de la FPGA.md",
+    "Lab_03/README.md",
+    "Lab_04/Simulación.md",
+    "Lab_04/README.md",
+    "Lab_04/Imagenes/fsm_lcd.png",
+    "Lab_04/Máquina de estados.md",
     "Lab_04/Imagenes/RTL.jpg",
-    "Lab_03/Diseño analógico.md",
     "Lab_03/Imagenes/Pasted image 20250306180849.png",
     "Lab_03/Imagenes/Pasted image 20250306180807.png",
     "Lab_03/Imagenes/Pasted_image_20250306180325.png",
@@ -252,7 +253,6 @@
     "Lab_01/Caracterizacion.md",
     "Lab_01/SN70LS04/2_Simulacion.md",
     "Lab_01/README.md",
-    "Lab_02/1. Dominio Comportamental.md",
-    "Lab_01/SN70LS04/Parte2_SN70LS04.md"
+    "Lab_02/1. Dominio Comportamental.md"
   ]
 }

@@ -1,0 +1,50 @@
+#---------------------AWA CON MORSE------------------------------
+set_io ledshort 38
+set_io ledlong 37
+set_io lednull 32
+
+#-------BOTONES------------
+set_io -pullup yes button 136
+set_io -pullup yes del_button 137
+set_io -pullup yes fin_button 134
+set_io -pullup yes clear_button 135
+
+#---------------------CLK------------------------------
+#Clock
+set_io clk 60
+
+#--------------------LEDS PRUEBA------------------------
+set_io led_1 7
+set_io led_2 8
+
+set_io led_3 139
+set_io led_4 138
+set_io led_5 142
+set_io led_6 141
+
+set_io led_7 28
+set_io led_8 29
+set_io led_9 33
+set_io led_10 34
+
+#-----------------------------LCD------------------------
+## PCF pruebas LCD
+
+# Digital Dn
+set_io D0 106
+set_io D1 105
+set_io D2 101
+set_io D3 99
+set_io D4 104
+set_io D5 102 
+set_io D6 49
+set_io D7 52
+
+# Pines Funcionamiento
+set_io RS 22
+set_io RW 25
+set_io E 26
+
+#Uwu
+set_io show 4
+

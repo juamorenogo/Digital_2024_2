@@ -8,7 +8,7 @@ SOURCES := $(filter-out %_tb.v, $(FILES_MK))
 
 # Objetivos principales
 help: help-sim help-syn
-clean: clean-syn clean-sim clean-sim2
+clean: clean-syn clean-sim clean-sim2 clean_log
 
 # Nombre del módulo principal del diseño (puede pasarse como argumento: make top=nombregenerico)
 top ?= top
@@ -62,7 +62,7 @@ sim: clean-sim iverilog-compile vpp-simulate wave
 # Compilar diseño con Icarus Verilog
 iverilog-compile:
 	mkdir -p $(DIR_SIM)
-	iverilog $(MACROS_SIM) -o $(DIR_SIM)/$(top)_tb.vvp $(DESIGN) $(tb)
+	iverilog $(MACROS_SIM) -o $(DIR_SIM)/$(top)_tb.vvp $(SOURCES) $(tb)
 
 # Ejecutar la simulación con vvp
 vpp-simulate:
@@ -90,8 +90,8 @@ view-svg:
 	eog $(DIR_SIM)/$(top).svg
 
 json-sim:
-	mkdir -p $(DIR_SIM)
-	yosys $(MACROS_SIM) -p 'prep -top $(top); hierarchy -check; proc; write_json $(DIR_SIM)/$(top).json' $(DESIGN)
+	mkdir -p $(DIR_SIM)trash:/LCD_TB.zip
+	yosys $(MACROS_SIM) -p 'prep -top $(top); hierarchy -check; proc; write_json build/$(top).json' $(SOURCES)
 	
 # ======================
 # Reglas de síntesis
@@ -112,12 +112,13 @@ bitstream:$(BISTREAM)
 # Generar archivo JSON mediante Yosys
 $(JSON): $(DESIGN)
 	mkdir -p $(DIR_BUILD)
-	yosys $(MACRO_SYN) -p "synth_ice40 -top $(top) -json $(JSON)" $(SOURCES)
+	mkdir -p "logs"
+	yosys $(MACRO_SYN) -p "synth_ice40 -top $(top) -json $(JSON)" $(SOURCES) -l logs/yosys.log
 
 
 # Place & Route con nextpnr
 $(ASC):
-	nextpnr-ice40 --hx4k --package tq144 --json $(JSON) --pcf $(PCF) --asc $(ASC)
+	nextpnr-ice40 --hx4k --package tq144 --json $(JSON) --pcf $(PCF) --asc $(ASC) -l logs/nextpnr.log
 
 # Generar bitstream final con icepack
 $(BISTREAM): $(ASC)
@@ -154,3 +155,5 @@ sim2: clean-sim2
 clean-sim2:
 	rm -rf sim2
 
+clean_log:
+	rm -rf logs
