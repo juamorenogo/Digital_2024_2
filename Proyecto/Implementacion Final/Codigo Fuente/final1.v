@@ -39,6 +39,8 @@ assign RW= 1'b0;
 	reg [7:0] ascii;
 	reg [7:0] ciphered;
 	reg [7:0] key;
+	reg [7:0] lfsr;
+	reg feedback;
 	integer counter_index_save = -1;
 	
 	
@@ -148,6 +150,13 @@ assign RW= 1'b0;
 	
 
 	always @(posedge clk) begin
+  
+		 if (PB_down_del) begin
+        lfsr <= key;  // Reset LFSR with the base key
+        feedback <= lfsr[4] ^ lfsr[3]; //XOR de retroalimentación con bit 5 y 4.
+        lfsr <= {lfsr[6:0], feedback}; // Shift with feedback
+        key <= lfsr; // Update key output
+      end
 
 		if(PB_state & ~PB_down) begin // BOTON ABIERTO = 1
 			start_signal <= 1'b0;				
@@ -155,11 +164,8 @@ assign RW= 1'b0;
 			start_signal <= 1'b1;
 		end
 
-
 		if(PB_down_del) begin 			
 			letra <= {2'b00, letra[9:2]};
-
-
 
 			
 		end else if (PB_state_del & ~PB_down_del) begin               
